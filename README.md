@@ -1,6 +1,6 @@
 # saudi_used_cars_ml
 
-This project is aimed to predict the price of a used car in Saudi Arabia.
+This project is aimed to predict the price of a used car in Saudi Arabia./
 the data set is Saudi Used Cars Dataset, and the target is the price.
 
 ## Description and Data Dictionary:
