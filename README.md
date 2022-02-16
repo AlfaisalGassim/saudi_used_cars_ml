@@ -1,8 +1,3 @@
-# saudi_used_cars_ml
-
-
-## Description and Data Dictionary:
-
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -34,23 +29,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <!-- <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
-<h3 align="center">project_title</h3>
+<h2 align="center">Saudi Used Cars ML Project</h3>
 
   <p align="center">
-    project_description
+    This project is aimed to predict the price of a used car in Saudi Arabia.
+    <br />
+    The data set is Saudi Used Cars Dataset, and the target is the price.
     <br />
     <a href="https://github.com/AlfaisalGassim/saudi_used_cars_ml"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
@@ -66,19 +58,12 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#data-dictionary">Data Dictionary</a></li>
+    <li><a href="#exploratory-data-analysis">Exploratory Data Analysis (EDA)</a></li>
+    <li><a href="#data-cleaning">Data Cleaning</a></li>
+    <li><a href="#machine-learning">Machine Learning</a></li>
+    <li><a href="#contributors">Contributors</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -89,8 +74,6 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This project is aimed to predict the price of a used car in Saudi Arabia.\
-the data set is Saudi Used Cars Dataset, and the target is the price.
 
 The dataset contains records of used cars collected from **syarah.com**. Each row represents a used car with a link to its webpage. Other information regarding each car is the brand name, model, manufacturing year, origin, the color of the car, options, capacity of the engine, type of fuel, transmission type, the mileage that the car covered, region price, and negotiable.
 
@@ -100,29 +83,32 @@ The dataset contains records of used cars collected from **syarah.com**. Each ro
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://www.python.org/)
+* [Jupyter Notebook](https://jupyter.org/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Data Dictionary
+
+- **Make:** Car company'name
+- **Type:** Car type
+- **Year:** Production year
+- **Origin:** If  it from Saudi Arabia or Gulf countries or other
+- **Color:** Car color
+- **Options:** Full, Semi Full, Standard
+- **Engine_Size**
+- **Fule_Type:** Gas, Diesel, Hybrid
+- **Gear_Type:** Automatic, Manual
+- **Mileage:** the distance travel
+- **Region:** the region of the car
+- **Price:** price of the car
+- **Negotiable:** (True/False) if the price is negotiable
 
 
-
-### Prerequisites
-
-
-
-### Installation
 
 
 
@@ -130,8 +116,8 @@ The dataset contains records of used cars collected from **syarah.com**. Each ro
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+
+## Exploratory Data Analysis
 
 
 
@@ -140,7 +126,7 @@ The dataset contains records of used cars collected from **syarah.com**. Each ro
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Data Cleaning 
 
 
 
@@ -149,7 +135,7 @@ The dataset contains records of used cars collected from **syarah.com**. Each ro
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Machine Learning
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -157,7 +143,7 @@ The dataset contains records of used cars collected from **syarah.com**. Each ro
 
 
 <!-- LICENSE -->
-## License
+## Contributors
 
 
 
@@ -166,20 +152,9 @@ The dataset contains records of used cars collected from **syarah.com**. Each ro
 
 
 <!-- CONTACT -->
-## Contact
+## References 
 
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
