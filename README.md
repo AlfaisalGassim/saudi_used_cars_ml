@@ -55,7 +55,14 @@
     </li>
     <li><a href="#data-dictionary">Data Dictionary</a></li>
     <li><a href="#exploratory-data-analysis">Exploratory Data Analysis (EDA)</a></li>
+      <ul>
+        <li><a href="#issues">Issues</a></li>
+      </ul>
     <li><a href="#data-cleaning">Data Cleaning</a></li>
+      <ul>
+        <li><a href="#datatypes">DataTypes</a></li>
+        <li><a href="#quick-observations">Quick Observations</a></li>
+      </ul>
     <li><a href="#machine-learning">Machine Learning</a></li>
     <li><a href="#contributors">Contributors</a></li>
     <li><a href="#references">References</a></li>
@@ -114,22 +121,52 @@ The dataset contains records of used cars collected from **syarah.com**. Each ro
 
 ## Exploratory Data Analysis
 
+### DataTypes
+Data columns (total 14 columns):
+| #  |   Column    | Non-Null Count | Dtype   |
+| -- |  --------   |    --------    |-------- |
+| 0  | Unnamed: 0  | 6428 non-null  | int64   |
+| 1  | Make        | 6428 non-null  | object  |
+| 2  | Type        | 6428 non-null  | object  |
+| 3  | Year        | 6428 non-null  | int64   |
+| 4  | Origin      | 6428 non-null  | object  |
+| 5  | Color       | 6428 non-null  | object  |
+| 6  | Options     | 6428 non-null  | object  |
+| 7  | Engine_Size | 6428 non-null  | float64 |
+| 8  | Fuel_Type   | 6428 non-null  | object  |
+| 9  | Gear_Type   | 6428 non-null  | object  |
+| 10 | Mileage     | 6428 non-null  | int64   | 
+| 11 | Region      | 6428 non-null  | object  |
+| 12 | Price       | 6428 non-null  | int64   |
+| 13 | Negotiable  | 6428 non-null  | bool    |
 
+ 6428 entries
+ 
+ ### Quick Observations
+ 
+- The year of the used cars in our dataset are from 1964 until 2022, Wheras 75% of the cars were from 2018 and older.  
+- The engine size ranging between 1-litre and 9-litre.
+- The Mileage is started from 100 to 20000000.
+- The price ranging from 0 to 1150000. 
+ 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- ROADMAP -->
+
 ## Data Cleaning 
 
-
+### Issues:
+- Drop [Unnamed: 0] column  
+- Drop all the observations in [Price] column with the values (0 and 1)
+- Handle the outliers in the Mileage column
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- CONTRIBUTING -->
+
 ## Machine Learning
 
 
@@ -137,7 +174,6 @@ The dataset contains records of used cars collected from **syarah.com**. Each ro
 
 
 
-<!-- LICENSE -->
 ## Contributors
 
 * [Alfasial Alqahtani](https://github.com/AlfaisalGassim)
@@ -149,7 +185,7 @@ The dataset contains records of used cars collected from **syarah.com**. Each ro
 
 
 
-<!-- CONTACT -->
+
 ## References 
 
 * [GitHub README Template](https://github.com/othneildrew/Best-README-Template)
