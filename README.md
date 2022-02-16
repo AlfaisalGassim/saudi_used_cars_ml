@@ -145,7 +145,10 @@ The dataset contains records of used cars collected from **syarah.com**. Each ro
 <!-- LICENSE -->
 ## Contributors
 
-
+* [Alfasial Alqahtani](https://github.com/AlfaisalGassim)
+* [Fatema Buhuligah](https://github.com/Ifatema)
+* [Sarah Alharbi](https://github.com/SarahAA1)
+* [Saleh Alabbas](https://github.com/Saleh-Alabbas)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -154,7 +157,7 @@ The dataset contains records of used cars collected from **syarah.com**. Each ro
 <!-- CONTACT -->
 ## References 
 
-
+* [GitHub README Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
