@@ -1,847 +1,846 @@
 Make,Type,Year,Origin,Color,Options,Engine_Size,Fuel_Type,Gear_Type,Mileage,Region,Price,Negotiable,Manu_Country
-Toyota,FJ,2012,Saudi,Black,Full,4.0,Gas,Automatic,35000,Riyadh,70000,False,Japan
-Ford,Explorer,2016,Other,White,Full,3.5,Gas,Automatic,128644,Riyadh,118000,False,America
-Toyota,Innova,2017,Saudi,Black,Full,2.7,Gas,Automatic,247000,Jeddah,55000,False,Japan
-Volkswagen,Tiguan,2012,Unknown,Navy,Full,2.0,Gas,Automatic,170000,Jeddah,21000,False,Germany
-Hyundai,Sonata,2019,Saudi,Grey,Standard,2.4,Gas,Automatic,113057,Riyadh,62500,False,South Korea
+Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,19190,Jeddah,55000,False,Japan
+Ford,Expedition,2009,Saudi,Grey,Standard,5.4,Gas,Automatic,318500,Riyadh,24500,False,America
 Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,65000,Riyadh,30000,False,South Korea
 BMW,The 6,2013,Saudi,Black,Full,3.0,Gas,Automatic,108000,Dammam,120000,False,Germany
-Chevrolet,Aveo,2008,Saudi,Blue,Semi Full,1.6,Gas,Manual,30000,Jeddah,4500,False,America
-Mercedes,S,2011,Saudi,White,Full,3.8,Gas,Automatic,203000,Al-Medina,98000,False,Germany
-Toyota,Hilux,2020,Saudi,White,Full,2.4,Diesel,Manual,24000,Riyadh,120000,False,Japan
-Toyota,Ciocca,2016,Saudi,White,Semi Full,5.7,Gas,Automatic,390,Al-Medina,90000,False,Japan
-Ford,Marquis,2009,Other,Silver,Semi Full,4.6,Gas,Automatic,260,Riyadh,22000,False,America
+Ford,F150,2016,Gulf Arabic,White,Semi Full,5.0,Gas,Automatic,115000,Qassim,93000,False,America
+Toyota,Furniture,2015,Saudi,White,Full,2.7,Gas,Automatic,209,Riyadh,72000,False,Japan
+Toyota,FJ,2016,Saudi,White,Full,4.0,Gas,Automatic,193000,Dammam,110000,False,Japan
+Hyundai,Accent,2018,Saudi,Silver,Standard,1.4,Gas,Automatic,69000,Riyadh,35000,False,South Korea
 Toyota,Corolla,2016,Saudi,Silver,Full,1.6,Gas,Automatic,86500,Al-Ahsa,48000,False,Japan
-Toyota,Corolla,2015,Saudi,Silver,Standard,1.6,Gas,Automatic,176277,Dammam,37000,False,Japan
+Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,92000,Jeddah,28500,False,Japan
 Cadillac,CT-S,2010,Saudi,Another Color,Full,3.6,Gas,Automatic,240000,Riyadh,32000,False,America
-Dodge,Charger,2021,Gulf Arabic,Grey,Standard,3.5,Gas,Automatic,1700,Makkah,110000,False,America
-Toyota,Furniture,2013,Saudi,Golden,Standard,2.7,Gas,Automatic,350000,Riyadh,50000,False,Japan
-Chevrolet,Tahoe,2016,Saudi,Silver,Standard,5.2,Gas,Automatic,144000,Al-Ahsa,112000,False,America
-GMC,Acadia,2008,Saudi,Grey,Full,3.6,Gas,Automatic,229000,Jeddah,19000,False,America
+Ford,Taurus,2017,Saudi,White,Semi Full,2.5,Gas,Automatic,116000,Qassim,75000,False,America
+Ford,Victoria,2011,Other,Blue,Semi Full,4.6,Gas,Automatic,230,Al-Ahsa,28000,False,America
+Mitsubishi,Pajero,2018,Gulf Arabic,Golden,Full,3.5,Gas,Automatic,56000,Riyadh,76000,False,Japan
+Toyota,Camry,2017,Saudi,Another Color,Full,2.5,Gas,Automatic,61000,Riyadh,77000,False,Japan
+Toyota,Hilux,2014,Gulf Arabic,White,Full,2.4,Gas,Manual,290000,Riyadh,40000,False,Japan
 Honda,CRV,2014,Saudi,Red,Semi Full,2.4,Gas,Automatic,160000,Makkah,50000,False,Japan
-Jeep,Liberty,2012,Saudi,Black,Full,3.7,Gas,Automatic,128000,Riyadh,25000,False,America
-Toyota,Yaris,2016,Saudi,White,Standard,1.5,Gas,Automatic,133300,Dammam,26000,False,Japan
 GMC,Yukon,2014,Saudi,Bronze,Semi Full,5.3,Gas,Automatic,235000,Dammam,72000,False,America
-Toyota,Land Cruiser,2015,Gulf Arabic,White,Full,4.6,Gas,Automatic,280000,Dammam,140000,False,Japan
+Volkswagen,Tiguan,2019,Saudi,Grey,Full,2.0,Gas,Automatic,60000,Riyadh,114000,False,Germany
+Mazda,3,2015,Other,White,Standard,1.6,Gas,Automatic,74000,Jeddah,27000,False,Japan
+Toyota,Land Cruiser,2014,Gulf Arabic,White,Full,4.6,Gas,Automatic,325000,Riyadh,126000,False,Japan
 Volkswagen,Passat,2016,Saudi,Grey,Standard,2.5,Gas,Automatic,49000,Jeddah,49000,False,Germany
-Hyundai,Elantra,2020,Saudi,White,Standard,1.6,Gas,Automatic,16925,Riyadh,57500,False,South Korea
-Ford,Expedition,2017,Saudi,Another Color,Standard,3.5,Gas,Automatic,123000,Riyadh,85000,False,America
-Jaguar,F-Pace,2018,Saudi,White,Full,2.5,Gas,Automatic,70000,Jeddah,145000,False,England
-Nissan,VTC,2019,Other,White,Full,4.8,Gas,Automatic,39000,Abha,145000,False,Japan
+Chevrolet,Impala,2019,Saudi,Silver,Semi Full,3.6,Gas,Automatic,107000,Riyadh,73000,False,America
+Toyota,Prado,2012,Saudi,White,Full,4.0,Gas,Manual,199000,Al-Baha,73000,False,Japan
 Hyundai,Accent,2017,Saudi,White,Semi Full,1.6,Gas,Automatic,76938,Riyadh,30000,False,South Korea
 Toyota,Camry,2017,Saudi,Silver,Standard,2.5,Gas,Automatic,300000,Riyadh,45000,False,Japan
-Lexus,ES,2013,Saudi,Black,Full,3.6,Gas,Automatic,137000,Tabouk,90000,False,Japan
 Toyota,FJ,2014,Other,Oily,Full,4.0,Gas,Automatic,149000,Riyadh,75000,False,Japan
-Toyota,Camry,2017,Saudi,White,Standard,2.5,Gas,Automatic,109862,Riyadh,59500,False,Japan
-Chevrolet,Tahoe,2014,Saudi,Brown,Semi Full,5.3,Gas,Automatic,382000,Riyadh,60000,False,America
-Nissan,Altima,2018,Gulf Arabic,White,Semi Full,2.5,Gas,Automatic,78592,Qassim,64000,False,Japan
-GMC,Yukon,2011,Saudi,Black,Standard,5.3,Gas,Automatic,334000,Riyadh,51000,False,America
-Chevrolet,Caprice,2013,Other,Silver,Standard,6.0,Gas,Automatic,215,Abha,42000,False,America
-Toyota,Furniture,2019,Saudi,Grey,Full,3.0,Gas,Automatic,18448,Riyadh,130000,False,Japan
-Honda,Odyssey,2016,Saudi,Red,Full,6.0,Gas,Automatic,189000,Riyadh,57000,False,Japan
-Hyundai,Elantra,2020,Saudi,Grey,Standard,1.6,Gas,Automatic,24348,Riyadh,57500,False,South Korea
-Land Rover,Range Rover,2006,Saudi,Blue,Full,4.4,Gas,Automatic,289000,Riyadh,20000,False,England
+Toyota,Innova,2016,Saudi,White,Semi Full,2.7,Gas,Automatic,224000,Al-Medina,62000,False,Japan
 Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,50000,Jeddah,35000,False,Japan
-Ford,Taurus,2013,Saudi,White,Semi Full,3.5,Gas,Automatic,177000,Dammam,70000,False,America
+Hyundai,Azera,2011,Other,Grey,Semi Full,3.5,Gas,Automatic,447,Riyadh,21000,False,South Korea
+Mercedes,E,2017,Other,White,Full,2.0,Gas,Automatic,65000,Dammam,163000,False,Germany
+GMC,Sierra,2020,Saudi,Grey,Semi Full,5.3,Gas,Automatic,91000,Qassim,135000,False,America
+Toyota,Furniture,2019,Saudi,White,Standard,2.7,Gas,Automatic,113000,Riyadh,105000,False,Japan
+Toyota,Hilux,2016,Other,White,Full,2.7,Gas,Automatic,208,Hail,77000,False,Japan
 Toyota,Camry,2009,Saudi,White,Standard,2.5,Gas,Manual,350000,Jeddah,25000,False,Japan
-BMW,X,2011,Other,Black,Full,6.0,Gas,Automatic,160000,Riyadh,45000,False,Germany
-Ford,Expedition,2016,Saudi,White,Semi Full,5.4,Gas,Automatic,109000,Riyadh,72000,False,America
+Toyota,Hiace,2015,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,23000,Riyadh,49000,False,Japan
 Hyundai,Elantra,2019,Saudi,Navy,Standard,1.6,Gas,Automatic,101364,Riyadh,50500,False,South Korea
-Toyota,Camry,2019,Saudi,Black,Standard,2.5,Gas,Automatic,48000,Riyadh,80000,False,Japan
-Kia,Sportage,2020,Saudi,Navy,Full,1.6,Gas,Automatic,7688,Riyadh,67000,False,South Korea
+Nissan,Sentra,2016,Saudi,Silver,Standard,1.6,Gas,Automatic,96000,Riyadh,31000,False,Japan
+Lexus,ES,2019,Saudi,Silver,Full,2.5,Hybrid,Automatic,62000,Yanbu,195000,False,Japan
+Lexus,RX,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,59073,Riyadh,186500,False,Japan
+Lexus,ES,2018,Gulf Arabic,Golden,Semi Full,3.5,Gas,Automatic,28000,Riyadh,122000,False,Japan
+Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,92000,Jeddah,36000,False,South Korea
 Chevrolet,Tahoe,2010,Saudi,White,Full,2.7,Gas,Automatic,260000,Riyadh,65000,False,America
-Audi,A6,2015,Saudi,Silver,Full,3.0,Gas,Automatic,77000,Riyadh,75000,False,Germany
+Chevrolet,Tahoe,2017,Saudi,Grey,Standard,5.3,Gas,Automatic,136517,Jeddah,107000,False,America
+Hyundai,Senta fe,2016,Saudi,White,Standard,3.3,Gas,Automatic,199,Riyadh,1576,False,South Korea
+Hyundai,Sonata,2017,Saudi,White,Standard,2.4,Gas,Automatic,135000,Jeddah,45000,False,South Korea
 BMW,X,2012,Other,Grey,Full,3.0,Gas,Automatic,294000,Jeddah,45000,False,Germany
-Mazda,CX9,2020,Saudi,Grey,Full,2.5,Gas,Automatic,44001,Riyadh,144500,False,Japan
-Honda,City,2018,Gulf Arabic,White,Standard,1.5,Gas,Automatic,36000,Qassim,35000,False,Japan
-Hyundai,Sonata,2016,Gulf Arabic,White,Semi Full,2.0,Gas,Automatic,280000,Riyadh,34000,False,South Korea
-Toyota,Hilux,2013,Saudi,White,Semi Full,2.7,Gas,Manual,290,Tabouk,55000,False,Japan
-Hyundai,Elantra,2017,Saudi,White,Semi Full,2.0,Gas,Automatic,150000,Riyadh,40000,False,South Korea
+Toyota,Corolla,2018,Saudi,Brown,Standard,1.6,Gas,Automatic,55398,Riyadh,49000,False,Japan
+Lexus,LS,2011,Other,White,Full,4.6,Gas,Automatic,220,Jeddah,90000,False,Japan
+Toyota,Corolla,2015,Gulf Arabic,Blue,Full,1.6,Gas,Automatic,90000,Tabouk,45000,False,Japan
 Hyundai,Elantra,2019,Saudi,Silver,Standard,2.0,Gas,Automatic,22999,Riyadh,53000,False,South Korea
-BMW,The 7,2004,Saudi,Black,Full,6.6,Gas,Automatic,70000,Riyadh,49000,False,Germany
-Mercedes,S,2010,Saudi,Brown,Full,3.8,Gas,Automatic,114000,Al-Medina,88000,False,Germany
-Lexus,ES,2007,Other,Grey,Full,3.5,Gas,Automatic,196000,Jeddah,25000,False,Japan
+Hyundai,Senta fe,2013,Saudi,Bronze,Full,3.3,Gas,Automatic,237000,Riyadh,43000,False,South Korea
+Toyota,Ciocca,2009,Saudi,Grey,Full,5.7,Gas,Automatic,343000,Riyadh,60000,False,Japan
 Dodge,Charger,2015,Saudi,Red,Standard,3.6,Gas,Automatic,54300,Riyadh,63000,False,America
-Toyota,Furniture,2017,Saudi,White,Semi Full,2.7,Gas,Automatic,6000,Jeddah,85000,False,Japan
+Lexus,ES,2020,Saudi,White,Full,3.5,Gas,Automatic,33000,Riyadh,210000,False,Japan
+Toyota,Innova,2017,Saudi,White,Standard,2.7,Gas,Automatic,135000,Jeddah,58000,False,Japan
 Kia,Cerato,2016,Other,Grey,Semi Full,1.6,Diesel,Automatic,88000,Qassim,44000,False,South Korea
-Ford,Taurus,2010,Saudi,Grey,Semi Full,4.4,Gas,Automatic,10000,Al-Namas,25000,False,America
+Honda,Accord,2015,Saudi,Red,Full,1.5,Gas,Automatic,137000,Dammam,68000,False,Japan
 Nissan,VTC,1998,Saudi,Another Color,Standard,4.0,Gas,Manual,415000,Dammam,21000,False,Japan
-Kia,Cadenza,2018,Saudi,Navy,Full,3.3,Gas,Automatic,148884,Riyadh,65000,False,South Korea
-MG,ZS,2021,Saudi,Blue,Standard,1.5,Gas,Automatic,600,Dammam,51000,False,England
-GMC,Sierra,2014,Other,Brown,Full,5.3,Gas,Automatic,235,Najran,72000,False,America
+Kia,Cores,2005,Saudi,White,Standard,4.0,Gas,Manual,400,Makkah,10000,False,South Korea
+Toyota,Land Cruiser Pickup,2015,Saudi,Another Color,Full,4.0,Gas,Manual,203843,Riyadh,90000,False,Japan
+Lexus,LX,2012,Saudi,White,Full,5.7,Gas,Automatic,147000,Riyadh,170000,False,Japan
+Hyundai,Sonata,2019,Saudi,Silver,Full,2.4,Gas,Automatic,5400,Riyadh,78000,False,South Korea
+Nissan,Navara,2016,Saudi,White,Standard,2.5,Gas,Manual,132714,Riyadh,41500,False,Japan
 Fiat,500,2020,Saudi,Navy,Full,1.4,Gas,Automatic,7000,Riyadh,75000,False,Italy
+Toyota,Yaris,2016,Saudi,Grey,Semi Full,1.5,Gas,Automatic,9800,Dammam,32000,False,Japan
 Ford,Taurus,2015,Other,Grey,Full,3.5,Gas,Automatic,92000,Dammam,72000,False,America
 Chevrolet,Camaro,2018,Other,Silver,Full,3.6,Gas,Automatic,89000,Dammam,109000,False,America
-Toyota,Camry,2015,Gulf Arabic,White,Standard,2.4,Gas,Automatic,161000,Dammam,55000,False,Japan
-Chevrolet,Tahoe,2019,Gulf Arabic,White,Semi Full,5.3,Gas,Automatic,32300,Aseer,168000,False,America
-Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,88288,Riyadh,51500,False,Japan
-Ford,Edge,2017,Saudi,Black,Semi Full,3.5,Gas,Automatic,92000,Riyadh,81000,False,America
 Hyundai,Elantra,2017,Saudi,Silver,Standard,2.0,Gas,Automatic,126009,Riyadh,40500,False,South Korea
+Mercedes,C,2016,Saudi,Silver,Semi Full,2.0,Gas,Automatic,140000,Dammam,105000,False,Germany
 Hyundai,Accent,2017,Saudi,Grey,Standard,1.4,Gas,Automatic,158000,Dammam,29000,False,South Korea
-Dodge,Durango,2013,Other,Black,Full,5.7,Gas,Automatic,275000,Tabouk,40000,False,America
-Toyota,Corolla,2020,Saudi,Silver,Semi Full,1.6,Gas,Automatic,11000,Riyadh,63000,False,Japan
-Ford,Expedition,2012,Saudi,Grey,Semi Full,5.4,Gas,Automatic,266007,Riyadh,49500,False,America
-Mazda,6,2017,Saudi,Silver,Standard,2.5,Gas,Automatic,175000,Dammam,50000,False,Japan
-Mitsubishi,Pajero,2015,Saudi,Brown,Semi Full,3.5,Gas,Automatic,99000,Al-Ahsa,55000,False,Japan
+Hyundai,Accent,2019,Saudi,Blue,Standard,1.4,Gas,Automatic,7000,Dammam,42500,False,South Korea
 Toyota,Camry,2007,Gulf Arabic,Silver,Full,2.4,Gas,Manual,450,Tabouk,16500,False,Japan
-Volkswagen,CC,2014,Saudi,Brown,Full,2.0,Gas,Automatic,163672,Riyadh,55000,False,Germany
-Toyota,Hilux,2018,Saudi,White,Full,2.7,Gas,Manual,71000,Al-Medina,62000,False,Japan
-GMC,Suburban,1994,Saudi,Blue,Semi Full,5.7,Gas,Automatic,357624,Al-Medina,15000,False,America
+Lexus,LX,2014,Saudi,Grey,Full,5.7,Gas,Automatic,150000,Dammam,190000,False,Japan
 GMC,Sierra,2016,Saudi,Silver,Semi Full,6.0,Gas,Automatic,450000,Dammam,71000,False,America
+Ford,Taurus,2016,Other,Black,Full,3.5,Gas,Automatic,110000,Dammam,75000,False,America
+Toyota,Hilux,2014,Saudi,White,Full,2.7,Gas,Manual,221000,Riyadh,70000,False,Japan
+Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,52000,Dammam,51000,False,Japan
 Hyundai,Senta fe,2018,Saudi,White,Semi Full,3.3,Gas,Automatic,84000,Dammam,75000,False,South Korea
+Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,88795,Riyadh,26500,False,Japan
+Lexus,ES,2011,Saudi,Another Color,Full,3.5,Gas,Automatic,282000,Jeddah,53000,False,Japan
 GMC,Suburban,2004,Saudi,Bronze,Semi Full,5.3,Gas,Automatic,111878,Al-Ahsa,15000,False,America
-GMC,Suburban,2016,Gulf Arabic,Another Color,Standard,5.3,Gas,Automatic,98000,Riyadh,140000,False,America
-Toyota,Hilux,2021,Saudi,White,Full,2.4,Diesel,Automatic,4000,Riyadh,158500,False,Japan
-Honda,Accord,2016,Saudi,White,Full,3.5,Gas,Automatic,183000,Al-Ahsa,67000,False,Japan
-Hyundai,Elantra,2019,Saudi,White,Standard,1.6,Gas,Automatic,64788,Riyadh,55500,False,South Korea
-Peugeot,5008,2012,Saudi,Red,Standard,1.6,Gas,Automatic,12000,Riyadh,27000,False,France
-Hyundai,Sonata,2019,Saudi,White,Standard,2.4,Gas,Automatic,94000,Riyadh,58500,False,South Korea
-Ford,Edge,2011,Other,Black,Semi Full,3.5,Gas,Automatic,260,Jeddah,26000,False,America
-Nissan,Sunny,2018,Saudi,Silver,Standard,1.5,Gas,Automatic,124758,Riyadh,24000,False,Japan
-GMC,Sierra,2016,Saudi,Brown,Full,5.3,Gas,Automatic,161,Jeddah,80000,False,America
-Hyundai,Tucson,2020,Saudi,Brown,Semi Full,2.0,Gas,Automatic,44000,Riyadh,64000,False,South Korea
-Nissan,Sunny,2019,Saudi,Grey,Standard,1.5,Gas,Automatic,85093,Riyadh,29500,False,Japan
-Kia,Optima,2014,Saudi,White,Semi Full,2.0,Gas,Automatic,241000,Dammam,35000,False,South Korea
+Honda,Odyssey,2010,Saudi,Bronze,Full,3.5,Gas,Automatic,260000,Riyadh,33000,False,Japan
+Ford,Taurus,2017,Saudi,Another Color,Standard,3.5,Gas,Automatic,153889,Dammam,68000,False,America
+Toyota,Camry,2017,Saudi,White,Full,2.5,Gas,Automatic,135000,Dammam,73000,False,Japan
+Toyota,Hilux,2013,Saudi,White,Full,2.7,Gas,Manual,186,Al-Namas,70000,False,Japan
+Nissan,Land Cruiser Pickup,2012,Saudi,Golden,Full,4.8,Gas,Manual,339822,Riyadh,40000,False,Japan
+Toyota,Corolla,2016,Saudi,White,Standard,1.6,Gas,Automatic,76294,Riyadh,45500,False,Japan
+Chevrolet,Caprice,2013,Saudi,Black,Semi Full,6.0,Gas,Automatic,325000,Riyadh,53000,False,America
+Toyota,Camry,2016,Gulf Arabic,White,Standard,2.5,Gas,Automatic,116987,Qassim,58000,False,Japan
+Honda,Accord,2008,Saudi,White,Standard,2.4,Gas,Automatic,17700,Jeddah,28000,False,Japan
+Hyundai,Sonata,2020,Saudi,White,Full,2.5,Gas,Automatic,11000,Makkah,110000,False,South Korea
+Toyota,Land Cruiser 70,2012,Saudi,Another Color,Standard,4.0,Gas,Manual,94000,Riyadh,95000,False,Japan
+GMC,Sierra,2017,Gulf Arabic,Black,Full,5.3,Gas,Automatic,108000,Riyadh,95000,False,America
+Toyota,Camry,2017,Saudi,Grey,Standard,2.5,Gas,Automatic,102637,Dammam,62500,False,Japan
+Audi,A8,2014,Saudi,Grey,Semi Full,3.0,Gas,Automatic,160,Riyadh,90000,False,Germany
 Hyundai,Elantra,2019,Saudi,Grey,Standard,1.6,Gas,Automatic,106787,Riyadh,48500,False,South Korea
-INFINITI,FX,2012,Gulf Arabic,Black,Full,5.3,Gas,Automatic,235000,Jeddah,59500,False,Japan
-Hyundai,Senta fe,2020,Saudi,Grey,Standard,2.4,Gas,Automatic,93000,Riyadh,82000,False,South Korea
-Chevrolet,Impala,2018,Saudi,Black,Semi Full,3.6,Gas,Automatic,35000,Taef,85000,False,America
 Chevrolet,Cruze,2013,Saudi,White,Standard,1.8,Gas,Automatic,120000,Makkah,18000,False,America
-Chrysler,C300,2018,Saudi,White,Full,5.7,Gas,Automatic,65000,Riyadh,123000,False,America
-Toyota,Land Cruiser,2015,Saudi,White,Full,4.6,Gas,Automatic,83000,Dammam,160000,False,Japan
-Chevrolet,Impala,2019,Gulf Arabic,Grey,Standard,3.6,Gas,Automatic,100200,Riyadh,75000,False,America
-Ford,Expedition,2008,Saudi,Blue,Semi Full,5.4,Gas,Automatic,346000,Dammam,27000,False,America
-Lexus,ES,2017,Gulf Arabic,White,Semi Full,3.0,Gas,Automatic,82000,Riyadh,110000,False,Japan
-Chevrolet,Caprice,2010,Saudi,Silver,Standard,3.6,Gas,Automatic,283000,Riyadh,33000,False,America
-Chevrolet,Spark,2017,Saudi,White,Standard,1.4,Gas,Automatic,101000,Riyadh,21000,False,America
-Hyundai,Sonata,2016,Saudi,White,Standard,2.4,Gas,Automatic,159000,Riyadh,38000,False,South Korea
-Ford,Taurus,2016,Saudi,Another Color,Standard,3.5,Gas,Automatic,136000,Riyadh,58000,False,America
-Renault,Duster,2017,Saudi,Navy,Full,2.0,Gas,Automatic,106000,Al-Ahsa,1128,False,France
+Cadillac,Escalade,2004,Saudi,White,Full,6.0,Gas,Automatic,300000,Riyadh,30000,False,America
+Toyota,Rav4,2014,Saudi,Black,Full,2.5,Gas,Automatic,155,Riyadh,55000,False,Japan
+Ford,Taurus,2017,Saudi,Another Color,Semi Full,3.5,Gas,Automatic,72000,Dammam,65000,False,America
+Hyundai,Tucson,2018,Saudi,Grey,Semi Full,2.0,Gas,Automatic,60000,Jeddah,70000,False,South Korea
+Toyota,Prado,2016,Gulf Arabic,White,Full,4.0,Gas,Automatic,168000,Riyadh,109000,False,Japan
+Chevrolet,Tahoe,2010,Saudi,Black,Full,5.3,Gas,Automatic,250000,Jeddah,55000,False,America
+Suzuki,Ertiga,2015,Saudi,White,Semi Full,1.8,Gas,Automatic,168000,Al-Medina,22000,False,Japan
+Toyota,Camry,2017,Saudi,White,Standard,2.5,Gas,Automatic,240000,Jeddah,41000,False,Japan
+Chevrolet,Caprice,2013,Saudi,White,Standard,6.0,Gas,Automatic,266000,Riyadh,37000,False,America
+Changan,CS35,2021,Saudi,Grey,Full,1.6,Gas,Automatic,5000,Riyadh,44000,False,China
+Ford,Taurus,2018,Other,White,Semi Full,3.5,Gas,Automatic,75000,Dammam,96000,False,America
+Toyota,Corolla,2016,Saudi,Silver,Standard,1.6,Gas,Automatic,190000,Abha,32000,False,Japan
+Chevrolet,Cruze,2013,Saudi,White,Standard,1.8,Gas,Automatic,175,Taef,15000,False,America
+Hyundai,Senta fe,2015,Saudi,Silver,Semi Full,3.3,Gas,Automatic,120,Jeddah,57000,False,South Korea
+HAVAL,H6,2020,Saudi,Grey,Full,2.0,Gas,Automatic,16000,Riyadh,72000,False,China
 Chevrolet,Camaro,2017,Other,Red,Full,6.2,Gas,Automatic,116000,Dammam,129000,False,America
-Dodge,Charger,2016,Saudi,Red,Semi Full,3.6,Gas,Automatic,129477,Riyadh,78500,False,America
-Chevrolet,Malibu,2013,Saudi,Red,Semi Full,2.4,Gas,Automatic,233000,Abha,20000,False,America
 Nissan,VTC,2000,Saudi,White,Semi Full,4.8,Gas,Manual,490000,Dammam,30000,False,Japan
+Mercedes,GL,2014,Saudi,Black,Full,4.6,Gas,Automatic,159000,Dammam,140000,False,Germany
 Chevrolet,Impala,2019,Gulf Arabic,Silver,Standard,3.6,Gas,Automatic,58000,Riyadh,65000,False,America
 Nissan,Sentra,2020,Saudi,White,Semi Full,1.6,Gas,Automatic,7000,Aseer,55000,False,Japan
-GMC,Yukon,2003,Saudi,Silver,Full,5.3,Gas,Automatic,222000,Riyadh,27000,False,America
-HAVAL,H2,2020,Gulf Arabic,Red,Semi Full,1.0,Gas,Automatic,29289,Makkah,50000,False,China
+Ford,Taurus,2019,Other,Grey,Full,3.5,Gas,Automatic,32714,Riyadh,109000,False,America
+GMC,Sierra,2016,Saudi,Black,Semi Full,5.2,Gas,Automatic,180000,Jeddah,72000,False,America
+Ford,Taurus,2018,Saudi,White,Standard,3.5,Gas,Automatic,65000,Dammam,76000,False,America
 Ford,Expedition,2013,Saudi,Grey,Full,5.4,Gas,Manual,225299,Riyadh,66587,False,America
-Toyota,Furniture,2019,Saudi,White,Standard,2.7,Gas,Automatic,100665,Riyadh,88500,False,Japan
-Ford,Edge,2014,Saudi,White,Full,3.5,Gas,Automatic,186000,Al-Ahsa,54000,False,America
-Toyota,Camry,2017,Saudi,Grey,Standard,2.5,Gas,Automatic,73000,Dammam,58000,False,Japan
-Ford,Taurus,2015,Other,Red,Full,3.5,Gas,Automatic,122000,Dammam,69000,False,America
-Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,44000,Jeddah,39000,False,South Korea
-Mitsubishi,Attrage,2021,Saudi,Grey,Standard,1.2,Gas,Automatic,900,Riyadh,37000,False,Japan
+Ford,Edge,2017,Gulf Arabic,Blue,Standard,3.5,Gas,Automatic,82000,Riyadh,80000,False,America
+Toyota,Camry,2001,Saudi,Silver,Standard,2.5,Gas,Manual,439000,Dammam,12000,False,Japan
+Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,87000,Riyadh,49000,False,Japan
 Changan,CS95,2019,Saudi,Black,Full,2.0,Gas,Automatic,106000,Jeddah,70000,False,China
-Chevrolet,Caprice,2013,Saudi,White,Full,6.0,Gas,Automatic,190000,Dammam,50000,False,America
-Nissan,Sunny,2018,Saudi,Silver,Standard,1.5,Gas,Automatic,106036,Riyadh,25900,False,Japan
+Maserati,Gamble,2016,Gulf Arabic,Blue,Full,3.0,Gas,Automatic,102133,Jeddah,146500,False,Italy
+Honda,Accord,2014,Saudi,White,Full,2.4,Gas,Automatic,480000,Makkah,40000,False,Japan
+Honda,Accord,2015,Saudi,Golden,Semi Full,2.4,Gas,Automatic,196000,Riyadh,59000,False,Japan
 Toyota,Avalon,2015,Saudi,White,Standard,3.5,Gas,Automatic,120000,Dammam,66500,False,Japan
+Toyota,Yaris,2017,Saudi,Grey,Standard,1.4,Gas,Automatic,125000,Riyadh,30000,False,Japan
 GMC,Yukon,2013,Saudi,White,Standard,5.3,Gas,Automatic,327000,Dammam,45000,False,America
+Chevrolet,Tahoe,2003,Gulf Arabic,Black,Full,5.3,Gas,Automatic,45000,Riyadh,18000,False,America
 Toyota,FJ,2014,Saudi,Silver,Full,9.0,Gas,Automatic,308000,Hail,75000,False,Japan
+Chevrolet,Impala,2014,Saudi,Black,Semi Full,3.6,Gas,Automatic,189000,Dammam,40000,False,America
 Mazda,3,2018,Saudi,Another Color,Standard,1.8,Gas,Automatic,54000,Al-Medina,54000,False,Japan
+Ford,Explorer,2016,Gulf Arabic,Brown,Standard,3.8,Gas,Automatic,83000,Riyadh,85000,False,America
+Porsche,Cayenne,2012,Saudi,Brown,Full,3.5,Gas,Automatic,13900,Jeddah,95000,False,Germany
 Chevrolet,Caprice,2009,Other,White,Full,6.0,Gas,Automatic,350000,Al-Baha,15000,False,America
-Nissan,Datsun,2012,Saudi,White,Standard,1.0,Gas,Manual,333000,Makkah,18000,False,Japan
-GMC,Yukon,2015,Saudi,White,Full,4.8,Gas,Automatic,320000,Aseer,120000,False,America
+Kia,Rio,2019,Saudi,White,Standard,1.4,Gas,Automatic,65000,Dammam,35000,False,South Korea
+Toyota,Furniture,2019,Saudi,White,Full,3.5,Gas,Automatic,40000,Riyadh,120000,False,Japan
+Chevrolet,Tahoe,2016,Other,Golden,Full,5.3,Gas,Automatic,128000,Riyadh,164000,False,America
+Chevrolet,Traverse,2014,Unknown,Black,Standard,3.6,Gas,Automatic,195000,Riyadh,42000,False,America
 Nissan,Navara,2016,Saudi,White,Standard,2.5,Gas,Manual,55000,Dammam,45000,False,Japan
-Honda,Accord,2017,Saudi,Navy,Semi Full,2.4,Gas,Automatic,223000,Riyadh,75000,False,Japan
-Nissan,Sentra,2015,Gulf Arabic,Another Color,Standard,1.5,Gas,Automatic,17100,Jeddah,25000,False,Japan
-Toyota,Innova,2008,Saudi,Golden,Standard,2.7,Gas,Automatic,90000,Hafar Al-Batin,20000,False,Japan
-Toyota,FJ,2020,Saudi,Grey,Standard,4.0,Gas,Automatic,46000,Riyadh,135000,False,Japan
+Mazda,6,2018,Saudi,White,Standard,2.5,Gas,Automatic,79795,Dammam,63000,False,Japan
+Hyundai,Elantra,2018,Saudi,Grey,Semi Full,1.7,Gas,Automatic,680,Riyadh,40000,False,South Korea
+Kia,Carenz,2008,Saudi,Another Color,Standard,2.0,Gas,Manual,350,Jeddah,12000,False,South Korea
 Nissan,Sunny,2008,Saudi,White,Standard,1.5,Gas,Manual,275000,Riyadh,10000,False,Japan
+Chevrolet,Silverado,2016,Saudi,White,Full,5.3,Gas,Automatic,96000,Aseer,95000,False,America
+Toyota,Corolla,2018,Saudi,White,Semi Full,1.6,Gas,Automatic,43000,Riyadh,54500,False,Japan
 Honda,Accord,2018,Gulf Arabic,Golden,Full,2.4,Gas,Automatic,75000,Dammam,92000,False,Japan
-Hyundai,Other,2011,Other,Black,Full,4.6,Gas,Automatic,270,Dammam,30000,False,South Korea
 Ford,Marquis,2009,Other,Black,Full,4.6,Gas,Automatic,274000,Jazan,35500,False,America
-Nissan,KICKS,2020,Saudi,Grey,Semi Full,1.6,Gas,Automatic,200,Riyadh,66000,False,Japan
-Ford,Fusion,2016,Gulf Arabic,Silver,Standard,2.5,Gas,Automatic,81000,Riyadh,46000,False,America
-Dodge,Ram,2019,Saudi,White,Standard,2.5,Diesel,Manual,65000,Dammam,50000,False,America
-Genesis,Prestige,2016,Saudi,Grey,Semi Full,3.5,Gas,Automatic,293000,Riyadh,77000,False,South Korea
+Toyota,Land Cruiser,2020,Saudi,White,Standard,4.0,Gas,Automatic,30000,Riyadh,2560,False,Japan
+Toyota,Camry,2015,Saudi,Golden,Standard,2.5,Gas,Automatic,192000,Jubail,38500,False,Japan
+BMW,X,2016,Gulf Arabic,White,Full,4.4,Gas,Automatic,130341,Riyadh,161500,False,Germany
+Chrysler,C300,2013,Other,Blue,Full,5.7,Gas,Automatic,178000,Dammam,45000,False,America
 Ford,Explorer,2016,Gulf Arabic,Silver,Semi Full,3.5,Gas,Automatic,112000,Riyadh,83000,False,America
 Volkswagen,CC,2012,Saudi,Black,Full,2.0,Gas,Automatic,210000,Al-Ahsa,27000,False,Germany
-Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,88000,Dammam,34000,False,South Korea
-Toyota,Avalon,2019,Saudi,White,Standard,3.5,Gas,Automatic,47000,Dammam,116000,False,Japan
-Nissan,Sunny,2019,Saudi,Grey,Standard,1.5,Gas,Automatic,86871,Riyadh,30500,False,Japan
+Chevrolet,Tahoe,2012,Saudi,Bronze,Semi Full,4.8,Gas,Automatic,100000,Hail,75000,False,America
+Toyota,Rav4,2017,Saudi,Silver,Full,2.5,Gas,Automatic,174000,Jeddah,77000,False,Japan
+Hyundai,Azera,2018,Saudi,Brown,Full,3.5,Gas,Automatic,44000,Riyadh,96000,False,South Korea
 Toyota,Camry,2019,Saudi,Brown,Full,3.5,Gas,Automatic,77000,Dammam,90000,False,Japan
-Toyota,Camry,2017,Saudi,Another Color,Full,2.5,Gas,Automatic,166,Riyadh,55000,False,Japan
-Jeep,Grand Cherokee,2017,Saudi,Silver,Full,5.7,Gas,Automatic,13300,Najran,3100,False,America
-Toyota,Rav4,2020,Gulf Arabic,White,Full,2.5,Gas,Automatic,15000,Dammam,111000,False,Japan
-Hyundai,Tucson,2018,Saudi,Grey,Standard,2.0,Gas,Automatic,96000,Jeddah,64000,False,South Korea
-Toyota,Land Cruiser,2004,Saudi,Black,Standard,4.0,Gas,Manual,440000,Dammam,65000,False,Japan
-Kia,Optima,2014,Gulf Arabic,Silver,Full,2.4,Gas,Automatic,200,Al-Medina,45000,False,South Korea
-Hyundai,Elantra,2018,Saudi,White,Standard,2.0,Gas,Automatic,116000,Dammam,48000,False,South Korea
-Ford,Taurus,2011,Saudi,Blue,Standard,4.5,Gas,Automatic,301515,Al-Ahsa,26000,False,America
-GMC,Yukon,2004,Saudi,Silver,Full,5.3,Gas,Automatic,470000,Dammam,33000,False,America
-Renault,Fluence,2015,Saudi,Grey,Semi Full,1.6,Gas,Automatic,116633,Riyadh,25500,False,France
-Lexus,ES,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,39000,Riyadh,160000,False,Japan
+Toyota,Ciocca,2009,Gulf Arabic,Bronze,Full,5.7,Gas,Automatic,200000,Jeddah,48000,False,Japan
+Toyota,Ciocca,2016,Saudi,Another Color,Standard,5.7,Gas,Automatic,348000,Riyadh,79000,False,Japan
+Ford,Taurus,2018,Saudi,White,Standard,2.0,Gas,Automatic,71000,Riyadh,77000,False,America
+Kia,Rio,2015,Saudi,Red,Standard,1.6,Gas,Automatic,150,Riyadh,22000,False,South Korea
+Ford,Marquis,2002,Saudi,Grey,Full,4.5,Gas,Automatic,438074,Abha,10000,False,America
+Toyota,Corolla,2015,Saudi,White,Standard,1.6,Gas,Automatic,36000,Dammam,45000,False,Japan
+Kia,Cerato,2015,Saudi,Navy,Full,2.0,Gas,Automatic,104000,Al-Ahsa,28000,False,South Korea
+GMC,Sierra,2013,Gulf Arabic,Silver,Standard,5.3,Gas,Automatic,248000,Dammam,63000,False,America
+Ford,Taurus,2015,Other,Another Color,Semi Full,3.5,Gas,Automatic,120000,Dammam,65000,False,America
 Toyota,Camry,2016,Saudi,Grey,Semi Full,2.4,Gas,Automatic,77000,Riyadh,63000,False,Japan
-Toyota,Land Cruiser 70,2011,Saudi,White,Semi Full,4.0,Gas,Manual,352500,Hail,58000,False,Japan
-Ford,Victoria,2012,Saudi,Another Color,Standard,4.5,Gas,Automatic,220000,Dammam,35000,False,America
-Hyundai,Elantra,2019,Saudi,White,Standard,1.6,Gas,Automatic,76095,Riyadh,45500,False,South Korea
-Dodge,Charger,2016,Saudi,Grey,Semi Full,3.6,Gas,Automatic,157136,Riyadh,84500,False,America
-Ford,Expedition,2003,Other,Brown,Semi Full,8.0,Gas,Automatic,246000,Al-Medina,15000,False,America
-Victory Auto,Van R,2017,Saudi,Golden,Full,1.2,Gas,Manual,1500,Hafar Al-Batin,31000,False,America
-Toyota,Land Cruiser,2006,Saudi,White,Full,4.5,Gas,Automatic,199000,Dammam,77000,False,Japan
-Mercedes,E,2018,Gulf Arabic,Black,Standard,2.0,Gas,Automatic,167,Riyadh,115000,False,Germany
-Toyota,Camry,2017,Saudi,Bronze,Standard,2.5,Gas,Automatic,90000,Dammam,66000,False,Japan
+Hyundai,Elantra,2018,Saudi,Silver,Semi Full,1.6,Gas,Automatic,86000,Al-Ahsa,49000,False,South Korea
+Hyundai,Elantra,2018,Saudi,White,Semi Full,2.0,Gas,Automatic,88000,Riyadh,44000,False,South Korea
 Toyota,Yaris,2018,Saudi,White,Standard,1.5,Gas,Automatic,128000,Jeddah,32000,False,Japan
-Hyundai,Tucson,2019,Saudi,Grey,Semi Full,2.0,Gas,Automatic,101000,Riyadh,1300,False,South Korea
-Toyota,Land Cruiser 70,2014,Saudi,Another Color,Semi Full,4.0,Gas,Manual,70000,Dammam,69000,False,Japan
-Lexus,RX,2016,Gulf Arabic,Brown,Full,3.5,Gas,Automatic,176700,Riyadh,130000,False,Japan
-Ford,Mustang,2016,Other,Red,Full,5.0,Gas,Automatic,92000,Dammam,129000,False,America
-Toyota,Land Cruiser,2017,Saudi,White,Full,4.0,Gas,Automatic,78000,Dammam,182000,False,Japan
-Ford,Expedition,2016,Saudi,Black,Semi Full,3.5,Gas,Automatic,89531,Riyadh,104500,False,America
-Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,87000,Dammam,50000,False,Japan
-Toyota,Land Cruiser,2007,Other,White,Full,4.6,Gas,Manual,160000,Jazan,125000,False,Japan
+Renault,Megane,2020,Gulf Arabic,White,Standard,1.6,Gas,Automatic,6400,Jeddah,42000,False,France
+GMC,Yukon,2015,Saudi,Silver,Standard,5.3,Gas,Automatic,170000,Arar,102000,False,America
+GMC,Sierra,2020,Saudi,White,Standard,5.3,Gas,Automatic,17000,Qassim,135000,False,America
+Toyota,Corolla,2014,Saudi,White,Standard,2.0,Gas,Manual,276,Riyadh,23900,False,Japan
+Ford,Vego,2019,Saudi,White,Standard,1.5,Gas,Automatic,51419,Jeddah,27500,False,America
+Toyota,Land Cruiser,2010,Saudi,White,Full,4.6,Gas,Automatic,344000,Riyadh,88000,False,Japan
 Mitsubishi,Pajero,2012,Saudi,White,Standard,3.8,Gas,Automatic,104330,Riyadh,41500,False,Japan
 Toyota,Camry,2019,Saudi,Brown,Standard,2.5,Gas,Automatic,47000,Riyadh,67000,False,Japan
-Toyota,Avalon,2020,Saudi,Black,Full,3.5,Gas,Automatic,48000,Al-Medina,2465,False,Japan
-Hyundai,Elantra,2017,Saudi,Another Color,Standard,1.6,Gas,Automatic,91000,Dammam,43500,False,South Korea
-Chevrolet,Tahoe,2015,Saudi,Silver,Standard,5.3,Gas,Automatic,233000,Riyadh,98000,False,America
-Lexus,LX,2007,Saudi,Another Color,Full,8.0,Gas,Automatic,590,Taef,50000,False,Japan
-Chevrolet,Tahoe,2008,Unknown,Black,Semi Full,5.3,Gas,Automatic,247000,Al-Ahsa,42500,False,America
+Chevrolet,Caprice,2013,Saudi,Silver,Standard,6.0,Gas,Automatic,54000,Dammam,79000,False,America
+Ford,Mustang,2019,Other,Red,Full,2.3,Gas,Automatic,52000,Riyadh,139000,False,America
 Hyundai,Sonata,2020,Saudi,White,Standard,2.0,Gas,Automatic,9000,Riyadh,73000,False,South Korea
 Mercedes,CLA,2016,Saudi,Red,Semi Full,2.0,Gas,Automatic,103657,Riyadh,130000,False,Germany
-Nissan,Datsun,2015,Saudi,White,Full,2.4,Gas,Manual,212000,Riyadh,42000,False,Japan
-Toyota,Hilux,2018,Saudi,White,Semi Full,2.7,Gas,Manual,111362,Riyadh,64500,False,Japan
-Toyota,Hilux,2018,Saudi,White,Semi Full,2.7,Gas,Manual,20000,Aseer,115000,False,Japan
+Nissan,Altima,2015,Gulf Arabic,White,Semi Full,2.5,Gas,Automatic,94000,Qassim,37000,False,Japan
+Toyota,Camry,2007,Saudi,White,Full,2.5,Gas,Automatic,420,Al-Medina,30000,False,Japan
+Chevrolet,Tahoe,2019,Saudi,Black,Standard,5.3,Gas,Automatic,34475,Riyadh,155000,False,America
+Chevrolet,Caprice,2012,Saudi,Silver,Standard,6.0,Gas,Automatic,260000,Riyadh,52000,False,America
+Toyota,FJ,2017,Saudi,White,Semi Full,4.0,Gas,Automatic,127000,Dammam,117000,False,Japan
+Hyundai,Elantra,2012,Saudi,Another Color,Standard,2.0,Gas,Automatic,289000,Aseer,21000,False,South Korea
+Toyota,Innova,2020,Saudi,Silver,Standard,2.7,Gas,Automatic,24552,Riyadh,76500,False,Japan
+Ford,Focus,2014,Gulf Arabic,Blue,Standard,1.6,Gas,Automatic,98000,Dammam,23000,False,America
+Chevrolet,Suburban,2007,Saudi,Black,Full,5.3,Gas,Automatic,300000,Qurayyat,30000,False,America
 Suzuki,Vitara,2006,Saudi,White,Standard,1.0,Gas,Manual,139000,Qassim,12000,False,Japan
-Toyota,Furniture,2020,Saudi,Grey,Semi Full,4.0,Gas,Automatic,20406,Riyadh,132000,False,Japan
+Ford,Edge,2012,Saudi,Another Color,Full,3.5,Gas,Automatic,197000,Dammam,48500,False,America
+Toyota,Prado,2019,Gulf Arabic,White,Full,4.0,Gas,Automatic,58000,Riyadh,151000,False,Japan
+Toyota,Camry,2017,Saudi,Grey,Standard,2.4,Gas,Automatic,209000,Riyadh,57000,False,Japan
+GMC,Savana,1999,Other,Red,Full,1.5,Gas,Automatic,200000,Jeddah,11500,False,America
+Ford,Taurus,2018,Other,Black,Full,3.5,Gas,Automatic,100000,Dammam,89000,False,America
+Mercedes,C,2020,Saudi,White,Full,2.0,Gas,Automatic,10000,Jeddah,190000,False,Germany
 GMC,Yukon,2013,Saudi,White,Full,5.3,Gas,Automatic,194000,Riyadh,80000,False,America
-Kia,Sorento,2016,Gulf Arabic,White,Semi Full,3.0,Gas,Automatic,51000,Qassim,62000,False,South Korea
-Toyota,Hilux,2015,Saudi,White,Full,2.7,Gas,Manual,374000,Hail,72000,False,Japan
-Toyota,Furniture,2018,Saudi,Silver,Full,1.0,Gas,Automatic,68000,Riyadh,125000,False,Japan
-Mercedes,S,2011,Saudi,Grey,Full,3.0,Gas,Automatic,189,Al-Medina,100000,False,Germany
+Toyota,Furniture,2013,Saudi,White,Standard,2.7,Gas,Automatic,180000,Riyadh,45000,False,Japan
+BMW,The 7,2012,Gulf Arabic,White,Standard,2.0,Gas,Automatic,224000,Riyadh,45000,False,Germany
 Toyota,Rav4,2018,Saudi,White,Semi Full,2.5,Gas,Automatic,88000,Dammam,77000,False,Japan
-Hyundai,Elantra,2009,Saudi,White,Standard,1.0,Gas,Manual,4000,Riyadh,11000,False,South Korea
-Toyota,Hilux,2015,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,310,Riyadh,40000,False,Japan
-Jeep,Grand Cherokee,2013,Gulf Arabic,Black,Full,6.4,Gas,Automatic,136000,Tabouk,85000,False,America
+Mitsubishi,Pajero,2016,Saudi,Brown,Semi Full,3.5,Gas,Automatic,122000,Riyadh,50000,False,Japan
+Toyota,Camry,2001,Saudi,White,Full,1.4,Gas,Manual,399000,Jubail,10000,False,Japan
+Hyundai,Azera,2015,Saudi,White,Full,3.0,Gas,Automatic,272783,Dammam,36000,False,South Korea
+Chevrolet,Caprice,2013,Saudi,Blue,Full,5.5,Gas,Automatic,184000,Riyadh,36000,False,America
+Mercedes,S,2005,Other,Silver,Semi Full,5.0,Gas,Automatic,350000,Riyadh,20000,False,Germany
 Toyota,Hilux,2018,Saudi,White,Semi Full,2.7,Gas,Manual,192700,Dammam,78000,False,Japan
-Chevrolet,Tahoe,2020,Saudi,Grey,Semi Full,4.9,Gas,Automatic,20000,Taef,172000,False,America
-Hyundai,Sonata,2017,Saudi,White,Standard,2.4,Gas,Automatic,155000,Riyadh,54000,False,South Korea
-Cadillac,ATS,2018,Saudi,Black,Standard,2.0,Gas,Automatic,78000,Riyadh,85000,False,America
-Toyota,FJ,2016,Saudi,White,Full,4.0,Gas,Automatic,148,Tabouk,98000,False,Japan
-GMC,Yukon,2017,Saudi,Brown,Standard,5.3,Gas,Automatic,39000,Taef,142000,False,America
-Nissan,Sentra,2014,Saudi,Silver,Semi Full,1.4,Gas,Automatic,165000,Riyadh,18500,False,Japan
-Toyota,Corolla,2011,Saudi,Grey,Semi Full,1.6,Gas,Manual,490,Al-Medina,18000,False,Japan
+Toyota,Corolla,2015,Gulf Arabic,Silver,Semi Full,2.5,Gas,Automatic,96000,Tabouk,40000,False,Japan
+Ford,Fusion,2012,Saudi,White,Semi Full,2.5,Gas,Automatic,270,Makkah,16500,False,America
+Kia,Cadenza,2016,Other,Another Color,Full,3.0,Gas,Automatic,33212,Qassim,66000,False,South Korea
+Kia,Optima,2015,Saudi,White,Standard,2.4,Gas,Manual,104000,Riyadh,25000,False,South Korea
+Toyota,Prado,2017,Gulf Arabic,White,Semi Full,1.0,Gas,Automatic,95000,Hafar Al-Batin,130000,False,Japan
+Chrysler,300,2016,Gulf Arabic,Black,Full,3.5,Gas,Automatic,18000,Riyadh,86000,False,America
+Chevrolet,Tahoe,2015,Saudi,Black,Standard,5.3,Gas,Automatic,121000,Riyadh,92000,False,America
+Nissan,Altima,2017,Saudi,White,Semi Full,2.5,Gas,Automatic,40000,Riyadh,67000,False,Japan
+Hyundai,Accent,2019,Saudi,White,Semi Full,1.4,Gas,Automatic,98000,Tabouk,36500,False,South Korea
+Toyota,Corolla,2020,Saudi,Another Color,Standard,1.6,Gas,Automatic,16479,Riyadh,56000,False,Japan
+BMW,X,2017,Gulf Arabic,White,Semi Full,3.0,Gas,Automatic,71000,Dammam,170000,False,Germany
 GMC,Sierra,2018,Saudi,Silver,Semi Full,5.3,Gas,Automatic,181313,Riyadh,131500,False,America
-Hyundai,Coupe S,2010,Saudi,Grey,Full,3.8,Gas,Automatic,240,Najran,25000,False,South Korea
+Ford,Marquis,2011,Other,Brown,Semi Full,8.0,Gas,Automatic,400000,Makkah,25000,False,America
+Dodge,Charger,2019,Saudi,Grey,Full,3.6,Gas,Automatic,78000,Dammam,124000,False,America
+Lexus,IS,2005,Saudi,Silver,Full,3.5,Gas,Automatic,400000,Jeddah,50000,False,Japan
 Nissan,Sunny,2019,Saudi,Grey,Standard,1.5,Gas,Automatic,56991,Jeddah,33500,False,Japan
-Toyota,Innova,2015,Saudi,White,Full,2.7,Gas,Automatic,185000,Riyadh,45000,False,Japan
-Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,22000,Hafar Al-Batin,41500,False,Japan
-Toyota,Cressida,1996,Saudi,White,Semi Full,1.5,Gas,Manual,100000,Al-Medina,6500,False,Japan
-Dodge,Charger,2013,Saudi,Grey,Full,5.7,Gas,Automatic,198000,Al-Medina,42000,False,America
+Hyundai,Tucson,2019,Saudi,Silver,Semi Full,2.0,Gas,Automatic,24000,Riyadh,68000,False,South Korea
+Mercedes,E,2014,Saudi,Black,Full,4.0,Gas,Automatic,161000,Dammam,95000,False,Germany
+Mazda,6,2021,Saudi,Silver,Full,2.5,Gas,Automatic,14500,Jeddah,106000,False,Japan
+Nissan,Patrol,2015,Saudi,Another Color,Full,5.6,Gas,Automatic,228000,Riyadh,130000,False,Japan
+Toyota,Innova,2018,Saudi,White,Standard,2.7,Gas,Automatic,275916,Dammam,67000,False,Japan
+GMC,Sierra,2020,Other,Another Color,Semi Full,5.3,Gas,Automatic,15800,Riyadh,150000,False,America
+Nissan,Altima,2017,Saudi,White,Standard,2.5,Gas,Automatic,40000,Riyadh,59000,False,Japan
+Nissan,Patrol,2017,Saudi,Black,Semi Full,5.7,Gas,Automatic,93000,Riyadh,145000,False,Japan
+Audi,A5,2011,Saudi,White,Full,2.1,Gas,Automatic,218000,Al-Medina,40000,False,Germany
 Ford,Taurus,2011,Saudi,Silver,Standard,3.5,Gas,Automatic,22000,Taef,50000,False,America
-Chevrolet,Impala,2019,Gulf Arabic,Black,Standard,3.6,Gas,Automatic,85000,Riyadh,68500,False,America
-Ford,Victoria,2011,Saudi,Another Color,Standard,4.6,Gas,Automatic,270,Dammam,35000,False,America
+Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,30302,Riyadh,38000,False,South Korea
+Toyota,Corolla,2015,Saudi,Blue,Full,1.6,Gas,Automatic,90000,Tabouk,45000,False,Japan
+Audi,A8,2016,Saudi,Bronze,Full,3.0,Gas,Automatic,42000,Dammam,165000,False,Germany
+Genesis,Royal,2015,Saudi,Red,Full,3.8,Gas,Automatic,194000,Riyadh,85000,False,South Korea
+Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,96341,Riyadh,26000,False,Japan
+Ford,Flex,2010,Saudi,Silver,Semi Full,4.0,Gas,Automatic,300,Dammam,25000,False,America
+Nissan,KICKS,2019,Saudi,Another Color,Full,2.4,Gas,Automatic,87000,Dammam,55000,False,Japan
+Mazda,CX9,2014,Saudi,Grey,Semi Full,2.5,Gas,Manual,289000,Riyadh,50000,False,Japan
 Hyundai,Accent,2015,Saudi,White,Standard,1.4,Gas,Automatic,500000,Jeddah,22000,False,South Korea
-Toyota,Furniture,2010,Gulf Arabic,Green,Semi Full,2.7,Gas,Manual,200000,Makkah,36000,False,Japan
-Toyota,Camry,2017,Saudi,White,Standard,2.4,Gas,Automatic,97000,Riyadh,68000,False,Japan
-Honda,Accord,2010,Saudi,Silver,Full,2.4,Gas,Automatic,300000,Riyadh,32000,False,Japan
-Toyota,Hilux,2015,Saudi,White,Full,2.7,Gas,Manual,119000,Hail,55000,False,Japan
-Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4.0,Gas,Automatic,86000,Riyadh,127000,False,Japan
+Toyota,Corolla,2012,Other,Silver,Standard,1.6,Gas,Automatic,254000,Dammam,22000,False,Japan
+Porsche,Panamera,2011,Saudi,White,Full,5.7,Gas,Automatic,108000,Al-Medina,99000,False,Germany
+Toyota,Prado,2013,Saudi,White,Semi Full,4.0,Gas,Manual,186000,Riyadh,55000,False,Japan
+Kia,Rio,2019,Saudi,White,Standard,1.4,Gas,Automatic,85000,Jeddah,35500,False,South Korea
+Renault,Safrane,2012,Saudi,White,Full,2.6,Gas,Automatic,144000,Jeddah,20000,False,France
+Nissan,Sunny,2019,Other,White,Semi Full,1.5,Gas,Automatic,46000,Jeddah,32000,False,Japan
+Hyundai,Sonata,2020,Saudi,Golden,Semi Full,2.5,Gas,Automatic,12000,Riyadh,78000,False,South Korea
+Jeep,Grand Cherokee,2020,Saudi,Brown,Full,3.6,Gas,Automatic,27500,Al-Ahsa,160000,False,America
+Toyota,Hiace,2016,Gulf Arabic,White,Standard,2.7,Gas,Manual,146000,Qassim,55000,False,Japan
 Toyota,FJ,2012,Other,White,Full,4.0,Gas,Automatic,270,Tabouk,60000,False,Japan
-Mercedes,S,2011,Saudi,Brown,Full,3.0,Gas,Automatic,137000,Jeddah,85000,False,Germany
-Chevrolet,Traverse,2009,Other,Navy,Semi Full,3.6,Gas,Automatic,325,Al-Medina,18000,False,America
-Ford,Taurus,2017,Saudi,Silver,Standard,3.5,Gas,Automatic,125000,Dammam,62000,False,America
-Hyundai,Accent,2020,Saudi,Grey,Standard,1.4,Gas,Automatic,25234,Riyadh,44000,False,South Korea
-GMC,Sierra,2019,Saudi,Black,Standard,5.3,Gas,Automatic,8900,Al-Jouf,130000,False,America
-Ford,Fusion,2016,Gulf Arabic,White,Semi Full,1.2,Gas,Automatic,99200,Dammam,45000,False,America
-GMC,Yukon,2013,Saudi,Black,Semi Full,5.3,Gas,Automatic,289000,Dammam,55000,False,America
-GMC,Sierra,2006,Gulf Arabic,White,Semi Full,5.3,Gas,Automatic,283000,Dammam,29000,False,America
-Nissan,X-Trail,2017,Saudi,Grey,Semi Full,2.5,Gas,Automatic,119000,Riyadh,51000,False,Japan
-Genesis,G70,2018,Saudi,Black,Full,2.0,Gas,Automatic,86867,Riyadh,116500,False,South Korea
-Kia,Optima,2018,Saudi,Grey,Standard,2.4,Gas,Automatic,40000,Riyadh,55000,False,South Korea
-Toyota,Land Cruiser,2018,Saudi,White,Full,4.6,Gas,Automatic,141197,Riyadh,195000,False,Japan
-Mazda,6,2018,Saudi,Brown,Standard,2.5,Gas,Automatic,198,Jeddah,55000,False,Japan
-GMC,Terrain,2014,Saudi,Black,Full,3.6,Gas,Automatic,112000,Dammam,47000,False,America
-Nissan,Sentra,2016,Saudi,Grey,Semi Full,1.6,Gas,Automatic,113000,Riyadh,31000,False,Japan
-Mitsubishi,Nativa,2010,Saudi,Silver,Semi Full,3.0,Gas,Automatic,244,Hail,17000,False,Japan
-Ford,Fusion,2017,Other,White,Full,2.0,Diesel,Automatic,55000,Riyadh,65000,False,America
-Hyundai,Accent,2018,Saudi,Black,Standard,1.4,Gas,Automatic,105000,Riyadh,35000,False,South Korea
+Toyota,Hilux,2020,Gulf Arabic,White,Full,2.7,Gas,Manual,15000,Riyadh,105500,False,Japan
+Toyota,Ciocca,2016,Saudi,Grey,Semi Full,5.7,Gas,Automatic,333000,Dammam,78000,False,Japan
+Hyundai,Sonata,2017,Saudi,White,Semi Full,2.4,Gas,Automatic,194814,Riyadh,55000,False,South Korea
+Changan,Eado,2020,Saudi,Brown,Semi Full,1.6,Gas,Automatic,89770,Riyadh,42000,False,China
+Toyota,Yaris,2017,Saudi,White,Standard,1.3,Gas,Automatic,127000,Jeddah,29000,False,Japan
+Hyundai,Elantra,2017,Saudi,White,Standard,2.0,Gas,Automatic,237000,Riyadh,42000,False,South Korea
+Toyota,Land Cruiser,2011,Saudi,White,Full,4.0,Gas,Automatic,349266,Riyadh,100000,False,Japan
+Nissan,Patrol,2016,Saudi,White,Semi Full,5.6,Gas,Automatic,145000,Qassim,128000,False,Japan
+Ford,Taurus,2011,Saudi,Black,Semi Full,3.5,Gas,Automatic,230,Riyadh,35000,False,America
+Toyota,Camry,2016,Gulf Arabic,Navy,Full,2.6,Gas,Automatic,183000,Dammam,70000,False,Japan
+Nissan,Sunny,2019,Saudi,White,Standard,1.5,Gas,Automatic,87775,Riyadh,26000,False,Japan
+Toyota,Land Cruiser,2013,Gulf Arabic,White,Full,1.0,Gas,Automatic,495,Riyadh,90000,False,Japan
+Hyundai,Accent,2017,Saudi,White,Semi Full,1.6,Gas,Automatic,138000,Riyadh,31000,False,South Korea
 Ford,Mustang,2004,Other,Silver,Full,4.6,Gas,Manual,172,Jeddah,35000,False,America
-Toyota,Hiace,2016,Saudi,White,Standard,2.7,Gas,Manual,264000,Dammam,65000,False,Japan
-Toyota,Avalon,2017,Saudi,White,Standard,1.2,Gas,Automatic,200000,Riyadh,80000,False,Japan
-Mazda,CX3,2019,Saudi,Another Color,Standard,2.0,Gas,Automatic,57000,Jeddah,55000,False,Japan
 Toyota,Hilux,2011,Saudi,White,Standard,1.4,Gas,Manual,300000,Tabouk,20000,False,Japan
 Lexus,LX,2013,Other,White,Full,5.7,Gas,Automatic,98000,Dammam,200000,False,Japan
-Honda,Accord,2016,Gulf Arabic,Golden,Semi Full,2.4,Gas,Automatic,75000,Riyadh,66000,False,Japan
-Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,133000,Dammam,34000,False,South Korea
-BMW,The 5,2019,Saudi,White,Semi Full,2.0,Gas,Automatic,29900,Jeddah,150000,False,Germany
-Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,67000,Dammam,52000,False,Japan
-Ford,Marquis,2009,Other,White,Full,4.6,Gas,Automatic,338000,Jeddah,18000,False,America
-Honda,Accord,2004,Saudi,Black,Semi Full,1.5,Gas,Automatic,400000,Qassim,10000,False,Japan
-MG,3,2013,Saudi,White,Standard,1.3,Gas,Manual,41000,Riyadh,15000,False,England
-Lexus,LX,2005,Gulf Arabic,White,Full,8.0,Gas,Automatic,500568,Riyadh,45000,False,Japan
-Maserati,Quattroporte,2014,Gulf Arabic,White,Full,3.8,Gas,Automatic,115000,Dammam,125000,False,Italy
+Ford,Fusion,2015,Saudi,Brown,Full,2.5,Gas,Automatic,200000,Riyadh,49000,False,America
+Nissan,Sunny,2018,Saudi,Brown,Semi Full,1.5,Gas,Automatic,114000,Tabouk,27000,False,Japan
 Chevrolet,Tahoe,2011,Saudi,Black,Semi Full,5.3,Gas,Automatic,200000,Riyadh,42000,False,America
-Lexus,ES,2016,Other,White,Full,1.5,Gas,Automatic,100000,Aseer,128000,False,Japan
 Ford,Marquis,1995,Saudi,Green,Full,4.6,Gas,Automatic,180000,Aseer,13000,False,America
-Nissan,Altima,2018,Gulf Arabic,White,Semi Full,2.5,Gas,Automatic,48096,Riyadh,68000,False,Japan
-Land Rover,Range Rover,2018,Saudi,White,Full,5.0,Gas,Automatic,26000,Riyadh,170000,False,England
+Kia,Rio,2013,Saudi,Navy,Standard,1.6,Gas,Automatic,300000,Jubail,19000,False,South Korea
 Ford,Mustang,2015,Other,White,Full,5.0,Gas,Manual,111000,Makkah,92999,False,America
-Toyota,Hilux,2015,Saudi,White,Full,2.7,Gas,Manual,328000,Qassim,66000,False,Japan
-Toyota,Hilux,2017,Saudi,White,Semi Full,2.7,Gas,Manual,150000,Dammam,70000,False,Japan
+Ford,Taurus,2019,Saudi,White,Standard,3.0,Gas,Automatic,77000,Riyadh,77000,False,America
 Toyota,Corolla,2018,Saudi,Black,Standard,1.6,Gas,Automatic,72000,Riyadh,42000,False,Japan
-Kia,Optima,2017,Saudi,Black,Semi Full,2.4,Gas,Automatic,245000,Riyadh,45000,False,South Korea
-GMC,Yukon,2016,Saudi,Golden,Semi Full,5.5,Gas,Automatic,145000,Al-Medina,100000,False,America
-Toyota,Camry,2016,Saudi,Brown,Standard,2.5,Gas,Automatic,136111,Riyadh,53500,False,Japan
-Hyundai,Elantra,2015,Saudi,White,Full,2.0,Gas,Automatic,245000,Aseer,30000,False,South Korea
-Kia,Optima,2015,Gulf Arabic,White,Standard,2.4,Gas,Automatic,71000,Riyadh,45000,False,South Korea
+Toyota,Prado,2009,Saudi,Golden,Semi Full,4.0,Gas,Automatic,85000,Besha,73000,False,Japan
+Ford,Taurus,2010,Saudi,Black,Semi Full,3.0,Gas,Automatic,360000,Riyadh,23000,False,America
+Kia,Rio,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,66148,Jeddah,40500,False,South Korea
+Hyundai,Senta fe,2015,Saudi,Brown,Standard,1.1,Gas,Automatic,280000,Jazan,45000,False,South Korea
+Jeep,Grand Cherokee,2015,Saudi,White,Full,5.7,Gas,Automatic,138000,Jeddah,85000,False,America
+Kia,Sportage,2015,Saudi,Red,Standard,2.4,Gas,Automatic,103885,Riyadh,41500,False,South Korea
+Ford,Taurus,2013,Saudi,Silver,Standard,1.6,Gas,Automatic,251,Riyadh,35000,False,America
+Kia,Rio,2017,Saudi,White,Standard,1.4,Gas,Automatic,144024,Riyadh,27500,False,South Korea
 Honda,Pilot,2016,Saudi,Silver,Semi Full,1.6,Gas,Automatic,103000,Jeddah,85000,False,Japan
-Toyota,Yaris,2014,Saudi,Red,Full,1.5,Gas,Automatic,375000,Riyadh,24000,False,Japan
-Dodge,Charger,2012,Saudi,Yellow,Full,6.4,Gas,Automatic,167000,Al-Medina,85000,False,America
+Nissan,X-Trail,2017,Saudi,White,Semi Full,2.5,Gas,Automatic,99000,Dammam,62000,False,Japan
+Nissan,Sylvian Bus,2018,Saudi,White,Full,3.0,Gas,Manual,3000,Riyadh,107000,False,Japan
 Hyundai,Elantra,2017,Saudi,Silver,Standard,2.0,Gas,Automatic,96000,Riyadh,43000,False,South Korea
-Toyota,Hilux,2018,Saudi,White,Full,2.7,Gas,Manual,175000,Riyadh,63000,False,Japan
-Toyota,FJ,2013,Saudi,Bronze,Semi Full,1.0,Gas,Automatic,154000,Riyadh,77000,False,Japan
+Nissan,Sunny,2000,Gulf Arabic,Oily,Standard,1.3,Gas,Manual,120000,Qassim,7000,False,Japan
 GMC,Yukon,2018,Saudi,Grey,Standard,5.3,Gas,Automatic,68878,Riyadh,146500,False,America
-Nissan,Pathfinder,2007,Saudi,Grey,Standard,3.5,Gas,Automatic,111,Riyadh,30000,False,Japan
-Ford,Taurus,2018,Saudi,Black,Standard,2.0,Gas,Automatic,78508,Riyadh,65000,False,America
-Toyota,Land Cruiser,2011,Gulf Arabic,Golden,Full,4.5,Gas,Automatic,193000,Jeddah,110000,False,Japan
-BMW,The 7,2014,Gulf Arabic,Silver,Full,2.0,Gas,Automatic,139000,Riyadh,90000,False,Germany
-Chevrolet,Camaro,2010,Saudi,Silver,Full,3.6,Gas,Automatic,150000,Riyadh,53000,False,America
-Toyota,Land Cruiser,2013,Gulf Arabic,White,Semi Full,4.6,Gas,Automatic,240000,Riyadh,105000,False,Japan
-Mitsubishi,L200,2020,Saudi,White,Standard,2.5,Diesel,Manual,197,Jeddah,71000,False,Japan
-Toyota,Camry,2016,Gulf Arabic,White,Full,2.5,Gas,Automatic,247,Riyadh,55000,False,Japan
-Chrysler,C300,2012,Other,Silver,Full,5.7,Gas,Automatic,143000,Dammam,51000,False,America
-Toyota,Land Cruiser,2007,Saudi,White,Full,4.8,Gas,Automatic,514,Riyadh,60000,False,Japan
-Mercedes,Viano,2013,Saudi,Black,Semi Full,3.5,Gas,Automatic,154000,Jeddah,45000,False,Germany
-Nissan,Patrol,2017,Saudi,White,Full,6.0,Gas,Automatic,12000,Jeddah,128000,False,Japan
-Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,83000,Dammam,45000,False,Japan
-Hyundai,Sonata,2015,Saudi,White,Full,1.6,Gas,Automatic,380000,Riyadh,35000,False,South Korea
-Ford,Victoria,2003,Other,Another Color,Full,4.6,Gas,Automatic,500,Aseer,13000,False,America
-Hyundai,Azera,2019,Saudi,White,Semi Full,3.5,Gas,Automatic,44271,Dammam,95000,False,South Korea
-Hyundai,Accent,2020,Saudi,Another Color,Standard,1.5,Gas,Automatic,12000,Riyadh,42000,False,South Korea
-Nissan,Pathfinder,2014,Saudi,Silver,Semi Full,6.0,Gas,Automatic,23800,Riyadh,40000,False,Japan
-Kia,Stinger,2020,Saudi,Grey,Full,3.3,Gas,Automatic,7000,Dammam,160000,False,South Korea
-Ford,Taurus,2018,Other,Black,Semi Full,3.5,Gas,Automatic,100000,Dammam,89000,False,America
-Toyota,Prado,1999,Saudi,Oily,Full,2.8,Gas,Manual,230,Aseer,18000,False,Japan
-Bentley,Flying Spur,2011,Saudi,Navy,Full,6.0,Gas,Automatic,183000,Jeddah,100000,False,England
-Honda,Accord,2016,Other,White,Standard,1.4,Gas,Automatic,233000,Dammam,48000,False,Japan
-Hyundai,Sonata,2017,Saudi,White,Standard,2.4,Gas,Automatic,105000,Al-Ahsa,55000,False,South Korea
-Ford,Taurus,2015,Other,White,Full,3.0,Gas,Automatic,217000,Riyadh,49000,False,America
-Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,53000,Dammam,35000,False,South Korea
+Chevrolet,Malibu,2014,Saudi,Black,Full,3.0,Gas,Automatic,145000,Riyadh,46000,False,America
+Genesis,G80,2018,Saudi,Navy,Semi Full,3.8,Gas,Automatic,160000,Riyadh,100000,False,South Korea
+Ford,Explorer,2010,Saudi,Black,Standard,6.0,Gas,Automatic,35000,Riyadh,160000,False,America
+Chevrolet,Tahoe,2016,Saudi,White,Semi Full,5.3,Gas,Automatic,197000,Riyadh,105000,False,America
+Toyota,Rav4,2011,Saudi,Silver,Standard,2.5,Gas,Automatic,485000,Dammam,32000,False,Japan
+GMC,Yukon,2017,Gulf Arabic,Bronze,Semi Full,5.3,Gas,Automatic,96000,Riyadh,145000,False,America
+GMC,Sierra,2015,Saudi,Black,Full,5.3,Gas,Automatic,112000,Aseer,77000,False,America
+Lexus,ES,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,99000,Al-Ahsa,129000,False,Japan
+Chevrolet,Malibu,2015,Saudi,Navy,Full,2.5,Gas,Automatic,121000,Riyadh,17000,False,America
+Hyundai,Accent,2017,Saudi,Silver,Standard,1.4,Gas,Automatic,168000,Dammam,26000,False,South Korea
+Nissan,X-Trail,2018,Saudi,Black,Standard,2.5,Gas,Automatic,78794,Jeddah,68000,False,Japan
+Ford,Taurus,2018,Other,Black,Semi Full,3.5,Gas,Automatic,107000,Dammam,77000,False,America
+Hyundai,Senta fe,2016,Saudi,White,Semi Full,3.3,Gas,Automatic,255000,Aseer,51000,False,South Korea
+Mazda,6,2017,Gulf Arabic,White,Standard,2.5,Gas,Automatic,48004,Riyadh,55000,False,Japan
+Cadillac,CT-S,2019,Saudi,White,Semi Full,2.0,Gas,Automatic,43000,Dammam,135000,False,America
+Kia,Sportage,2019,Saudi,Black,Standard,1.6,Gas,Automatic,46000,Jeddah,65000,False,South Korea
+Chevrolet,Tahoe,2016,Gulf Arabic,Silver,Semi Full,5.2,Gas,Automatic,93000,Riyadh,130000,False,America
+GMC,Sierra,2015,Saudi,Black,Full,5.3,Gas,Automatic,196,Dammam,75000,False,America
+Mitsubishi,Attrage,2018,Saudi,White,Standard,1.2,Gas,Automatic,68000,Al-Medina,26500,False,Japan
 Lexus,LS,2003,Other,Bronze,Full,4.6,Gas,Automatic,1869,Riyadh,22000,False,Japan
-Toyota,Hiace,2017,Saudi,White,Standard,2.7,Gas,Manual,134007,Riyadh,70000,False,Japan
-Hyundai,H1,2016,Saudi,Another Color,Semi Full,2.4,Gas,Automatic,76000,Dammam,59000,False,South Korea
-Nissan,Bus Urvan,2009,Saudi,White,Standard,2.5,Gas,Manual,173000,Dammam,25000,False,Japan
-Toyota,Camry,2017,Saudi,White,Standard,2.5,Gas,Automatic,190144,Riyadh,54000,False,Japan
-Toyota,Prado,2014,Saudi,Another Color,Full,4.0,Gas,Automatic,314000,Riyadh,95000,False,Japan
-Toyota,Rav4,2016,Saudi,White,Full,2.5,Gas,Automatic,363000,Riyadh,58000,False,Japan
-GMC,Yukon,2010,Saudi,Golden,Semi Full,5.3,Gas,Automatic,340000,Abha,62000,False,America
-Chevrolet,Impala,2016,Gulf Arabic,Black,Standard,3.0,Diesel,Manual,88000,Qassim,61000,False,America
-Toyota,Furniture,2020,Saudi,White,Semi Full,2.7,Gas,Automatic,11571,Riyadh,116500,False,Japan
-Kia,Carnival,2016,Other,Golden,Semi Full,3.3,Gas,Automatic,118000,Riyadh,59000,False,South Korea
-Toyota,Land Cruiser,2013,Gulf Arabic,Golden,Full,1.0,Gas,Manual,378000,Hail,75000,False,Japan
-Kia,Rio,2012,Other,Grey,Full,1.4,Gas,Automatic,179,Riyadh,18000,False,South Korea
+Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,50000,Riyadh,53000,False,Japan
+Hyundai,Sonata,2018,Saudi,Brown,Full,2.4,Gas,Automatic,97000,Al-Medina,65000,False,South Korea
+Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,40000,Dammam,42000,False,Japan
+Toyota,Land Cruiser,2011,Saudi,White,Full,4.7,Gas,Automatic,140000,Dammam,110000,False,Japan
+Mercedes,S,2009,Saudi,Brown,Full,3.5,Gas,Automatic,174000,Riyadh,72000,False,Germany
+Toyota,Camry,2015,Saudi,White,Standard,2.5,Gas,Automatic,277000,Dammam,48000,False,Japan
+Hyundai,Elantra,2020,Saudi,Another Color,Standard,1.6,Gas,Automatic,15800,Aseer,58000,False,South Korea
+Ford,Taurus,2019,Saudi,White,Standard,3.5,Gas,Automatic,61817,Riyadh,85000,False,America
+GMC,Sierra,2018,Saudi,White,Standard,5.3,Gas,Automatic,95000,Dammam,93000,False,America
+Nissan,Pathfinder,2006,Saudi,White,Full,3.5,Gas,Automatic,300,Riyadh,21000,False,Japan
+Toyota,Land Cruiser,2007,Saudi,White,Semi Full,1.0,Gas,Automatic,400000,Taef,30000,False,Japan
+Toyota,Hilux,2016,Gulf Arabic,White,Standard,2.7,Gas,Manual,129000,Dammam,69000,False,Japan
+Toyota,Hilux,2016,Saudi,White,Standard,2.7,Gas,Manual,155000,Jeddah,75000,False,Japan
+Mercedes,C,2015,Gulf Arabic,Black,Semi Full,2.0,Gas,Automatic,85000,Qassim,119000,False,Germany
+Hyundai,H1,2014,Saudi,Silver,Full,2.4,Gas,Automatic,146000,Jeddah,40000,False,South Korea
+Mazda,CX9,2020,Saudi,Brown,Full,3.5,Gas,Automatic,25182,Riyadh,120000,False,Japan
+Mazda,3,2015,Saudi,Grey,Semi Full,2.0,Gas,Automatic,186,Jeddah,28000,False,Japan
+Chevrolet,Suburban,1994,Saudi,Green,Semi Full,5.3,Gas,Automatic,230000,Riyadh,11000,False,America
 Mercedes,S,2013,Saudi,Black,Full,3.0,Gas,Automatic,121000,Jeddah,118000,False,Germany
-Hyundai,Sonata,2017,Saudi,White,Standard,2.4,Gas,Automatic,139000,Jeddah,43000,False,South Korea
-Hyundai,Elantra,2020,Saudi,Grey,Standard,1.6,Gas,Automatic,20939,Riyadh,57500,False,South Korea
-Mercedes,E,2015,Saudi,White,Full,2.7,Gas,Automatic,23000,Jeddah,129000,False,Germany
-Toyota,Land Cruiser,2014,Saudi,White,Full,4.0,Gas,Automatic,187000,Riyadh,125000,False,Japan
-Hyundai,H1,2015,Saudi,White,Standard,4.0,Gas,Automatic,400000,Jeddah,43000,False,South Korea
-Mitsubishi,Pajero,2017,Gulf Arabic,Grey,Semi Full,3.5,Gas,Automatic,129000,Dammam,65000,False,Japan
-Mazda,6,2009,Saudi,Golden,Semi Full,3.7,Gas,Automatic,299000,Al-Baha,15000,False,Japan
-Genesis,G80,2018,Saudi,Another Color,Semi Full,3.8,Gas,Automatic,97000,Riyadh,98000,False,South Korea
+Toyota,Yaris,2010,Saudi,Silver,Standard,1.3,Gas,Manual,350000,Jeddah,13000,False,Japan
+Ford,Taurus,2014,Gulf Arabic,White,Standard,3.5,Gas,Automatic,155000,Qassim,57000,False,America
+Isuzu,D-MAX,2016,Saudi,White,Standard,2.5,Diesel,Manual,275000,Riyadh,55500,False,Japan
+Toyota,Corolla,2020,Saudi,Another Color,Semi Full,1.6,Gas,Automatic,39000,Jeddah,69000,False,Japan
+Changan,Eado,2020,Saudi,Blue,Standard,1.6,Gas,Automatic,87235,Riyadh,42500,False,China
+Toyota,FJ,2020,Saudi,Grey,Semi Full,4.0,Gas,Automatic,17000,Riyadh,140000,False,Japan
+Chrysler,C300,2018,Saudi,Black,Full,5.7,Gas,Automatic,34000,Riyadh,80000,False,America
+Hyundai,Tucson,2016,Saudi,Grey,Semi Full,2.0,Gas,Automatic,190000,Riyadh,54000,False,South Korea
+Ford,Explorer,2012,Saudi,Black,Standard,3.5,Gas,Automatic,336000,Dammam,35000,False,America
+Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,45370,Dammam,49000,False,Japan
+Chevrolet,Tahoe,2017,Saudi,Silver,Standard,5.3,Gas,Automatic,136000,Jeddah,108000,False,America
+Ford,Ranger,2015,Saudi,White,Semi Full,2.0,Gas,Manual,219000,Dammam,45000,False,America
+Toyota,Furniture,2018,Saudi,White,Semi Full,2.7,Gas,Automatic,224000,Dammam,85000,False,Japan
+MINI,Copper,2016,Gulf Arabic,Oily,Full,2.0,Gas,Automatic,107000,Dammam,80000,False,England
 Kia,Cerato,2014,Saudi,White,Standard,1.6,Gas,Automatic,155000,Riyadh,21000,False,South Korea
-Honda,Other,2011,Saudi,Black,Standard,1.0,Gas,Manual,4200,Jeddah,6500,False,Japan
+Toyota,FJ,2015,Gulf Arabic,White,Full,4.0,Gas,Automatic,200000,Aseer,88000,False,Japan
 Ford,Taurus,2011,Saudi,Black,Standard,1.6,Gas,Automatic,268000,Riyadh,28000,False,America
-Kia,Optima,2016,Saudi,Grey,Semi Full,2.4,Gas,Automatic,233124,Riyadh,51500,False,South Korea
 Mazda,CX9,2015,Saudi,Grey,Full,2.5,Gas,Automatic,62000,Qassim,76000,False,Japan
-Nissan,Sentra,2014,Saudi,Grey,Standard,1.4,Gas,Automatic,191000,Al-Medina,22000,False,Japan
-Ford,Taurus,2016,Other,White,Semi Full,3.5,Gas,Automatic,102000,Dammam,72000,False,America
-Chevrolet,Malibu,2013,Saudi,Silver,Semi Full,2.5,Gas,Automatic,260,Riyadh,22500,False,America
-Jeep,Wrangler,2018,Gulf Arabic,Orange,Standard,3.6,Gas,Manual,40000,Riyadh,115000,False,America
-Nissan,Sentra,2018,Gulf Arabic,White,Standard,1.6,Gas,Automatic,97000,Al-Ahsa,39000,False,Japan
+Kia,Cadenza,2016,Gulf Arabic,Black,Full,3.3,Diesel,Automatic,100,Tabouk,77000,False,South Korea
+Audi,A3,2016,Saudi,Red,Semi Full,1.4,Gas,Automatic,70278,Riyadh,69500,False,Germany
+Toyota,Avalon,2015,Gulf Arabic,White,Full,3.5,Gas,Automatic,100000,Riyadh,87000,False,Japan
+Ford,Flex,2014,Saudi,Brown,Semi Full,3.5,Gas,Automatic,180000,Dammam,49000,False,America
+Hyundai,Azera,2014,Saudi,White,Full,6.0,Gas,Automatic,276,Riyadh,35000,False,South Korea
+Toyota,Camry,2015,Saudi,Blue,Full,2.5,Gas,Automatic,133,Riyadh,56000,False,Japan
+Nissan,X-Trail,2018,Saudi,Brown,Standard,2.5,Gas,Automatic,30507,Riyadh,69500,False,Japan
+Toyota,Camry,2018,Saudi,White,Full,3.5,Gas,Automatic,111,Riyadh,66000,False,Japan
+Land Rover,Range Rover,2015,Saudi,White,Standard,2.0,Gas,Automatic,94000,Dammam,96000,False,England
+Dodge,Charger,2014,Other,Red,Full,3.6,Gas,Automatic,300000,Jeddah,35000,False,America
+Toyota,Camry,2013,Saudi,White,Full,2.5,Gas,Automatic,410000,Hafar Al-Batin,40000,False,Japan
+Peugeot,3008,2012,Other,Silver,Full,1.6,Gas,Automatic,175000,Makkah,20000,False,France
+Jeep,Cherokee,1999,Other,Black,Full,2.1,Gas,Automatic,250000,Jeddah,15000,False,America
 Toyota,Hilux,2015,Saudi,White,Full,2.7,Gas,Manual,184000,Aseer,70000,False,Japan
-Chevrolet,Tahoe,2008,Other,Black,Full,2.9,Gas,Automatic,265000,Riyadh,33000,False,America
-Chevrolet,Tahoe,2014,Saudi,Black,Semi Full,2.0,Gas,Automatic,255000,Riyadh,53000,False,America
-Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,74917,Riyadh,38500,False,South Korea
+GMC,Terrain,2015,Saudi,Silver,Semi Full,2.4,Gas,Automatic,125000,Riyadh,38000,False,America
 GMC,Suburban,2006,Other,Golden,Semi Full,5.3,Gas,Automatic,238,Riyadh,30000,False,America
-Lexus,GS,2017,Gulf Arabic,White,Full,1.0,Gas,Automatic,69000,Al-Ahsa,163000,False,Japan
-Ford,Expedition,2003,Saudi,Another Color,Semi Full,5.4,Gas,Automatic,400000,Al-Medina,5000,False,America
-Mazda,CX5,2021,Saudi,White,Full,2.5,Gas,Automatic,14000,Riyadh,125000,False,Japan
-Toyota,Innova,2017,Saudi,White,Standard,2.7,Gas,Automatic,106377,Riyadh,69500,False,Japan
+Toyota,Hilux,2016,Gulf Arabic,White,Standard,2.7,Gas,Manual,97173,Dammam,64000,False,Japan
+Toyota,Corolla,2013,Saudi,White,Standard,1.6,Gas,Automatic,290000,Dammam,30000,False,Japan
+Geely,EC7,2016,Saudi,White,Full,1.8,Gas,Automatic,42420,Taef,35000,False,China
+Lexus,LX,2012,Saudi,Silver,Full,5.7,Gas,Automatic,309,Makkah,150000,False,Japan
 Chevrolet,Camaro,2013,Saudi,Grey,Full,5.7,Gas,Automatic,137000,Al-Medina,63000,False,America
-Hyundai,Elantra,2014,Saudi,Black,Full,2.0,Gas,Automatic,288051,Riyadh,28000,False,South Korea
-Mazda,6,2018,Gulf Arabic,White,Semi Full,2.0,Gas,Automatic,25712,Riyadh,78000,False,Japan
-Peugeot,301,2014,Saudi,White,Standard,1.6,Gas,Automatic,170000,Jubail,18500,False,France
-Hyundai,Sonata,2019,Gulf Arabic,White,Standard,2.4,Gas,Automatic,35000,Riyadh,64000,False,South Korea
-Mazda,CX9,2020,Saudi,Grey,Full,2.5,Gas,Automatic,21367,Riyadh,148500,False,Japan
-Toyota,Avanza,2018,Saudi,White,Semi Full,1.6,Gas,Automatic,41000,Riyadh,45000,False,Japan
-BMW,The 5,2019,Saudi,Silver,Standard,2.5,Gas,Automatic,38000,Jeddah,140000,False,Germany
-Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4.0,Gas,Automatic,125000,Dammam,128000,False,Japan
+GMC,Suburban,2006,Saudi,Silver,Standard,6.0,Gas,Automatic,266,Yanbu,30000,False,America
+Chevrolet,Suburban,2011,Saudi,Black,Semi Full,4.7,Gas,Automatic,462000,Al-Medina,40000,False,America
+Hyundai,H1,2014,Saudi,Grey,Full,2.4,Gas,Automatic,185,Al-Medina,39000,False,South Korea
+Kia,Sportage,2017,Saudi,Silver,Full,2.4,Gas,Automatic,125000,Riyadh,65000,False,South Korea
+Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4.0,Gas,Automatic,179858,Riyadh,121500,False,Japan
+Nissan,Patrol,2013,Saudi,Golden,Semi Full,5.6,Gas,Automatic,328000,Riyadh,90000,False,Japan
+Honda,Civic,2020,Saudi,Silver,Semi Full,1.6,Gas,Automatic,25000,Dammam,68000,False,Japan
+Chevrolet,Malibu,2013,Saudi,White,Full,3.6,Gas,Automatic,177000,Dammam,30000,False,America
+Hyundai,Accent,2005,Saudi,White,Standard,1.5,Gas,Manual,294602,Dammam,5000,False,South Korea
+Toyota,Land Cruiser Pickup,2020,Saudi,Another Color,Full,4.0,Gas,Manual,18000,Dammam,140000,False,Japan
+Ford,Flex,2014,Saudi,Silver,Standard,3.5,Gas,Automatic,201000,Dammam,57000,False,America
+Mercedes,S,2010,Other,Grey,Semi Full,5.5,Gas,Automatic,228000,Al-Ahsa,63000,False,Germany
+Toyota,Furniture,2015,Saudi,Grey,Semi Full,4.0,Gas,Automatic,141000,Dammam,85000,False,Japan
+Ford,Fusion,2015,Saudi,Grey,Semi Full,2.4,Gas,Automatic,178000,Hail,30000,False,America
+Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,68000,Riyadh,36500,False,South Korea
+Mazda,3,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,90000,Jeddah,41000,False,Japan
+Chevrolet,Tahoe,2007,Saudi,White,Full,5.3,Gas,Automatic,35000,Tabouk,35000,False,America
 Lexus,LX,2015,Saudi,Golden,Semi Full,5.7,Gas,Automatic,100000,Taef,195000,False,Japan
-Kia,Optima,2016,Saudi,Black,Semi Full,2.4,Gas,Automatic,91000,Riyadh,45000,False,South Korea
-Chevrolet,Cruze,2013,Saudi,White,Standard,1.8,Gas,Automatic,120000,Taef,18000,False,America
-Ford,Focus,2014,Saudi,Black,Standard,1.5,Gas,Automatic,75000,Riyadh,21000,False,America
-Mercedes,S,2006,Saudi,Oily,Full,5.0,Gas,Automatic,220,Aseer,49000,False,Germany
-GMC,Sierra,2020,Saudi,Black,Standard,5.3,Gas,Automatic,16498,Riyadh,131500,False,America
-Mazda,6,2014,Saudi,White,Semi Full,2.5,Gas,Automatic,185000,Al-Medina,45000,False,Japan
+Hyundai,Accent,2020,Saudi,Another Color,Standard,1.4,Gas,Automatic,2000,Riyadh,42000,False,South Korea
+Lexus,LX,2013,Saudi,Golden,Full,5.7,Gas,Automatic,256000,Riyadh,155000,False,Japan
+Toyota,Hilux,2015,Saudi,White,Standard,2.7,Gas,Manual,183000,Dammam,60000,False,Japan
+Ford,Edge,2013,Saudi,Black,Standard,6.0,Gas,Automatic,277000,Najran,30000,False,America
+GMC,Yukon,2012,Saudi,Another Color,Semi Full,1.5,Gas,Automatic,65000,Makkah,80000,False,America
+Chevrolet,Caprice,2010,Saudi,Silver,Semi Full,3.6,Gas,Automatic,260000,Riyadh,29000,False,America
 Iveco,Daily,2018,Saudi,White,Standard,3.0,Diesel,Manual,116000,Riyadh,92000,False,Italy
-Lexus,ES,2017,Gulf Arabic,White,Full,3.5,Gas,Automatic,95000,Riyadh,141000,False,Japan
-Ford,Expedition,2014,Saudi,Grey,Semi Full,5.4,Gas,Automatic,150000,Riyadh,52000,False,America
-Ford,Echo Sport,2020,Gulf Arabic,White,Standard,1.5,Gas,Automatic,4434,Dammam,59000,False,America
-Chevrolet,Tahoe,2010,Saudi,Bronze,Full,5.3,Gas,Automatic,292000,Riyadh,55000,False,America
-Mercedes,C,2017,Other,White,Full,2.0,Gas,Automatic,50000,Dammam,175000,False,Germany
-Toyota,Land Cruiser,2011,Saudi,White,Full,4.6,Gas,Automatic,360000,Dammam,97000,False,Japan
-Kia,Sportage,2019,Saudi,Golden,Standard,1.6,Gas,Automatic,43000,Dammam,68000,False,South Korea
-Mitsubishi,Pajero,2012,Saudi,White,Semi Full,3.0,Gas,Automatic,360000,Riyadh,24000,False,Japan
-Toyota,Camry,2020,Gulf Arabic,White,Standard,2.5,Gas,Automatic,16500,Dammam,86900,False,Japan
-Kia,Optima,2015,Saudi,Red,Standard,2.4,Gas,Automatic,156000,Riyadh,36000,False,South Korea
-Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,69000,Riyadh,34000,False,South Korea
-Kia,Cerato,2016,Saudi,Another Color,Semi Full,1.6,Gas,Automatic,112000,Jeddah,30000,False,South Korea
-Nissan,Maxima,2002,Other,Another Color,Full,3.0,Gas,Automatic,340000,Jeddah,12000,False,Japan
-Ford,Flex,2014,Saudi,White,Standard,3.5,Gas,Automatic,128500,Qassim,49000,False,America
-Hyundai,Accent,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,93239,Riyadh,40500,False,South Korea
-Toyota,Avalon,2012,Saudi,White,Full,3.5,Gas,Automatic,225000,Aseer,75000,False,Japan
-Nissan,Maxima,2017,Saudi,White,Full,1.0,Gas,Automatic,135000,Riyadh,73000,False,Japan
-Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,90000,Riyadh,27000,False,South Korea
-Mazda,6,2014,Saudi,White,Full,2.5,Gas,Automatic,232000,Al-Medina,38000,False,Japan
-Toyota,Echo,2001,Saudi,Another Color,Standard,1.5,Gas,Manual,480000,Jeddah,10000,False,Japan
+Ford,Mustang,2015,Other,Black,Standard,5.0,Gas,Manual,119000,Dammam,85000,False,America
+Ford,Expedition,2018,Saudi,Red,Full,3.5,Gas,Automatic,36000,Riyadh,155000,False,America
+Jeep,Grand Cherokee,2014,Saudi,Black,Full,5.7,Gas,Automatic,120000,Riyadh,85000,False,America
+Toyota,Hilux,2017,Saudi,White,Semi Full,2.7,Gas,Manual,146000,Jubail,72000,False,Japan
+Toyota,Camry,2001,Other,Golden,Semi Full,2.5,Gas,Automatic,346900,Dammam,17000,False,Japan
+Dodge,Durango,2020,Saudi,Silver,Full,3.6,Gas,Automatic,36500,Taef,130000,False,America
+Jeep,Grand Cherokee,2015,Saudi,Silver,Full,5.7,Gas,Automatic,146000,Riyadh,95000,False,America
+Ford,Victoria,2008,Saudi,Blue,Semi Full,4.6,Gas,Automatic,3666,Al-Ahsa,16000,False,America
+Toyota,Camry,2018,Saudi,Silver,Standard,2.5,Gas,Automatic,109000,Qassim,80000,False,Japan
+Ford,Marquis,2010,Other,Another Color,Full,4.6,Gas,Automatic,360,Al-Medina,29000,False,America
+BMW,The 3,2014,Saudi,Golden,Full,2.0,Gas,Automatic,84000,Jeddah,60000,False,Germany
+Ford,Expedition,2015,Saudi,Black,Semi Full,5.4,Gas,Automatic,225000,Riyadh,80000,False,America
+Hyundai,Accent,2018,Saudi,Silver,Standard,1.4,Gas,Automatic,106818,Riyadh,29500,False,South Korea
+Toyota,Yaris,2018,Saudi,Silver,Standard,1.5,Gas,Automatic,131000,Jeddah,35000,False,Japan
 Great Wall,Wingle,2020,Saudi,Another Color,Full,2.0,Diesel,Manual,73000,Jeddah,1197,False,China
-Changan,CS95,2019,Saudi,Another Color,Full,2.0,Gas,Automatic,47000,Jeddah,77000,False,China
-GMC,Sierra,2011,Other,Silver,Semi Full,5.3,Gas,Automatic,258000,Riyadh,50000,False,America
-Mitsubishi,Pajero,2017,Saudi,Another Color,Full,3.8,Gas,Automatic,28000,Jeddah,88000,False,Japan
+Ford,Taurus,2016,Saudi,Black,Standard,3.5,Gas,Automatic,103000,Jeddah,70000,False,America
+Mercedes,C,2018,Other,Black,Full,2.0,Gas,Automatic,70000,Jeddah,177000,False,Germany
 Genesis,Royal,2016,Saudi,White,Full,3.8,Gas,Automatic,140000,Riyadh,88000,False,South Korea
-GMC,Yukon,2018,Saudi,Silver,Standard,5.3,Gas,Automatic,82011,Riyadh,146500,False,America
-Hyundai,Accent,2017,Saudi,Silver,Semi Full,1.4,Gas,Automatic,174000,Jeddah,24000,False,South Korea
-Chevrolet,Tahoe,2005,Saudi,Black,Full,7.9,Gas,Automatic,404846,Al-Ahsa,13500,False,America
-Isuzu,D-MAX,2019,Saudi,White,Full,7.5,Diesel,Manual,40000,Abha,125000,False,Japan
-Hyundai,Accent,2016,Other,White,Standard,1.4,Gas,Automatic,151000,Jeddah,25000,False,South Korea
-GMC,Yukon,2015,Saudi,White,Full,5.3,Gas,Automatic,133490,Riyadh,143000,False,America
-Jeep,Liberty,2012,Saudi,Silver,Semi Full,3.7,Gas,Automatic,247000,Al-Medina,25000,False,America
+Toyota,Land Cruiser,2013,Saudi,White,Full,4.6,Gas,Automatic,276000,Dammam,131000,False,Japan
+Kia,Carnival,2015,Saudi,White,Standard,3.3,Gas,Automatic,89000,Riyadh,38000,False,South Korea
+Kia,Rio,2016,Saudi,Another Color,Standard,1.4,Gas,Automatic,270000,Riyadh,25000,False,South Korea
 Toyota,Corolla,2013,Saudi,Silver,Standard,1.6,Gas,Automatic,186000,Al-Medina,27000,False,Japan
-Toyota,Land Cruiser 70,2003,Saudi,Brown,Standard,1.6,Gas,Manual,230000,Riyadh,69000,False,Japan
+Hyundai,Tucson,2020,Saudi,Silver,Standard,2.0,Gas,Automatic,16458,Riyadh,78500,False,South Korea
+Ford,Expedition,2014,Saudi,Black,Standard,5.4,Gas,Automatic,170000,Riyadh,40000,False,America
+Toyota,Avalon,2017,Saudi,Grey,Full,3.5,Gas,Automatic,104159,Riyadh,106500,False,Japan
+Dodge,Charger,2018,Saudi,Grey,Semi Full,5.7,Gas,Automatic,81000,Riyadh,125000,False,America
+Toyota,Camry,2014,Saudi,White,Standard,2.4,Gas,Automatic,183000,Dammam,34000,False,Japan
 Chevrolet,Aveo,2017,Other,Silver,Semi Full,1.6,Gas,Automatic,118000,Riyadh,20000,False,America
+Toyota,Hilux,2017,Saudi,White,Full,2.7,Gas,Manual,100000,Riyadh,90000,False,Japan
+Hyundai,Sonata,2019,Saudi,Grey,Semi Full,2.4,Gas,Automatic,78000,Riyadh,62000,False,South Korea
+Toyota,Camry,2016,Gulf Arabic,White,Full,2.4,Gas,Automatic,62000,Riyadh,75000,False,Japan
 Toyota,Furniture,2011,Saudi,Black,Standard,2.7,Gas,Automatic,304000,Jeddah,32000,False,Japan
-Mercedes,C,2016,Gulf Arabic,Silver,Full,2.0,Gas,Automatic,100500,Jeddah,120000,False,Germany
-Hyundai,Accent,2019,Saudi,Brown,Standard,1.4,Gas,Automatic,91000,Riyadh,32000,False,South Korea
-Mercedes,C,2014,Saudi,White,Full,1.8,Gas,Automatic,148925,Jeddah,79500,False,Germany
-Chevrolet,Tahoe,2015,Saudi,Bronze,Standard,5.3,Gas,Automatic,188000,Riyadh,100000,False,America
-GAC,GS3,2021,Saudi,White,Full,1.3,Gas,Automatic,9000,Al-Ahsa,57000,False,China
-Toyota,Corolla,2018,Saudi,Grey,Standard,1.6,Gas,Automatic,121000,Jeddah,48000,False,Japan
-Lexus,LS,2006,Other,Silver,Semi Full,4.3,Gas,Automatic,360000,Taef,38000,False,Japan
+Kia,Rio,2015,Saudi,White,Standard,1.6,Gas,Automatic,182000,Riyadh,21000,False,South Korea
+Hyundai,Accent,2017,Saudi,White,Semi Full,1.4,Gas,Automatic,183000,Dammam,24500,False,South Korea
+Dodge,Charger,2017,Other,Grey,Semi Full,5.7,Gas,Automatic,141000,Riyadh,108000,False,America
+Kia,Sorento,2016,Saudi,Grey,Full,3.3,Gas,Automatic,116000,Riyadh,53000,False,South Korea
+Toyota,Corolla,2017,Saudi,Golden,Semi Full,1.6,Gas,Automatic,107000,Riyadh,39000,False,Japan
+Honda,Odyssey,2015,Gulf Arabic,Silver,Semi Full,3.5,Gas,Automatic,100000,Dammam,57000,False,Japan
+Hyundai,Sonata,2020,Saudi,Grey,Standard,2.0,Gas,Automatic,7000,Jeddah,1010,False,South Korea
 Ford,Taurus,2017,Other,Black,Semi Full,1.7,Gas,Automatic,92595,Riyadh,83000,False,America
+Toyota,Land Cruiser 70,2015,Saudi,White,Full,2.6,Gas,Manual,180000,Makkah,80000,False,Japan
+Mercedes,C,2019,Gulf Arabic,Black,Full,2.0,Gas,Automatic,14000,Dammam,195000,False,Germany
+Toyota,Innova,2017,Saudi,White,Standard,2.7,Gas,Automatic,145997,Dammam,64000,False,Japan
 Lexus,NX,2020,Saudi,White,Full,2.0,Gas,Automatic,4100,Jeddah,170000,False,Japan
-Mercury,Milan,2010,Other,White,Full,1.4,Gas,Automatic,194,Taef,27000,False,America
-Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,221000,Jubail,1300,False,Japan
-Toyota,Rav4,2017,Saudi,Grey,Semi Full,2.4,Gas,Automatic,190000,Jeddah,60000,False,Japan
-Mercedes,S,2007,Saudi,Grey,Full,3.0,Gas,Automatic,270000,Al-Medina,45000,False,Germany
+Ford,Victoria,2011,Saudi,Golden,Full,4.6,Gas,Automatic,128,Najran,48000,False,America
+Hyundai,H1,2018,Saudi,Grey,Standard,2.4,Gas,Automatic,129000,Riyadh,55000,False,South Korea
+Mazda,3,2018,Saudi,Another Color,Standard,1.8,Gas,Automatic,53000,Al-Medina,54000,False,Japan
 Lexus,IS,2017,Saudi,Grey,Full,3.5,Gas,Automatic,69000,Jazan,150000,False,Japan
-Toyota,Rav4,2018,Saudi,White,Standard,2.5,Gas,Automatic,153000,Riyadh,66000,False,Japan
-Toyota,Furniture,2020,Saudi,White,Semi Full,2.7,Gas,Automatic,28000,Dammam,110000,False,Japan
-Land Rover,Range Rover,2018,Saudi,White,Full,5.0,Gas,Automatic,39000,Jeddah,150000,False,England
-Mazda,6,2016,Other,Silver,Full,2.5,Gas,Automatic,199000,Tabouk,42000,False,Japan
-Ford,Taurus,2016,Other,Grey,Full,3.5,Gas,Automatic,115000,Dammam,71000,False,America
-Kia,Cerato,2020,Saudi,Grey,Standard,1.6,Gas,Automatic,31700,Makkah,1500,False,South Korea
+Ford,Taurus,2016,Saudi,Silver,Standard,3.5,Gas,Automatic,144000,Dammam,55000,False,America
+Mitsubishi,Montero,2017,Saudi,Another Color,Full,3.3,Gas,Automatic,199000,Riyadh,73000,False,Japan
+Chevrolet,Colorado,2013,Saudi,White,Standard,2.0,Gas,Manual,196000,Dammam,28000,False,America
+Kia,Cores,2014,Saudi,White,Full,3.5,Gas,Automatic,81000,Jeddah,78000,False,South Korea
 Toyota,Hilux,2009,Saudi,White,Full,2.7,Gas,Manual,400,Dammam,32000,False,Japan
-Toyota,Prado,2016,Saudi,White,Semi Full,2.7,Gas,Automatic,60000,Jeddah,120000,False,Japan
-GAC,GS8,2020,Saudi,Blue,Full,2.0,Gas,Automatic,29200,Jeddah,80000,False,China
-Mazda,CX9,2017,Other,Grey,Full,2.5,Gas,Automatic,93000,Dammam,111000,False,Japan
-Hummer,H3,2006,Other,Blue,Full,3.5,Gas,Automatic,236000,Riyadh,22000,False,America
-Jeep,Wrangler,2015,Saudi,Blue,Full,3.6,Gas,Automatic,200,Jeddah,85000,False,America
-Lexus,ES,2018,Gulf Arabic,Bronze,Standard,3.5,Gas,Automatic,65000,Riyadh,122000,False,Japan
+Hyundai,Accent,2015,Saudi,Silver,Standard,1.4,Gas,Automatic,181802,Dammam,25500,False,South Korea
+Toyota,Hilux,2017,Saudi,White,Full,2.7,Gas,Manual,119000,Najran,69000,False,Japan
+Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,83000,Jeddah,37000,False,South Korea
+Volkswagen,Touareg,2006,Other,Another Color,Semi Full,4.0,Gas,Automatic,290000,Jeddah,12000,False,Germany
+Mercedes,C,2016,Other,White,Full,2.0,Gas,Automatic,99000,Dammam,129000,False,Germany
+Suzuki,APV,2016,Saudi,White,Standard,1.6,Gas,Manual,329000,Dammam,28000,False,Japan
+Hyundai,Elantra,2021,Saudi,Silver,Full,1.7,Gas,Automatic,2600,Makkah,95000,False,South Korea
+Lexus,NX,2020,Saudi,Blue,Standard,2.0,Gas,Automatic,30000,Jeddah,160000,False,Japan
+Mazda,6,2016,Saudi,Red,Full,2.5,Gas,Automatic,117000,Hafar Al-Batin,72000,False,Japan
 Chevrolet,Tahoe,2016,Other,White,Full,5.3,Gas,Automatic,149000,Dammam,149000,False,America
-Mazda,CX9,2015,Saudi,Brown,Full,1.9,Gas,Automatic,274000,Riyadh,66000,False,Japan
+Daihatsu,Gran Max,2014,Saudi,White,Standard,1.5,Gas,Manual,254000,Riyadh,25000,False,Japan
 Toyota,Yaris,2016,Saudi,White,Semi Full,1.5,Gas,Automatic,155000,Jeddah,32000,False,Japan
-Chevrolet,Caprice,2015,Saudi,Silver,Standard,6.0,Gas,Automatic,105000,Riyadh,80000,False,America
-Hyundai,Senta fe,2016,Saudi,White,Semi Full,3.3,Gas,Automatic,212000,Dammam,57000,False,South Korea
 Mercedes,S,2006,Other,White,Semi Full,4.3,Gas,Automatic,235115,Riyadh,15000,False,Germany
-Hyundai,Tucson,2018,Saudi,Bronze,Semi Full,1.6,Gas,Automatic,27900,Riyadh,72000,False,South Korea
-Renault,Talisman,2017,Saudi,Grey,Standard,2.0,Gas,Automatic,80151,Riyadh,41500,False,France
-Ford,Flex,2010,Other,Black,Standard,3.5,Gas,Automatic,248000,Al-Medina,20000,False,America
-Toyota,Hiace,2015,Gulf Arabic,White,Standard,2.7,Gas,Manual,280000,Jazan,50000,False,Japan
-Ford,Edge,2017,Gulf Arabic,White,Full,1.7,Gas,Automatic,60000,Al-Ahsa,105000,False,America
-GMC,Yukon,2011,Saudi,Silver,Standard,5.3,Gas,Automatic,401000,Riyadh,52000,False,America
-Ford,Taurus,2018,Saudi,Silver,Standard,2.0,Gas,Automatic,95000,Dammam,75000,False,America
-Hyundai,Azera,2020,Saudi,Another Color,Standard,3.5,Gas,Automatic,39000,Jeddah,99000,False,South Korea
-Kia,Cadenza,2019,Saudi,Silver,Semi Full,3.5,Gas,Automatic,94000,Riyadh,88000,False,South Korea
-Dodge,Challenger,2018,Other,Another Color,Full,4.5,Gas,Automatic,90000,Dammam,113000,False,America
-Hyundai,Elantra,2017,Saudi,Grey,Full,1.6,Gas,Automatic,132310,Riyadh,49500,False,South Korea
+GMC,Sierra,2016,Saudi,Silver,Full,5.3,Gas,Automatic,144000,Aseer,95000,False,America
+Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,80000,Jeddah,35500,False,Japan
+Toyota,Hilux,2017,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,83000,Jubail,76000,False,Japan
+Chevrolet,Tahoe,2007,Other,White,Semi Full,5.3,Gas,Automatic,228400,Jazan,39000,False,America
+Mercedes,S,1980,Other,White,Standard,3.0,Gas,Automatic,160000,Riyadh,40000,False,Germany
+Toyota,Camry,2020,Saudi,Bronze,Full,2.5,Gas,Automatic,1700,Makkah,115000,False,Japan
+Toyota,Camry,2019,Saudi,Black,Full,2.5,Gas,Automatic,13136,Riyadh,99500,False,Japan
+Hyundai,Sonata,2020,Saudi,White,Full,2.5,Gas,Automatic,17000,Jeddah,1430,False,South Korea
 Nissan,Patrol,2015,Saudi,Grey,Full,3.2,Gas,Automatic,125000,Riyadh,130000,False,Japan
-Geely,Emgrand,2019,Saudi,Red,Full,1.8,Gas,Automatic,43000,Riyadh,45000,False,China
-Genesis,Platinum,2015,Saudi,Another Color,Semi Full,3.5,Gas,Automatic,181000,Riyadh,70000,False,South Korea
-Toyota,Cressida,1991,Other,White,Full,2.4,Gas,Manual,100,Riyadh,5000,False,Japan
-Lexus,GS,2016,Other,Silver,Semi Full,2.5,Gas,Automatic,58000,Dammam,137000,False,Japan
-Chevrolet,Tahoe,2014,Saudi,Brown,Semi Full,5.3,Gas,Automatic,315000,Dammam,52000,False,America
-Kia,Rio,2016,Saudi,White,Standard,1.4,Gas,Automatic,237000,Dammam,21000,False,South Korea
-Nissan,Datsun,2013,Gulf Arabic,White,Standard,1.7,Gas,Manual,273778,Al-Ahsa,32000,False,Japan
-Chrysler,S300,2018,Other,Navy,Full,3.6,Gas,Automatic,66000,Dammam,122000,False,America
-Kia,Cadenza,2018,Gulf Arabic,Silver,Full,3.3,Gas,Automatic,69000,Riyadh,95000,False,South Korea
-Fiat,500,2019,Saudi,Grey,Semi Full,1.4,Gas,Automatic,28000,Makkah,62000,False,Italy
-Kia,Carnival,2016,Saudi,Grey,Full,3.3,Gas,Automatic,21000,Jazan,65000,False,South Korea
-Mercedes,C,2017,Other,Black,Full,2.0,Gas,Automatic,86000,Jeddah,105000,False,Germany
-Hyundai,Accent,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,48511,Riyadh,40000,False,South Korea
+FAW,T77,2021,Saudi,Black,Full,1.2,Gas,Automatic,4000,Jeddah,73000,False,China
+BMW,Z,2015,Saudi,White,Full,4.0,Gas,Automatic,65555,Jeddah,95000,False,Germany
+GMC,Sierra,2018,Saudi,Another Color,Standard,5.3,Gas,Automatic,61000,Dammam,145000,False,America
+MG,5,2020,Saudi,Golden,Full,1.5,Gas,Automatic,15000,Yanbu,41000,False,England
+GMC,Yukon,2017,Saudi,Bronze,Semi Full,6.0,Gas,Automatic,61339,Riyadh,155000,False,America
+Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,32000,Dammam,33000,False,South Korea
+Genesis,Coupe,2014,Saudi,White,Full,3.8,Gas,Automatic,89000,Dammam,65000,False,South Korea
 Hyundai,Tucson,2016,Saudi,White,Full,2.4,Gas,Automatic,97000,Al-Medina,63000,False,South Korea
-Mitsubishi,Pajero,2015,Saudi,Brown,Standard,3.5,Gas,Automatic,264000,Dammam,38000,False,Japan
-Mercedes,C,2017,Other,White,Full,2.0,Gas,Automatic,54000,Dammam,153000,False,Germany
-Kia,Optima,2017,Saudi,White,Standard,2.4,Gas,Automatic,263400,Riyadh,40000,False,South Korea
+Mercedes,E,2019,Saudi,White,Full,2.0,Gas,Automatic,109007,Jeddah,160000,False,Germany
 Honda,Odyssey,2015,Saudi,White,Standard,3.5,Gas,Automatic,153000,Dammam,60000,False,Japan
-Nissan,Altima,2018,Gulf Arabic,Silver,Semi Full,2.5,Gas,Automatic,32000,Riyadh,66000,False,Japan
-Nissan,Patrol,2016,Saudi,Grey,Semi Full,4.0,Gas,Automatic,205,Riyadh,120000,False,Japan
-Hyundai,Elantra,2019,Saudi,White,Standard,1.6,Gas,Automatic,84000,Al-Medina,51000,False,South Korea
-Hyundai,Senta fe,2016,Saudi,White,Semi Full,3.0,Gas,Automatic,131,Riyadh,65000,False,South Korea
+Hyundai,Sonata,2018,Other,White,Full,2.0,Gas,Automatic,65239,Qassim,67000,False,South Korea
+GMC,Acadia,2016,Saudi,Black,Semi Full,3.6,Gas,Automatic,148000,Riyadh,70000,False,America
 Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,93000,Riyadh,29500,False,Japan
+Hyundai,Senta fe,2011,Saudi,White,Semi Full,3.5,Gas,Automatic,140000,Riyadh,39000,False,South Korea
 Toyota,Furniture,2020,Saudi,Silver,Full,4.0,Gas,Automatic,20000,Riyadh,130000,False,Japan
-GMC,Acadia,2016,Saudi,White,Semi Full,3.6,Gas,Automatic,106000,Riyadh,75000,False,America
-Ford,Taurus,2018,Saudi,Blue,Standard,3.5,Gas,Automatic,91355,Riyadh,74500,False,America
-Toyota,Yaris,2017,Saudi,Grey,Standard,1.3,Gas,Automatic,137200,Jeddah,32000,False,Japan
-Toyota,Furniture,2012,Saudi,White,Full,2.7,Gas,Automatic,213,Taef,58000,False,Japan
-Hyundai,Elantra,2019,Saudi,Navy,Semi Full,2.0,Gas,Automatic,55000,Jeddah,60000,False,South Korea
-Hyundai,Sonata,2013,Saudi,White,Full,2.4,Gas,Automatic,205000,Riyadh,40000,False,South Korea
-Kia,Cadenza,2016,Saudi,White,Standard,3.3,Gas,Automatic,122000,Riyadh,50000,False,South Korea
-Hyundai,Sonata,2012,Saudi,White,Semi Full,2.4,Gas,Automatic,300,Jeddah,21000,False,South Korea
-Nissan,Sunny,2018,Saudi,White,Standard,1.5,Gas,Automatic,79968,Riyadh,29000,False,Japan
-Toyota,Avanza,2016,Saudi,White,Standard,1.6,Gas,Automatic,115,Hafar Al-Batin,30000,False,Japan
+Ford,Fusion,2012,Other,Silver,Semi Full,2.5,Gas,Automatic,300000,Dammam,18000,False,America
+Kia,Cerato,2018,Saudi,White,Standard,1.6,Gas,Automatic,127000,Riyadh,41500,False,South Korea
+Jaguar,XF,2015,Saudi,Red,Full,3.5,Gas,Automatic,100000,Makkah,65000,False,England
+Land Rover,Range Rover,2014,Saudi,White,Full,5.0,Gas,Automatic,97500,Jeddah,195000,False,England
+Toyota,Yaris,2018,Saudi,Silver,Standard,1.5,Gas,Automatic,76000,Hafar Al-Batin,37500,False,Japan
+Toyota,Prado,2016,Saudi,White,Semi Full,4.0,Gas,Automatic,201000,Riyadh,108000,False,Japan
+Hyundai,Elantra,2015,Saudi,White,Full,2.0,Gas,Automatic,250000,Al-Ahsa,32000,False,South Korea
 Chevrolet,Suburban,2015,Saudi,Another Color,Standard,5.3,Gas,Automatic,164000,Dammam,110000,False,America
+Fiat,500,2020,Gulf Arabic,Black,Full,1.4,Gas,Automatic,7000,Riyadh,115000,False,Italy
 Toyota,Camry,2013,Other,Black,Standard,2.5,Gas,Automatic,214,Dammam,42000,False,Japan
-Hyundai,Accent,2018,Saudi,Silver,Standard,1.4,Gas,Automatic,96000,Dammam,36000,False,South Korea
-Toyota,Land Cruiser,2014,Gulf Arabic,White,Full,4.6,Gas,Automatic,213000,Dammam,142000,False,Japan
-GMC,Yukon,2008,Saudi,Another Color,Full,5.3,Gas,Automatic,382000,Riyadh,45000,False,America
-Jaguar,XJ,2015,Saudi,White,Full,3.0,Gas,Automatic,57000,Jeddah,180000,False,England
-BMW,The 5,2009,Saudi,Black,Full,2.3,Gas,Automatic,216500,Riyadh,24000,False,Germany
+Toyota,Corolla,2020,Gulf Arabic,Silver,Full,1.6,Gas,Automatic,15000,Riyadh,75000,False,Japan
+Ford,Fusion,2012,Saudi,Silver,Semi Full,2.5,Gas,Automatic,240000,Jeddah,19500,False,America
+INFINITI,Q,2020,Saudi,Brown,Full,3.7,Gas,Automatic,2000,Jeddah,155000,False,Japan
+Ford,Ranger,2021,Saudi,Navy,Standard,2.2,Diesel,Manual,9000,Abha,85000,False,America
 Ford,Expedition,2013,Saudi,White,Semi Full,5.4,Gas,Automatic,250000,Riyadh,50000,False,America
 Isuzu,D-MAX,2010,Saudi,White,Standard,2.5,Diesel,Manual,380000,Dammam,29000,False,Japan
-Zhengzhou,Pick up,2016,Saudi,White,Full,2.4,Gas,Manual,128,Al-Baha,35000,False,Other
-Porsche,Cayenne Turbo,2008,Other,Silver,Full,4.8,Gas,Automatic,152750,Riyadh,50000,False,Germany
-Chevrolet,Malibu,2013,Other,Golden,Semi Full,2.5,Gas,Automatic,220000,Jeddah,21000,False,America
+Chevrolet,Tahoe,2018,Other,Black,Semi Full,3.0,Gas,Automatic,127000,Dammam,159000,False,America
+Ford,Taurus,2016,Other,White,Full,3.5,Gas,Automatic,200000,Riyadh,57000,False,America
 Hyundai,Elantra,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,57000,Riyadh,44000,False,South Korea
+Hyundai,Sonata,2016,Saudi,White,Standard,2.4,Gas,Automatic,191000,Riyadh,45000,False,South Korea
 Classic,Cadillac,1995,Saudi,Red,Full,8.0,Gas,Automatic,119,Riyadh,25000,False,Other
+Porsche,Cayenne,2006,Saudi,Grey,Full,3.6,Gas,Automatic,195,Jeddah,18000,False,Germany
+Hyundai,Accent,2019,Saudi,Grey,Standard,1.4,Gas,Automatic,115300,Dammam,35000,False,South Korea
+Honda,Odyssey,2016,Saudi,Red,Semi Full,2.0,Gas,Automatic,150000,Jeddah,60000,False,Japan
+Toyota,Hilux,2012,Saudi,Silver,Full,2.7,Gas,Automatic,127000,Riyadh,65000,False,Japan
+Chevrolet,Tahoe,2008,Other,Another Color,Semi Full,5.3,Gas,Automatic,300000,Aseer,35000,False,America
 Toyota,Camry,2000,Gulf Arabic,White,Standard,1.6,Gas,Automatic,40000,Dammam,16000,False,Japan
-Toyota,Avalon,2008,Saudi,White,Standard,3.5,Gas,Automatic,320000,Riyadh,30000,False,Japan
-Nissan,Altima,2019,Gulf Arabic,White,Full,2.5,Gas,Automatic,1000,Riyadh,115000,False,Japan
-Mitsubishi,Pajero,2017,Saudi,Black,Full,3.8,Gas,Automatic,251000,Jeddah,65000,False,Japan
-Ford,Taurus,2018,Unknown,Black,Standard,3.5,Gas,Automatic,88000,Al-Baha,78000,False,America
-Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,66000,Al-Medina,29000,False,Japan
+Toyota,Land Cruiser 70,2015,Saudi,Another Color,Semi Full,4.0,Gas,Manual,360538,Riyadh,80000,False,Japan
+BMW,The 4,2015,Gulf Arabic,Blue,Full,2.0,Gas,Automatic,122000,Riyadh,110000,False,Germany
+GMC,Sierra,2011,Saudi,White,Standard,6.0,Gas,Automatic,233000,Dammam,36000,False,America
+Honda,Pilot,2005,Other,Blue,Semi Full,6.0,Gas,Automatic,4130,Dammam,15000,False,Japan
 Chevrolet,Suburban,2004,Saudi,Silver,Semi Full,5.3,Gas,Automatic,368000,Riyadh,16000,False,America
-Toyota,Camry,2010,Gulf Arabic,Brown,Full,1.8,Gas,Manual,370,Tabouk,25000,False,Japan
-Lexus,ES,2017,Other,White,Full,3.0,Gas,Automatic,69000,Dammam,142000,False,Japan
+Lexus,LS,1997,Saudi,Green,Full,4.0,Gas,Automatic,361000,Riyadh,12000,False,Japan
 Mitsubishi,Pajero,2017,Saudi,White,Full,3.5,Gas,Automatic,65400,Riyadh,58000,False,Japan
-Chevrolet,Tahoe,2015,Saudi,Golden,Standard,5.3,Gas,Automatic,179,Riyadh,102000,False,America
-Renault,Duster,2018,Saudi,Black,Standard,2.0,Gas,Automatic,164169,Riyadh,29500,False,France
-Hyundai,H1,2018,Saudi,White,Standard,2.4,Gas,Automatic,151000,Dammam,58000,False,South Korea
-Lexus,GS,2017,Saudi,Bronze,Full,3.5,Gas,Automatic,80000,Dammam,175000,False,Japan
-Toyota,Land Cruiser Pickup,2014,Saudi,Bronze,Standard,6.0,Gas,Manual,192000,Al-Medina,73000,False,Japan
-Jeep,Wrangler,2018,Saudi,White,Full,3.0,Gas,Automatic,70000,Dammam,108000,False,America
-Nissan,Sunny,2017,Saudi,White,Standard,1.5,Gas,Automatic,58000,Al-Medina,24500,False,Japan
-Toyota,Camry,2017,Saudi,Another Color,Standard,2.5,Gas,Automatic,84000,Qassim,45000,False,Japan
-Hyundai,Accent,2017,Saudi,Silver,Standard,1.4,Gas,Automatic,181000,Dammam,29000,False,South Korea
-Ford,Marquis,2003,Other,Grey,Full,1.0,Gas,Automatic,300,Al-Medina,9000,False,America
-Toyota,Camry,2011,Other,Grey,Full,2.5,Gas,Automatic,137502,Al-Ahsa,35000,False,Japan
-Nissan,Maxima,2014,Gulf Arabic,White,Semi Full,3.5,Gas,Automatic,180,Riyadh,40000,False,Japan
-Toyota,Camry,2018,Saudi,Red,Full,3.5,Gas,Automatic,24000,Riyadh,106000,False,Japan
-Toyota,Camry,2017,Saudi,White,Standard,2.5,Gas,Automatic,175000,Aseer,45000,False,Japan
+Mitsubishi,ASX,2021,Saudi,Grey,Full,2.0,Gas,Automatic,2300,Riyadh,75000,False,Japan
+Toyota,Camry,2016,Saudi,White,Semi Full,2.7,Gas,Automatic,194710,Abha,55000,False,Japan
+GMC,Yukon,2003,Other,Golden,Standard,5.3,Gas,Automatic,240000,Riyadh,15000,False,America
+Mitsubishi,Pajero,2014,Saudi,White,Full,3.5,Gas,Automatic,168,Besha,49000,False,Japan
+Honda,Accord,2017,Saudi,Grey,Semi Full,1.0,Gas,Automatic,126000,Riyadh,75000,False,Japan
+Suzuki,Grand Vitara,2013,Saudi,White,Semi Full,2.0,Gas,Manual,16000,Riyadh,35000,False,Japan
+Hyundai,Sonata,2016,Saudi,White,Full,2.4,Gas,Automatic,230000,Aseer,45000,False,South Korea
+Toyota,Hilux,2020,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,27000,Riyadh,104500,False,Japan
+Hyundai,Accent,2016,Saudi,Grey,Standard,1.4,Gas,Automatic,151000,Dammam,24000,False,South Korea
+INFINITI,FX,2009,Saudi,White,Full,3.5,Gas,Automatic,250000,Jeddah,35000,False,Japan
+Kia,Sportage,2014,Saudi,Grey,Full,2.4,Gas,Automatic,140000,Dammam,45000,False,South Korea
+Dodge,Charger,2013,Saudi,Black,Semi Full,3.6,Gas,Automatic,205000,Riyadh,29000,False,America
+Toyota,Camry,2019,Saudi,Black,Standard,2.5,Hybrid,Automatic,55000,Makkah,80000,False,Japan
+Toyota,Yaris,2018,Saudi,Brown,Standard,1.5,Gas,Automatic,122000,Dammam,37000,False,Japan
+Toyota,Furniture,2017,Saudi,White,Semi Full,2.7,Gas,Automatic,12000,Jeddah,80000,False,Japan
+Chrysler,C300,2019,Saudi,Black,Full,5.7,Gas,Automatic,45000,Riyadh,145000,False,America
+Hyundai,Elantra,2014,Saudi,Grey,Full,2.0,Gas,Automatic,119000,Riyadh,33000,False,South Korea
 Chevrolet,Malibu,2021,Saudi,Black,Standard,1.5,Gas,Automatic,24000,Arar,1200,False,America
-Mitsubishi,Pajero,2016,Saudi,Another Color,Full,3.5,Gas,Automatic,257000,Riyadh,45000,False,Japan
-Toyota,Hilux,2012,Saudi,White,Standard,2.7,Gas,Manual,394000,Qassim,40000,False,Japan
-Toyota,Land Cruiser,1995,Unknown,Silver,Full,4.6,Gas,Manual,300000,Tabouk,20000,False,Japan
-Hyundai,Accent,2015,Gulf Arabic,White,Semi Full,1.6,Gas,Automatic,230000,Riyadh,28000,False,South Korea
+Lexus,IS,2016,Gulf Arabic,Grey,Full,3.5,Gas,Automatic,166,Al-Ahsa,90000,False,Japan
+Mazda,CX5,2020,Saudi,White,Full,2.0,Gas,Automatic,26000,Jeddah,112000,False,Japan
+Toyota,Land Cruiser,2002,Saudi,White,Semi Full,4.5,Gas,Manual,400,Jazan,40000,False,Japan
+Ford,Marquis,2001,Saudi,White,Standard,4.6,Gas,Automatic,350000,Aseer,6000,False,America
+Hyundai,Accent,2018,Saudi,Grey,Standard,1.4,Gas,Automatic,93315,Riyadh,35500,False,South Korea
 Toyota,Corolla,2009,Saudi,White,Semi Full,2.5,Gas,Manual,360,Jeddah,15000,False,Japan
-Hyundai,H1,2013,Gulf Arabic,White,Semi Full,2.4,Gas,Automatic,246,Tabouk,31000,False,South Korea
-Mercedes,S,2007,Saudi,Black,Full,3.5,Gas,Automatic,243000,Riyadh,45000,False,Germany
-Hyundai,Tucson,2018,Saudi,Another Color,Standard,2.0,Gas,Automatic,85000,Jeddah,65000,False,South Korea
+Toyota,Hilux,2019,Saudi,White,Full,2.7,Diesel,Automatic,73577,Riyadh,135000,False,Japan
+Hyundai,Accent,2017,Saudi,Grey,Standard,1.4,Gas,Automatic,200000,Dammam,30000,False,South Korea
+Honda,Accord,2009,Saudi,White,Full,2.4,Gas,Automatic,159000,Dammam,36000,False,Japan
+Ford,Taurus,2019,Saudi,White,Standard,2.0,Gas,Automatic,82569,Riyadh,80500,False,America
 Nissan,Patrol,2015,Saudi,Grey,Standard,5.7,Gas,Automatic,190000,Riyadh,99000,False,Japan
-Mazda,CX3,2019,Saudi,White,Standard,2.0,Gas,Automatic,64000,Jeddah,55000,False,Japan
-Ford,Expedition,2013,Saudi,Another Color,Semi Full,5.4,Gas,Automatic,174000,Al-Ahsa,50000,False,America
-Toyota,Corolla,2001,Saudi,Another Color,Standard,8.1,Gas,Manual,600,Jazan,9500,False,Japan
+Volkswagen,Passat,2012,Saudi,Another Color,Semi Full,2.5,Gas,Automatic,216000,Jeddah,22000,False,Germany
+Toyota,Hilux,2009,Saudi,White,Standard,1.5,Gas,Manual,25788,Makkah,30000,False,Japan
+GMC,Sierra,2013,Saudi,Silver,Standard,5.3,Gas,Automatic,292000,Dammam,45000,False,America
+Lexus,GS,2015,Saudi,White,Semi Full,3.5,Gas,Automatic,224,Riyadh,88000,False,Japan
 Lincoln,Navigator,2015,Gulf Arabic,Black,Full,3.7,Gas,Automatic,80000,Dammam,110000,False,America
-Toyota,Furniture,2015,Saudi,White,Full,2.7,Gas,Automatic,157000,Taef,64000,False,Japan
-Ford,Expedition,2014,Saudi,Black,Semi Full,5.4,Gas,Automatic,263000,Riyadh,48000,False,America
-Toyota,Camry,2017,Saudi,White,Standard,2.5,Gas,Automatic,126000,Dammam,63000,False,Japan
 Kia,Sorento,2011,Other,Silver,Standard,2.4,Gas,Automatic,160,Dammam,30000,False,South Korea
 Toyota,Land Cruiser,2004,Saudi,White,Standard,4.6,Gas,Manual,425000,Jazan,35000,False,Japan
-Honda,Accord,2008,Saudi,Golden,Standard,2.4,Gas,Automatic,197000,Abha,20000,False,Japan
-Mazda,CX9,2020,Saudi,White,Full,2.0,Gas,Automatic,9500,Qassim,132000,False,Japan
-GMC,Sierra,2020,Saudi,Navy,Standard,5.3,Gas,Automatic,17000,Dammam,156000,False,America
-Toyota,Innova,2015,Gulf Arabic,White,Full,2.7,Gas,Automatic,14000,Dammam,43000,False,Japan
-Toyota,Previa,2017,Gulf Arabic,White,Standard,2.4,Gas,Automatic,139000,Riyadh,62000,False,Japan
-Hyundai,Tucson,2017,Saudi,Grey,Standard,2.0,Gas,Automatic,120000,Jeddah,65000,False,South Korea
+Mercedes,A,2020,Other,White,Full,1.3,Gas,Automatic,4700,Dammam,165000,False,Germany
+Hyundai,Accent,2018,Saudi,Silver,Standard,1.4,Gas,Automatic,76000,Riyadh,37500,False,South Korea
+Mercedes,GL,2012,Saudi,Black,Full,4.8,Gas,Automatic,106000,Riyadh,71000,False,Germany
 Hyundai,Accent,2017,Saudi,White,Semi Full,1.6,Gas,Automatic,109000,Riyadh,31000,False,South Korea
-Audi,Q5,2018,Saudi,Another Color,Semi Full,2.0,Gas,Automatic,17859,Jeddah,141000,False,Germany
-Toyota,Yaris,2014,Saudi,Another Color,Standard,1.4,Gas,Automatic,201000,Riyadh,23000,False,Japan
+Hyundai,Azera,2019,Saudi,Grey,Standard,3.0,Gas,Automatic,74000,Riyadh,80000,False,South Korea
+Ford,Other,2013,Gulf Arabic,Blue,Semi Full,3.0,Gas,Automatic,318000,Riyadh,40000,False,America
+Jeep,Compass,2016,Saudi,Brown,Standard,2.4,Gas,Automatic,96213,Riyadh,38500,False,America
+Hyundai,Accent,2019,Saudi,Grey,Standard,1.4,Gas,Automatic,77000,Jeddah,38000,False,South Korea
+Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,135000,Dammam,30000,False,South Korea
+Kia,Optima,2015,Saudi,Navy,Semi Full,2.0,Gas,Automatic,190000,Riyadh,38000,False,South Korea
+Ford,Taurus,2015,Saudi,White,Semi Full,2.5,Gas,Automatic,172000,Jeddah,52000,False,America
+Ford,Expedition,2016,Saudi,Grey,Standard,5.4,Gas,Automatic,172000,Al-Ahsa,76000,False,America
+Lexus,ES,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,75000,Riyadh,125000,False,Japan
+Mitsubishi,Pajero,2012,Saudi,Silver,Standard,3.5,Gas,Automatic,78276,Riyadh,41500,False,Japan
 Toyota,Rav4,2020,Saudi,White,Standard,2.0,Gas,Automatic,30000,Najran,93000,False,Japan
-Ford,Expedition,2020,Saudi,Silver,Full,3.5,Gas,Automatic,5000,Riyadh,180000,False,America
-Chrysler,300,2014,Other,Black,Full,5.7,Gas,Automatic,188000,Al-Ahsa,57000,False,America
+Changan,Eado,2020,Saudi,Brown,Standard,1.6,Gas,Automatic,84000,Riyadh,42500,False,China
 Lexus,ES,2018,Saudi,Black,Full,3.5,Gas,Automatic,91000,Riyadh,130000,False,Japan
 Hyundai,Tucson,2018,Saudi,Blue,Standard,2.0,Gas,Automatic,17002,Jeddah,70500,False,South Korea
-Ford,Taurus,2015,Other,White,Full,3.1,Gas,Automatic,96000,Dammam,81000,False,America
-GMC,Yukon,2009,Saudi,Another Color,Full,5.3,Gas,Automatic,440000,Dammam,45000,False,America
-Ford,Explorer,2016,Other,Black,Semi Full,2.3,Gas,Automatic,290000,Jeddah,79000,False,America
-Toyota,Hilux,2013,Gulf Arabic,White,Semi Full,2.4,Diesel,Manual,300000,Dammam,70000,False,Japan
+Cadillac,CT6,2018,Saudi,Black,Full,3.6,Gas,Automatic,27000,Riyadh,150000,False,America
+Toyota,Avalon,2020,Saudi,White,Full,3.5,Gas,Automatic,33000,Jeddah,164000,False,Japan
+Mitsubishi,Pajero,2015,Saudi,Another Color,Standard,3.5,Gas,Automatic,98000,Qassim,60000,False,Japan
 Hyundai,Elantra,2018,Saudi,Brown,Semi Full,1.6,Gas,Automatic,81000,Riyadh,44000,False,South Korea
-Lexus,ES,2018,Gulf Arabic,White,Full,3.5,Gas,Automatic,128000,Riyadh,93500,False,Japan
-Toyota,Camry,2014,Saudi,Blue,Full,2.5,Gas,Automatic,225000,Jeddah,48000,False,Japan
-Hyundai,Elantra,2021,Saudi,Grey,Semi Full,2.0,Gas,Automatic,7500,Makkah,1368,False,South Korea
-Chevrolet,Traverse,2010,Saudi,Black,Standard,3.6,Gas,Automatic,219,Jeddah,22000,False,America
-Ford,Expedition,2013,Saudi,White,Standard,5.4,Gas,Automatic,235000,Riyadh,50000,False,America
-Ford,Flex,2013,Saudi,Black,Full,3.5,Gas,Automatic,71927,Riyadh,64000,False,America
-Hyundai,Sonata,2016,Saudi,Brown,Semi Full,2.4,Gas,Automatic,235000,Riyadh,46000,False,South Korea
+Toyota,Avanza,2015,Saudi,White,Standard,2.4,Gas,Automatic,233000,Riyadh,28000,False,Japan
+Hyundai,Senta fe,2018,Saudi,Another Color,Semi Full,3.3,Gas,Automatic,31000,Riyadh,75000,False,South Korea
+Ford,Echo Sport,2021,Gulf Arabic,Silver,Semi Full,1.5,Gas,Automatic,1900,Riyadh,55000,False,America
+Chevrolet,Tahoe,2012,Saudi,Golden,Standard,5.3,Gas,Automatic,297000,Jeddah,52000,False,America
 Hyundai,Elantra,2018,Other,White,Standard,1.6,Diesel,Automatic,83000,Riyadh,50000,False,South Korea
-Kia,Sorento,2015,Saudi,Black,Full,3.8,Gas,Automatic,167160,Jubail,43000,False,South Korea
-Hyundai,Accent,2018,Saudi,Silver,Standard,1.4,Gas,Automatic,117000,Dammam,33000,False,South Korea
-Lexus,UX,2019,Gulf Arabic,Blue,Full,2.0,Gas,Automatic,7000,Dammam,165000,False,Japan
-Chevrolet,Cruze,2010,Saudi,White,Standard,1.8,Gas,Manual,184700,Riyadh,11000,False,America
-Chevrolet,Caprice,2007,Gulf Arabic,Another Color,Semi Full,6.0,Gas,Automatic,300,Riyadh,15000,False,America
-Lexus,ES,2016,Other,Bronze,Semi Full,3.5,Gas,Automatic,104000,Al-Ahsa,98000,False,Japan
-Ford,Taurus,2019,Saudi,White,Standard,2.0,Gas,Automatic,85828,Riyadh,80500,False,America
-Toyota,Rav4,2018,Saudi,White,Standard,2.5,Gas,Automatic,163000,Riyadh,69500,False,Japan
-Ford,Flex,2012,Saudi,Silver,Semi Full,3.5,Gas,Automatic,282000,Dammam,25000,False,America
-Toyota,Camry,2016,Saudi,Grey,Full,2.5,Gas,Automatic,176000,Al-Ahsa,69000,False,Japan
-Chevrolet,Impala,2019,Gulf Arabic,Black,Semi Full,3.6,Gas,Automatic,85000,Riyadh,73000,False,America
-GMC,Yukon,2010,Saudi,Golden,Standard,5.3,Gas,Automatic,352000,Riyadh,42000,False,America
+Mercedes,C,2019,Other,White,Semi Full,2.0,Gas,Automatic,35000,Dammam,145000,False,Germany
+Ford,Taurus,2017,Other,Grey,Full,3.5,Gas,Automatic,131000,Dammam,73000,False,America
+Toyota,Hilux,2014,Gulf Arabic,White,Full,2.4,Gas,Manual,230000,Riyadh,61000,False,Japan
+Hyundai,Creta,2020,Saudi,White,Standard,1.6,Gas,Automatic,13736,Riyadh,60000,False,South Korea
+Toyota,Innova,2014,Saudi,White,Standard,2.7,Gas,Manual,282000,Jubail,35000,False,Japan
+Hyundai,Sonata,2019,Saudi,Grey,Semi Full,2.4,Gas,Automatic,100000,Riyadh,50000,False,South Korea
+Hyundai,Elantra,2017,Saudi,Brown,Standard,2.0,Gas,Automatic,135000,Riyadh,35000,False,South Korea
+Nissan,Sentra,2016,Saudi,White,Standard,1.6,Gas,Automatic,188000,Riyadh,32000,False,Japan
+Hyundai,Sonata,2016,Saudi,White,Full,2.4,Gas,Automatic,155,Riyadh,48000,False,South Korea
 Lexus,LX,2014,Gulf Arabic,Golden,Semi Full,2.4,Gas,Automatic,168000,Aseer,190000,False,Japan
-Hummer,H3,2009,Saudi,Orange,Full,5.2,Gas,Automatic,200000,Al-Ahsa,38000,False,America
+Honda,Accord,2016,Gulf Arabic,Grey,Semi Full,2.4,Gas,Automatic,129000,Dammam,68000,False,Japan
+Ford,Expedition,2016,Saudi,Red,Standard,3.5,Gas,Automatic,70263,Riyadh,89000,False,America
+Honda,Accord,2017,Saudi,Navy,Full,3.5,Gas,Automatic,25400,Jeddah,90000,False,Japan
+Nissan,Sentra,2016,Saudi,White,Standard,1.6,Gas,Automatic,81000,Riyadh,38000,False,Japan
+Mazda,CX9,2017,Other,Grey,Full,3.0,Gas,Automatic,93000,Dammam,111000,False,Japan
 Hyundai,Sonata,2018,Saudi,Grey,Standard,2.4,Gas,Automatic,161796,Riyadh,54500,False,South Korea
-Mitsubishi,Lancer,2014,Saudi,White,Standard,1.0,Gas,Automatic,150000,Jeddah,16000,False,Japan
+Toyota,Furniture,2014,Saudi,White,Standard,2.7,Gas,Automatic,127000,Jeddah,57000,False,Japan
 Toyota,FJ,2014,Saudi,Black,Full,4.0,Gas,Automatic,190000,Jeddah,85000,False,Japan
-Hyundai,Elantra,2018,Saudi,Grey,Semi Full,1.6,Gas,Automatic,96000,Riyadh,47000,False,South Korea
-Nissan,Altima,2014,Saudi,Bronze,Semi Full,2.5,Gas,Automatic,139337,Riyadh,36500,False,Japan
-Toyota,Furniture,2021,Saudi,White,Standard,2.7,Gas,Automatic,980,Tabouk,120000,False,Japan
-Ford,Taurus,2017,Saudi,Blue,Standard,3.5,Gas,Automatic,128439,Riyadh,76500,False,America
-Toyota,Furniture,2019,Saudi,White,Full,4.0,Gas,Automatic,113000,Riyadh,105000,False,Japan
-Chevrolet,Tahoe,2008,Saudi,Black,Full,5.3,Gas,Automatic,250000,Riyadh,32000,False,America
+Mazda,CX3,2018,Saudi,Blue,Semi Full,2.9,Gas,Automatic,78000,Al-Medina,54000,False,Japan
+Lexus,RX,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,59000,Riyadh,188000,False,Japan
+Toyota,Hiace,2016,Saudi,White,Standard,2.7,Gas,Manual,331000,Riyadh,62000,False,Japan
+Chrysler,C300,2005,Other,Silver,Full,5.7,Gas,Automatic,331000,Dammam,15000,False,America
+Lexus,LS,2015,Saudi,White,Full,4.6,Gas,Automatic,132000,Dammam,165000,False,Japan
+Toyota,Land Cruiser,2018,Saudi,White,Full,3.8,Gas,Automatic,60048,Jeddah,173000,False,Japan
 Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,142000,Dammam,48000,False,Japan
-INFINITI,QX,2015,Saudi,Grey,Full,5.0,Gas,Automatic,123000,Riyadh,70000,False,Japan
-Lexus,ES,2016,Saudi,Black,Semi Full,3.5,Gas,Automatic,89000,Jeddah,95000,False,Japan
-Toyota,FJ,2017,Gulf Arabic,Grey,Full,1.6,Gas,Automatic,74658,Riyadh,135000,False,Japan
-Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,112972,Dammam,29000,False,South Korea
-Ford,Mustang,2015,Gulf Arabic,Silver,Full,6.0,Gas,Automatic,121000,Riyadh,85000,False,America
-Chevrolet,Impala,2014,Saudi,Navy,Semi Full,3.6,Gas,Automatic,80000,Riyadh,45000,False,America
-Honda,Accord,2019,Gulf Arabic,White,Standard,1.5,Gas,Automatic,28000,Qassim,88000,False,Japan
-Ford,Marquis,2001,Other,Silver,Standard,4.6,Gas,Automatic,293,Riyadh,10000,False,America
-Toyota,Furniture,2013,Saudi,Silver,Full,2.7,Gas,Automatic,182000,Jeddah,68500,False,Japan
-Hyundai,Azera,2021,Saudi,Grey,Standard,3.5,Gas,Automatic,10000,Jeddah,1800,False,South Korea
-Chevrolet,Malibu,2013,Gulf Arabic,Silver,Standard,2.5,Gas,Automatic,168000,Makkah,22000,False,America
-Land Rover,Range Rover,2013,Saudi,White,Full,5.6,Gas,Automatic,223000,Dammam,80000,False,England
-Dodge,Durango,2011,Saudi,White,Semi Full,5.7,Gas,Automatic,200900,Jeddah,30000,False,America
-Hyundai,Sonata,2017,Gulf Arabic,Grey,Semi Full,2.0,Gas,Automatic,130,Makkah,40000,False,South Korea
-Toyota,Avanza,2016,Saudi,White,Semi Full,1.5,Gas,Automatic,130000,Al-Ahsa,35000,False,Japan
-Nissan,Sunny,2019,Saudi,Another Color,Standard,1.5,Gas,Automatic,38920,Jeddah,33500,False,Japan
-Chrysler,C300,2005,Saudi,Black,Full,5.7,Gas,Automatic,300000,Jeddah,20000,False,America
-Hyundai,Elantra,2007,Saudi,Grey,Standard,1.6,Gas,Manual,191700,Taef,13000,False,South Korea
-GMC,Suburban,2004,Other,Black,Full,5.3,Gas,Automatic,452800,Jazan,18000,False,America
-GMC,Envoy,2009,Other,Another Color,Standard,4.2,Gas,Automatic,242000,Jeddah,14250,False,America
-Land Rover,Range Rover,2015,Saudi,Blue,Full,3.0,Gas,Automatic,105000,Dammam,190000,False,England
+Mercedes,C,2019,Other,Black,Semi Full,2.0,Gas,Automatic,22000,Dammam,180000,False,Germany
+Toyota,Corolla,2013,Saudi,White,Semi Full,1.6,Gas,Automatic,220000,Jazan,30000,False,Japan
+Toyota,Camry,2007,Saudi,White,Full,2.5,Gas,Automatic,420000,Al-Medina,25000,False,Japan
+GMC,Yukon,2015,Other,Golden,Semi Full,5.3,Gas,Automatic,292000,Aseer,75000,False,America
+GMC,Acadia,2014,Saudi,Black,Full,3.6,Gas,Automatic,193000,Dammam,58000,False,America
 Toyota,Rush,2020,Saudi,White,Semi Full,1.5,Gas,Automatic,19000,Aseer,61000,False,Japan
+Mercedes,E,2017,Saudi,Grey,Full,2.0,Gas,Automatic,20600,Dammam,210000,False,Germany
 Mercedes,CLS,2007,Saudi,Grey,Full,6.3,Gas,Automatic,340000,Dammam,21000,False,Germany
 Kia,Optima,2018,Gulf Arabic,White,Full,2.4,Gas,Automatic,83000,Dammam,75000,False,South Korea
 Lexus,ES,2013,Saudi,White,Semi Full,2.5,Gas,Automatic,239,Makkah,65000,False,Japan
 Dodge,Charger,2016,Saudi,Blue,Semi Full,5.7,Gas,Automatic,236335,Riyadh,78500,False,America
-Hyundai,Azera,2016,Other,White,Full,3.0,Gas,Automatic,111000,Dammam,86000,False,South Korea
-Toyota,Innova,2015,Saudi,Grey,Standard,2.7,Gas,Automatic,122000,Al-Medina,43000,False,Japan
-Nissan,Patrol,2019,Saudi,White,Full,4.0,Gas,Automatic,42000,Jeddah,185000,False,Japan
-Chevrolet,Malibu,2016,Saudi,Silver,Semi Full,2.5,Gas,Automatic,203000,Dammam,32000,False,America
-Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,100000,Jeddah,44000,False,Japan
+Toyota,Avalon,2011,Saudi,Black,Full,3.5,Gas,Automatic,150000,Makkah,58000,False,Japan
+Hyundai,Elantra,2016,Saudi,Grey,Standard,2.0,Gas,Automatic,117000,Riyadh,39000,False,South Korea
 Nissan,Altima,2015,Other,Black,Standard,2.5,Gas,Automatic,167000,Dammam,32000,False,Japan
-Ford,Victoria,2006,Saudi,Oily,Standard,4.6,Gas,Automatic,320000,Taef,19500,False,America
-Hyundai,Accent,2016,Saudi,White,Standard,1.4,Gas,Automatic,115,Riyadh,22500,False,South Korea
-Ford,Expedition,2010,Other,Silver,Full,5.7,Gas,Automatic,335000,Al-Medina,65000,False,America
-Chevrolet,Impala,2019,Gulf Arabic,White,Semi Full,3.6,Gas,Automatic,84000,Riyadh,77000,False,America
-Toyota,Furniture,2016,Saudi,White,Semi Full,2.4,Diesel,Automatic,120000,Al-Jouf,92000,False,Japan
-Hyundai,Elantra,2017,Saudi,White,Standard,1.6,Gas,Automatic,131889,Riyadh,36500,False,South Korea
-Chrysler,S300,2015,Other,White,Semi Full,3.6,Gas,Automatic,106000,Jeddah,75000,False,America
-Ford,Explorer,2010,Saudi,Silver,Full,3.5,Gas,Automatic,250000,Jeddah,21000,False,America
+Toyota,FJ,2017,Saudi,White,Full,7.5,Gas,Automatic,138000,Aseer,118000,False,Japan
+Peugeot,3008,2018,Saudi,Brown,Full,1.0,Gas,Automatic,30000,Riyadh,79000,False,France
+Mazda,CX9,2015,Saudi,Silver,Full,3.7,Gas,Automatic,260000,Dammam,63000,False,Japan
+Hyundai,Accent,2018,Saudi,Silver,Standard,1.4,Gas,Automatic,64126,Dammam,32000,False,South Korea
+Toyota,Prado,2019,Gulf Arabic,White,Full,4.0,Gas,Automatic,82000,Riyadh,149000,False,Japan
+Hyundai,Tucson,2016,Saudi,White,Standard,2.0,Gas,Automatic,155000,Dammam,45000,False,South Korea
+Toyota,Rush,2020,Saudi,White,Standard,1.5,Gas,Automatic,55000,Jeddah,52000,False,Japan
+Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,57000,Dammam,45000,False,Japan
+Hyundai,Elantra,2019,Saudi,Silver,Standard,1.6,Gas,Automatic,120244,Riyadh,43000,False,South Korea
+Toyota,Prado,2014,Saudi,White,Standard,4.0,Gas,Automatic,204566,Dammam,75000,False,Japan
+Nissan,Sylvian Bus,1998,Saudi,White,Standard,3.0,Gas,Manual,200000,Dammam,14000,False,Japan
+Toyota,Hilux,1999,Saudi,White,Semi Full,2.7,Gas,Manual,375,Abha,19000,False,Japan
+GMC,Yukon,2016,Other,White,Full,6.2,Gas,Automatic,126000,Riyadh,176000,False,America
+Hyundai,Accent,2017,Saudi,White,Semi Full,1.6,Gas,Automatic,110448,Riyadh,30000,False,South Korea
+Hyundai,Senta fe,2013,Saudi,Another Color,Semi Full,3.3,Gas,Automatic,205000,Riyadh,48000,False,South Korea
+Hyundai,Tucson,2018,Saudi,Silver,Standard,2.0,Gas,Automatic,120000,Jeddah,62000,False,South Korea
 Kia,Cadenza,2018,Saudi,Silver,Standard,3.3,Gas,Automatic,94000,Riyadh,55000,False,South Korea
-BMW,The 7,2010,Saudi,Bronze,Full,2.0,Gas,Automatic,205,Riyadh,45000,False,Germany
-Chevrolet,Tahoe,2016,Gulf Arabic,Golden,Semi Full,5.3,Gas,Automatic,97000,Riyadh,135000,False,America
-Kia,Cadenza,2017,Saudi,Another Color,Full,3.3,Gas,Automatic,88331,Riyadh,84500,False,South Korea
+Chevrolet,Caprice,2013,Saudi,Silver,Standard,6.0,Gas,Automatic,93000,Dammam,79000,False,America
+Ford,Marquis,2006,Saudi,Blue,Standard,3.5,Gas,Automatic,307000,Qassim,15000,False,America
+Kia,Cerato,2016,Other,White,Semi Full,1.6,Diesel,Automatic,62000,Qassim,44000,False,South Korea
+Mercedes,S,1995,Other,Another Color,Semi Full,3.0,Gas,Automatic,115,Al-Ahsa,21000,False,Germany
 GMC,Sierra,2021,Saudi,Black,Full,5.3,Gas,Automatic,2000,Dammam,190000,False,America
 Honda,Accord,2013,Saudi,Grey,Semi Full,2.4,Gas,Automatic,250920,Riyadh,55000,False,Japan
-Jeep,Cherokee,2016,Saudi,Black,Standard,2.4,Gas,Automatic,90000,Jeddah,41000,False,America
-Lexus,LX,2012,Saudi,White,Full,5.7,Gas,Automatic,201000,Dammam,152000,False,Japan
+Other,Other,2020,Other,Black,Standard,1.1,Gas,Manual,2848,Al-Baha,2000,False,Other
+Toyota,Innova,2018,Saudi,Another Color,Semi Full,2.7,Gas,Automatic,340000,Riyadh,67000,False,Japan
+Lexus,ES,2017,Other,White,Full,3.5,Gas,Automatic,69000,Dammam,142000,False,Japan
+Lexus,ES,2021,Saudi,Another Color,Standard,2.5,Gas,Automatic,6000,Dammam,175000,False,Japan
+Chrysler,C300,2008,Saudi,Blue,Full,5.7,Gas,Automatic,390000,Riyadh,25000,False,America
+Toyota,Land Cruiser,2013,Saudi,White,Semi Full,4.6,Gas,Automatic,283,Al-Medina,100000,False,Japan
+Toyota,Camry,2016,Gulf Arabic,White,Semi Full,2.5,Gas,Automatic,111,Riyadh,49000,False,Japan
 Lexus,ES,2016,Other,Black,Full,3.5,Gas,Automatic,130000,Aseer,115000,False,Japan
 Hyundai,Sonata,2016,Gulf Arabic,Blue,Full,1.5,Gas,Automatic,73000,Tabouk,63000,False,South Korea
-Nissan,Sunny,2020,Saudi,Silver,Standard,1.5,Gas,Automatic,8500,Riyadh,33000,False,Japan
-Toyota,Land Cruiser,2020,Saudi,White,Standard,4.0,Gas,Automatic,560,Riyadh,191500,False,Japan
-Toyota,Avanza,2016,Saudi,White,Standard,1.6,Gas,Automatic,160000,Riyadh,28000,False,Japan
-Hyundai,H1,2015,Saudi,Black,Semi Full,2.4,Gas,Automatic,131000,Al-Medina,42000,False,South Korea
-Ford,Expedition,2014,Saudi,Black,Semi Full,5.4,Gas,Automatic,184000,Jubail,52000,False,America
-Toyota,Camry,2008,Saudi,White,Standard,2.4,Gas,Manual,388000,Al-Baha,17000,False,Japan
-Toyota,Hilux,1990,Saudi,White,Standard,2.7,Gas,Manual,100,Al-Baha,15000,False,Japan
+Hyundai,Sonata,2018,Saudi,Another Color,Standard,2.4,Gas,Automatic,7400,Aseer,58000,False,South Korea
+Toyota,Hilux,2016,Saudi,White,Standard,2.7,Gas,Manual,165000,Dammam,63000,False,Japan
+Ford,Expedition,2013,Saudi,White,Standard,5.4,Gas,Automatic,78000,Dammam,64000,False,America
+Ford,Taurus,2010,Other,White,Semi Full,3.5,Gas,Automatic,117000,Dammam,29500,False,America
+Ford,Expedition,2013,Saudi,White,Full,5.0,Gas,Automatic,195000,Jeddah,70000,False,America
+Chevrolet,Blazer,2006,Saudi,Grey,Standard,3.6,Gas,Automatic,457000,Riyadh,10000,False,America
+Chrysler,C300,2008,Saudi,White,Semi Full,6.0,Gas,Automatic,212,Riyadh,12500,False,America
+Toyota,Hilux,2018,Saudi,White,Semi Full,2.7,Gas,Manual,201000,Dammam,85000,False,Japan
+Hyundai,Elantra,2017,Saudi,Another Color,Standard,1.6,Gas,Automatic,99000,Riyadh,38500,False,South Korea
 Mitsubishi,Pajero,2007,Saudi,White,Full,3.5,Gas,Automatic,360000,Aseer,17500,False,Japan
-BMW,X,2009,Saudi,Black,Full,3.0,Gas,Automatic,180000,Jeddah,35000,False,Germany
-Nissan,Gloria,1999,Saudi,White,Full,3.0,Gas,Automatic,147500,Riyadh,27500,False,Japan
-Ford,Taurus,2010,Other,Oily,Full,3.5,Gas,Automatic,254000,Dammam,35000,False,America
+Toyota,Furniture,2014,Saudi,White,Standard,2.7,Gas,Manual,182000,Dammam,50000,False,Japan
 Chevrolet,Spark,2019,Saudi,White,Semi Full,1.4,Gas,Automatic,58000,Riyadh,26000,False,America
-Honda,Accord,2016,Saudi,White,Semi Full,2.5,Gas,Automatic,92034,Riyadh,67000,False,Japan
-Hyundai,Elantra,2018,Saudi,White,Standard,2.0,Gas,Automatic,22640,Najran,1158,False,South Korea
-Toyota,Innova,2015,Saudi,White,Full,2.7,Gas,Automatic,198,Riyadh,48000,False,Japan
-Chevrolet,Silverado,2014,Saudi,Silver,Full,8.0,Gas,Automatic,48000,Al-Medina,100000,False,America
-Lexus,ES,2016,Gulf Arabic,White,Standard,3.5,Gas,Automatic,45000,Riyadh,112000,False,Japan
-Ford,Marquis,2008,Saudi,White,Semi Full,4.6,Gas,Automatic,380000,Taef,15000,False,America
+INFINITI,Q,2016,Saudi,Black,Standard,3.7,Gas,Automatic,13000,Dammam,95000,False,Japan
+Volkswagen,Passat,2015,Saudi,Black,Semi Full,2.5,Gas,Automatic,143000,Makkah,36000,False,Germany
+Nissan,KICKS,2020,Saudi,White,Standard,1.6,Gas,Automatic,17000,Riyadh,52000,False,Japan
 Kia,Rio,2017,Saudi,Blue,Standard,1.4,Gas,Automatic,116000,Qassim,29000,False,South Korea
-Honda,Accord,2018,Saudi,White,Semi Full,1.6,Gas,Automatic,32000,Jeddah,97000,False,Japan
-Mercedes,S,2010,Other,Navy,Semi Full,5.5,Gas,Automatic,228811,Al-Ahsa,70000,False,Germany
+Kia,Cerato,2016,Saudi,White,Standard,1.6,Gas,Automatic,34000,Riyadh,32000,False,South Korea
+Ford,Taurus,2016,Other,Black,Semi Full,3.5,Gas,Automatic,155000,Jeddah,59000,False,America
+Lexus,ES,2015,Saudi,Black,Full,3.6,Gas,Automatic,232000,Yanbu,90000,False,Japan
 Cadillac,Escalade,2016,Other,White,Full,6.2,Gas,Automatic,119000,Dammam,178000,False,America
-Toyota,Camry,2017,Saudi,Silver,Full,2.5,Gas,Automatic,75000,Dammam,73000,False,Japan
-Mazda,6,2019,Saudi,Black,Standard,2.5,Gas,Automatic,66000,Dammam,72000,False,Japan
+Ford,Expedition,2016,Saudi,White,Standard,5.4,Gas,Automatic,120000,Riyadh,72000,False,America
+Toyota,Innova,2018,Saudi,Grey,Standard,2.7,Gas,Automatic,70000,Jeddah,67000,False,Japan
 Toyota,Camry,2017,Saudi,White,Full,1.4,Gas,Automatic,13400,Riyadh,65000,False,Japan
-Cadillac,Escalade,2007,Other,White,Semi Full,8.0,Gas,Automatic,166000,Riyadh,48000,False,America
+Chevrolet,Tahoe,2013,Saudi,Brown,Semi Full,5.3,Gas,Automatic,250000,Riyadh,70000,False,America
+Chevrolet,Tahoe,2016,Saudi,White,Semi Full,5.3,Gas,Automatic,197000,Riyadh,92000,False,America
+Ford,Expedition,2012,Saudi,Grey,Standard,3.8,Gas,Automatic,86000,Riyadh,53000,False,America
 Kia,Optima,2015,Saudi,Navy,Semi Full,2.0,Gas,Automatic,191,Riyadh,38500,False,South Korea
 Mazda,6,2014,Saudi,Silver,Semi Full,2.0,Gas,Automatic,250000,Riyadh,31000,False,Japan
 Ford,Taurus,2013,Saudi,White,Semi Full,3.5,Gas,Automatic,280000,Riyadh,46000,False,America
-Ford,Mustang,2016,Gulf Arabic,Silver,Full,3.7,Gas,Automatic,240000,Dammam,89000,False,America
-Ford,Taurus,2013,Saudi,Silver,Standard,3.5,Gas,Automatic,87108,Riyadh,56500,False,America
+Chevrolet,Tahoe,2017,Other,Another Color,Semi Full,6.2,Gas,Automatic,105920,Riyadh,149000,False,America
+Toyota,Furniture,2008,Saudi,White,Full,4.0,Gas,Automatic,288000,Al-Medina,36000,False,Japan
+Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,62500,Dammam,37000,False,South Korea
 Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,183000,Riyadh,27000,False,South Korea
-Ford,Victoria,2011,Saudi,Black,Standard,4.6,Gas,Automatic,176000,Dammam,50000,False,America
+Ford,Explorer,2015,Saudi,Black,Semi Full,3.5,Gas,Automatic,160000,Al-Ahsa,65000,False,America
+Mercedes,S,2013,Gulf Arabic,Brown,Semi Full,3.0,Gas,Automatic,130000,Riyadh,115000,False,Germany
 Toyota,Avalon,2021,Saudi,White,Full,3.5,Gas,Automatic,100,Arar,185000,False,Japan
+GMC,Yukon,2018,Saudi,Silver,Standard,5.3,Gas,Automatic,196600,Dammam,130000,False,America
 GMC,Yukon,2002,Other,Black,Semi Full,5.3,Gas,Automatic,300000,Jeddah,10000,False,America
-Hyundai,Sonata,2018,Saudi,Black,Semi Full,2.4,Gas,Automatic,117000,Riyadh,63000,False,South Korea
-Chevrolet,Impala,2018,Saudi,Black,Standard,3.6,Gas,Automatic,52000,Riyadh,75000,False,America
+Toyota,Avalon,2014,Saudi,Black,Full,3.8,Gas,Automatic,156000,Al-Medina,73000,False,Japan
+Hyundai,Accent,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,72500,Dammam,40000,False,South Korea
+Kia,Sportage,2019,Saudi,Golden,Standard,1.6,Gas,Automatic,75000,Al-Ahsa,60000,False,South Korea
 Hyundai,Sonata,2019,Saudi,Brown,Full,2.4,Gas,Automatic,90000,Jeddah,61000,False,South Korea
-Toyota,Innova,2015,Saudi,White,Full,2.7,Gas,Automatic,170000,Makkah,50000,False,Japan
-Honda,Accord,2014,Saudi,White,Full,2.5,Gas,Automatic,215,Riyadh,45000,False,Japan
-Ford,Taurus,2017,Saudi,Silver,Standard,3.5,Gas,Automatic,132000,Dammam,65000,False,America
-Dodge,Challenger,2013,Saudi,Black,Full,5.7,Gas,Automatic,173,Jeddah,38000,False,America
-Chevrolet,Suburban,2011,Saudi,Black,Standard,5.3,Gas,Automatic,203000,Riyadh,52000,False,America
-GMC,Yukon,2018,Saudi,White,Standard,5.3,Gas,Automatic,133634,Riyadh,146500,False,America
-Hyundai,Senta fe,2015,Gulf Arabic,Grey,Semi Full,1.6,Gas,Automatic,158000,Dammam,54000,False,South Korea
-Ford,Mustang,2010,Saudi,Red,Semi Full,4.0,Gas,Manual,169000,Riyadh,50000,False,America
-Ford,Other,2016,Saudi,Another Color,Full,3.2,Gas,Automatic,15500,Riyadh,90000,False,America
-Lexus,ES,2016,Saudi,Grey,Semi Full,3.6,Gas,Automatic,200000,Jeddah,105000,False,Japan
-Mazda,6,2019,Saudi,Silver,Semi Full,2.5,Gas,Automatic,108000,Qassim,75000,False,Japan
-Toyota,Rav4,2018,Saudi,Black,Full,1.8,Gas,Automatic,63000,Makkah,90000,False,Japan
-Ford,Explorer,2013,Saudi,Black,Full,3.5,Gas,Automatic,14606,Riyadh,83500,False,America
-Ford,Van,2013,Saudi,White,Semi Full,6.8,Gas,Automatic,40000,Abha,40000,False,America
-Fiat,Doblo,2015,Saudi,White,Standard,1.4,Gas,Manual,119000,Al-Ahsa,25000,False,Italy
-Chevrolet,Cruze,2016,Gulf Arabic,White,Semi Full,1.8,Gas,Automatic,52000,Riyadh,45000,False,America
-GMC,Yukon,2017,Saudi,Silver,Standard,5.3,Gas,Automatic,137317,Dammam,130000,False,America
-Chevrolet,Malibu,2017,Saudi,White,Semi Full,2.5,Gas,Automatic,175000,Dammam,49000,False,America
-Chevrolet,Tahoe,2010,Saudi,Silver,Full,5.8,Gas,Automatic,340000,Tabouk,40000,False,America
-Nissan,Datsun,2016,Gulf Arabic,White,Semi Full,2.4,Gas,Manual,71000,Makkah,40000,False,Japan
+Nissan,Sunny,2019,Saudi,Grey,Standard,1.5,Gas,Automatic,86754,Riyadh,26000,False,Japan
+Toyota,Camry,1999,Saudi,White,Standard,2.4,Gas,Manual,400,Tabouk,20000,False,Japan
+Hyundai,Tucson,2020,Saudi,Silver,Semi Full,2.0,Gas,Automatic,58000,Makkah,1313,False,South Korea
+Toyota,Camry,2016,Saudi,Silver,Standard,2.5,Gas,Automatic,183541,Riyadh,53000,False,Japan
+Toyota,Land Cruiser 70,2018,Saudi,White,Standard,4.0,Gas,Manual,86852,Riyadh,109000,False,Japan
+Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,134000,Al-Ahsa,170000,False,Japan
+Toyota,Prado,2003,Gulf Arabic,White,Semi Full,4.0,Gas,Manual,450000,Riyadh,30000,False,Japan
+Lexus,ES,2013,Saudi,Black,Full,3.5,Gas,Automatic,349000,Riyadh,70000,False,Japan
+Audi,Q5,2018,Saudi,Grey,Full,2.0,Gas,Automatic,71000,Riyadh,164000,False,Germany
+Toyota,Land Cruiser,2015,Saudi,White,Semi Full,4.0,Gas,Automatic,212000,Dammam,145000,False,Japan
+BMW,The 7,2015,Saudi,Another Color,Full,3.5,Gas,Automatic,110000,Jeddah,105000,False,Germany
 Jeep,Wrangler,2010,Other,Black,Full,3.8,Gas,Manual,188,Riyadh,47000,False,America
-Mercedes,E,2017,Other,White,Full,2.0,Gas,Automatic,58000,Dammam,177000,False,Germany
-Hyundai,Sonata,2018,Saudi,Brown,Standard,2.4,Gas,Automatic,120966,Riyadh,49000,False,South Korea
-Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,127000,Dammam,29000,False,South Korea
-Renault,Capture,2017,Saudi,Bronze,Semi Full,1.6,Gas,Automatic,56000,Jeddah,42000,False,France
+Hyundai,Sonata,2017,Saudi,White,Full,2.4,Gas,Automatic,88718,Riyadh,58000,False,South Korea
+Nissan,VTC,2009,Saudi,White,Semi Full,4.8,Gas,Manual,251000,Riyadh,60000,False,Japan
+Mazda,6,2019,Saudi,Brown,Standard,2.5,Gas,Automatic,129000,Riyadh,65000,False,Japan
+Toyota,Land Cruiser,2017,Saudi,White,Standard,4.0,Gas,Automatic,127453,Riyadh,166500,False,Japan
 Mazda,CX9,2019,Saudi,Red,Full,2.5,Gas,Automatic,48000,Makkah,120000,False,Japan
-Mercedes,C,2016,Other,Silver,Full,2.0,Gas,Automatic,92000,Jeddah,120000,False,Germany
-Toyota,Prado,2013,Gulf Arabic,Golden,Semi Full,4.0,Gas,Automatic,270000,Riyadh,80000,False,Japan
-Dodge,Charger,2017,Other,Black,Full,3.6,Gas,Automatic,101000,Dammam,107000,False,America
-Kia,Cadenza,2017,Saudi,Black,Full,3.3,Gas,Automatic,88000,Riyadh,83000,False,South Korea
+Chevrolet,Impala,2019,Gulf Arabic,White,Standard,3.5,Gas,Automatic,16000,Riyadh,95000,False,America
+Ford,Explorer,2010,Other,Another Color,Standard,6.6,Gas,Automatic,190000,Jeddah,20000,False,America
+Hyundai,Elantra,2015,Saudi,Grey,Full,2.0,Gas,Automatic,169,Aseer,30000,False,South Korea
 Toyota,Innova,2018,Saudi,Grey,Standard,2.7,Gas,Automatic,87000,Jeddah,70000,False,Japan
-Ford,Explorer,2014,Saudi,Black,Standard,3.6,Gas,Automatic,158000,Riyadh,55000,False,America
-Audi,Q5,2018,Saudi,Grey,Full,2.0,Gas,Automatic,60000,Dammam,155000,False,Germany
-Hyundai,Sonata,2019,Saudi,Grey,Standard,2.4,Gas,Automatic,70676,Riyadh,59500,False,South Korea
-Land Rover,Range Rover,2007,Saudi,White,Full,8.9,Gas,Automatic,148,Riyadh,38000,False,England
-Toyota,Furniture,2012,Saudi,Black,Semi Full,2.0,Gas,Automatic,202245,Riyadh,41000,False,Japan
-GMC,Yukon,2014,Saudi,White,Full,5.3,Gas,Automatic,327000,Dammam,77000,False,America
+Ford,Expedition,2016,Gulf Arabic,White,Full,5.4,Gas,Automatic,81000,Riyadh,88000,False,America
+Hyundai,Accent,2015,Saudi,White,Standard,1.4,Gas,Automatic,105000,Dammam,24000,False,South Korea
 Chevrolet,Pick up,1981,Saudi,Red,Full,4.5,Gas,Automatic,350000,Al-Jouf,30000,False,America
+Toyota,Rav4,2018,Gulf Arabic,White,Full,2.5,Gas,Automatic,84000,Jubail,85000,False,Japan
 Chevrolet,Tahoe,2011,Saudi,Brown,Semi Full,5.3,Gas,Automatic,266000,Dammam,56000,False,America
-Toyota,Innova,2016,Saudi,Navy,Standard,2.7,Gas,Manual,141000,Jazan,56000,False,Japan
-Changan,CS75,2019,Saudi,Grey,Full,1.8,Gas,Automatic,83425,Riyadh,51500,False,China
-Hyundai,Sonata,2018,Saudi,Grey,Standard,2.4,Gas,Automatic,65000,Al-Ahsa,64000,False,South Korea
-Toyota,Camry,2016,Saudi,White,Full,2.5,Gas,Automatic,155000,Qassim,52000,False,Japan
-Nissan,Navara,2016,Saudi,White,Standard,2.5,Gas,Manual,185000,Hail,43000,False,Japan
-Mazda,6,2020,Saudi,White,Standard,2.5,Gas,Automatic,78000,Riyadh,76000,False,Japan
-Ford,Taurus,2015,Saudi,Black,Full,3.0,Gas,Automatic,197000,Riyadh,58000,False,America
-Toyota,Yaris,2015,Saudi,Black,Full,1.5,Gas,Automatic,203429,Riyadh,29000,False,Japan
+Toyota,Ciocca,2013,Other,Black,Full,5.7,Gas,Automatic,53000,Riyadh,90000,False,Japan
+Toyota,Land Cruiser Pickup,2021,Gulf Arabic,Brown,Full,4.0,Gas,Manual,1519,Riyadh,175000,False,Japan
+Lexus,GS,2013,Saudi,Bronze,Semi Full,3.5,Gas,Automatic,287000,Riyadh,85000,False,Japan
+Land Rover,Range Rover,2004,Saudi,Navy,Full,5.3,Gas,Automatic,300000,Makkah,22000,False,England
 Jaguar,F Type,2016,Gulf Arabic,Red,Full,3.0,Gas,Automatic,42000,Dammam,190000,False,England
 MINI,Copper,2016,Gulf Arabic,Blue,Semi Full,2.0,Gas,Automatic,75000,Jeddah,80000,False,England
-Hyundai,Azera,2016,Saudi,Grey,Semi Full,3.0,Gas,Automatic,199100,Riyadh,52000,False,South Korea
-Mercedes,S,2015,Other,Black,Full,3.0,Gas,Automatic,109000,Riyadh,199000,False,Germany
-Kia,Optima,2015,Saudi,Navy,Semi Full,2.0,Gas,Automatic,359397,Riyadh,35000,False,South Korea
-Chrysler,S300,2018,Other,Silver,Full,3.6,Gas,Automatic,105000,Dammam,119000,False,America
+Chevrolet,Tahoe,2016,Saudi,Another Color,Semi Full,5.3,Gas,Automatic,123496,Riyadh,130000,False,America
+Lexus,LX,2015,Saudi,White,Full,5.7,Gas,Automatic,248,Aseer,200000,False,Japan
+Toyota,Corolla,2018,Saudi,White,Standard,1.5,Gas,Automatic,98257,Dammam,49000,False,Japan
+Toyota,Land Cruiser Pickup,2015,Saudi,Brown,Semi Full,4.0,Gas,Manual,96000,Tabouk,95000,False,Japan
 Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4.0,Gas,Automatic,77000,Dammam,139000,False,Japan
+Chevrolet,Tahoe,2016,Saudi,Another Color,Semi Full,5.3,Gas,Automatic,147000,Abha,120000,False,America
+Nissan,VTC,2006,Saudi,Brown,Standard,4.0,Gas,Automatic,317109,Riyadh,35000,False,Japan
 GMC,Yukon,2007,Saudi,Bronze,Semi Full,5.0,Gas,Automatic,303000,Riyadh,36000,False,America
 Toyota,Camry,2016,Saudi,Blue,Full,2.5,Gas,Automatic,164000,Jeddah,51000,False,Japan
-Lexus,GS,2019,Gulf Arabic,Grey,Semi Full,3.5,Gas,Automatic,62000,Riyadh,170000,False,Japan
-Nissan,Patrol,1992,Saudi,White,Standard,4.6,Gas,Manual,357000,Dammam,27000,False,Japan
-Toyota,Land Cruiser,2014,Saudi,White,Full,4.0,Gas,Automatic,210600,Riyadh,120000,False,Japan
-Lexus,ES,2016,Other,Grey,Full,3.5,Gas,Automatic,50000,Dammam,126000,False,Japan
+Ford,Edge,2018,Saudi,Silver,Standard,1.5,Gas,Automatic,60000,Al-Medina,85000,False,America
+Kia,Cadenza,2019,Saudi,Brown,Standard,3.3,Gas,Automatic,73000,Riyadh,65000,False,South Korea
+Hyundai,Sonata,2011,Saudi,White,Semi Full,2.0,Gas,Automatic,336000,Riyadh,21000,False,South Korea
 Mazda,6,2018,Saudi,Grey,Full,2.4,Gas,Automatic,42000,Jeddah,86000,False,Japan
 Hyundai,Sonata,2017,Other,Black,Semi Full,1.7,Diesel,Automatic,82190,Qassim,63000,False,South Korea
+Hyundai,Elantra,2016,Other,White,Full,1.6,Diesel,Automatic,74000,Jeddah,50000,False,South Korea
+Land Rover,Range Rover,2009,Saudi,Black,Full,5.0,Gas,Automatic,195000,Jeddah,45000,False,England
 Hyundai,Sonata,2019,Saudi,Silver,Semi Full,2.4,Gas,Automatic,53000,Dammam,79000,False,South Korea
-Ford,Expedition,2012,Saudi,Silver,Standard,5.4,Gas,Automatic,207000,Dammam,47000,False,America
+Toyota,Yaris,2016,Other,Silver,Standard,1.5,Gas,Automatic,223000,Jubail,25000,False,Japan
+Renault,Logan,2014,Saudi,Silver,Semi Full,1.6,Gas,Manual,210,Riyadh,10000,False,France
 Hyundai,H1,2016,Saudi,White,Standard,2.4,Gas,Automatic,154000,Al-Ahsa,54000,False,South Korea
-Dodge,Charger,2016,Other,Navy,Full,1.7,Gas,Automatic,140,Al-Medina,65000,False,America
+Hyundai,Creta,2017,Saudi,Silver,Semi Full,1.6,Gas,Automatic,120000,Jeddah,50000,False,South Korea
 Ford,Ranger,2011,Saudi,White,Full,2.5,Gas,Manual,168000,Riyadh,24000,False,America
-Chevrolet,Suburban,2013,Saudi,Silver,Full,5.3,Gas,Automatic,283000,Dammam,69000,False,America
-Chevrolet,Tahoe,2013,Saudi,Brown,Semi Full,5.3,Gas,Automatic,342000,Riyadh,53000,False,America
-Kia,Opirus,2009,Saudi,White,Semi Full,6.0,Gas,Automatic,216000,Yanbu,16000,False,South Korea
+Nissan,X-Trail,2006,Saudi,White,Standard,2.5,Gas,Automatic,238000,Dammam,13000,False,Japan
 Ford,F150,2019,Saudi,Brown,Semi Full,5.7,Gas,Automatic,59000,Aseer,2665,False,America
-Chevrolet,Spark,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,63744,Riyadh,25000,False,America
-Lexus,RX,2016,Saudi,Grey,Full,3.5,Gas,Automatic,69070,Jeddah,180000,False,Japan
-Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,87537,Riyadh,26800,False,Japan
-Chevrolet,Impala,2014,Saudi,White,Semi Full,3.6,Gas,Automatic,181000,Riyadh,60000,False,America
-Chevrolet,Caprice,2009,Saudi,Blue,Standard,6.0,Gas,Manual,230945,Tabouk,15000,False,America
-Hyundai,Accent,2018,Saudi,White,Semi Full,1.4,Gas,Automatic,51000,Hafar Al-Batin,35000,False,South Korea
+Renault,Symbol,2020,Saudi,White,Standard,1.6,Gas,Automatic,27000,Jeddah,25000,False,France
+Kia,Carnival,2016,Saudi,Bronze,Semi Full,3.3,Gas,Automatic,243000,Dammam,46000,False,South Korea
 GMC,Sierra,2016,Saudi,White,Full,5.3,Gas,Automatic,82576,Riyadh,120000,False,America
-Ford,Taurus,2015,Saudi,Another Color,Semi Full,3.5,Gas,Automatic,262000,Riyadh,55000,False,America
-Lexus,RX,2015,Saudi,Brown,Full,3.5,Gas,Automatic,80885,Jeddah,126500,False,Japan
-Toyota,Furniture,2017,Saudi,Silver,Full,2.7,Gas,Automatic,236000,Riyadh,75000,False,Japan
+Genesis,G80,2019,Saudi,White,Full,3.0,Gas,Automatic,52000,Riyadh,130000,False,South Korea
+Hyundai,Senta fe,2014,Saudi,Black,Full,3.3,Gas,Automatic,201421,Riyadh,57500,False,South Korea
+Ford,Expedition,2014,Saudi,Navy,Standard,5.4,Gas,Automatic,75000,Riyadh,60000,False,America
 GMC,Suburban,2006,Saudi,Silver,Full,5.3,Gas,Automatic,86000,Riyadh,50000,False,America
 Toyota,Hilux,2018,Saudi,White,Standard,2.7,Gas,Manual,59000,Jeddah,66000,False,Japan
-GMC,Yukon,2010,Gulf Arabic,Golden,Semi Full,5.3,Gas,Automatic,335000,Riyadh,32000,False,America
-Hyundai,Elantra,2019,Saudi,Silver,Standard,1.6,Gas,Automatic,108650,Riyadh,43000,False,South Korea
-Hyundai,Sonata,2012,Saudi,White,Full,2.5,Gas,Automatic,221000,Riyadh,30000,False,South Korea
-Mitsubishi,Pajero,2016,Gulf Arabic,White,Full,3.8,Gas,Automatic,200,Al-Medina,60000,False,Japan
-Toyota,Camry,2017,Saudi,Blue,Full,2.5,Gas,Automatic,31000,Al-Baha,75000,False,Japan
-Mazda,CX9,2020,Saudi,White,Standard,2.5,Gas,Automatic,20000,Jeddah,115000,False,Japan
-Toyota,Corolla,2014,Gulf Arabic,White,Full,1.6,Gas,Automatic,197,Al-Ahsa,29000,False,Japan
-GMC,Yukon,2020,Other,Black,Full,5.3,Gas,Automatic,63860,Jeddah,175000,False,America
-Renault,Duster,2017,Saudi,Silver,Standard,2.0,Gas,Automatic,83000,Riyadh,26000,False,France
+Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,104688,Riyadh,26000,False,Japan
+Honda,Odyssey,2015,Saudi,Black,Standard,3.5,Gas,Automatic,152000,Dammam,45000,False,Japan
+Hyundai,Accent,2017,Saudi,Brown,Standard,1.4,Gas,Automatic,186000,Dammam,30000,False,South Korea
+Toyota,Land Cruiser,2003,Gulf Arabic,Another Color,Semi Full,1.0,Gas,Automatic,479364,Riyadh,35000,False,Japan
+Toyota,Land Cruiser,2011,Saudi,White,Semi Full,4.5,Gas,Automatic,183000,Riyadh,92000,False,Japan
+Toyota,Yaris,2018,Saudi,Grey,Standard,1.5,Gas,Automatic,68000,Jeddah,35000,False,Japan
+Toyota,Yaris,2018,Saudi,Silver,Standard,1.5,Gas,Automatic,114000,Jeddah,32000,False,Japan
+Kia,Rio,2017,Saudi,White,Standard,1.4,Gas,Automatic,180818,Riyadh,27500,False,South Korea
 Toyota,Hilux,2016,Saudi,White,Semi Full,2.7,Gas,Manual,156495,Riyadh,62500,False,Japan
 GMC,Sierra,2008,Saudi,White,Standard,5.3,Gas,Automatic,194,Dammam,39500,False,America
-Mercedes,E,2018,Saudi,White,Semi Full,2.0,Gas,Automatic,102000,Jeddah,155000,False,Germany
-Hyundai,Elantra,2018,Other,White,Standard,1.6,Diesel,Automatic,45000,Riyadh,54000,False,South Korea
-Chevrolet,Impala,2017,Saudi,White,Semi Full,3.6,Gas,Automatic,79000,Riyadh,63500,False,America
-Toyota,Yaris,2017,Saudi,Green,Standard,1.5,Gas,Automatic,133000,Dammam,29000,False,Japan
-MINI,Copper,2016,Gulf Arabic,Grey,Full,2.0,Gas,Automatic,110000,Dammam,83000,False,England
-Toyota,Innova,2017,Saudi,White,Full,2.7,Gas,Automatic,175559,Riyadh,76500,False,Japan
-Ford,Taurus,2016,Other,White,Full,3.5,Gas,Automatic,72000,Dammam,75000,False,America
-Nissan,Sunny,2017,Saudi,Silver,Standard,1.5,Gas,Automatic,76672,Dammam,28000,False,Japan
-Toyota,Land Cruiser,2014,Saudi,White,Semi Full,4.6,Gas,Automatic,346000,Taef,130000,False,Japan
-Chevrolet,Tahoe,2013,Saudi,Golden,Semi Full,5.3,Gas,Automatic,248000,Al-Ahsa,49000,False,America
-Toyota,Hilux,2014,Saudi,White,Full,2.7,Gas,Manual,98000,Najran,70000,False,Japan
+Chevrolet,Tahoe,2016,Saudi,White,Standard,5.3,Gas,Automatic,139000,Riyadh,110000,False,America
+Kia,Cores,2015,Saudi,Another Color,Full,3.5,Gas,Automatic,75000,Dammam,75000,False,South Korea
+Hyundai,Accent,2017,Saudi,White,Semi Full,1.6,Gas,Automatic,207135,Riyadh,30000,False,South Korea
+Toyota,Camry,2009,Saudi,White,Standard,1.6,Gas,Automatic,300000,Abha,24000,False,Japan
+Hyundai,Sonata,2018,Saudi,Grey,Full,2.4,Gas,Automatic,49271,Riyadh,81500,False,South Korea
+Ford,Explorer,2006,Other,Grey,Semi Full,3.5,Gas,Automatic,405000,Riyadh,18000,False,America
+GMC,Yukon,2010,Saudi,Black,Semi Full,5.0,Gas,Automatic,204000,Riyadh,44000,False,America
+Dodge,Charger,2016,Saudi,Navy,Full,6.2,Gas,Automatic,99000,Riyadh,215000,False,America
+Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,98000,Jeddah,35000,False,South Korea
+Mercury,Grand Marquis,2011,Saudi,Blue,Semi Full,4.6,Gas,Automatic,300000,Dammam,27000,False,America
+Mercedes,E,2014,Gulf Arabic,White,Standard,2.0,Gas,Automatic,49000,Dammam,75000,False,Germany
+Chevrolet,Silverado,2018,Saudi,White,Standard,5.3,Gas,Automatic,57000,Dammam,89000,False,America
+Ford,Flex,2015,Saudi,White,Standard,3.5,Gas,Automatic,93000,Riyadh,45000,False,America
+Toyota,Camry,2017,Unknown,White,Standard,2.5,Gas,Automatic,120000,Abha,59000,False,Japan
 MG,5,2020,Saudi,White,Standard,1.5,Gas,Automatic,3500,Dammam,41000,False,England
+Toyota,Corolla,2016,Other,White,Standard,5.8,Gas,Automatic,114,Tabouk,35000,False,Japan
 Hyundai,H1,2015,Saudi,White,Semi Full,2.4,Gas,Automatic,140000,Riyadh,55000,False,South Korea
-Changan,Eado,2021,Saudi,Brown,Full,1.6,Gas,Automatic,1000,Jeddah,60000,False,China
-Hyundai,Sonata,2019,Saudi,White,Standard,2.4,Gas,Automatic,49515,Riyadh,68000,False,South Korea
+Chevrolet,Suburban,2016,Other,Bronze,Full,5.3,Gas,Automatic,192000,Dammam,143000,False,America
+Suzuki,D'max,2001,Other,White,Full,1.0,Diesel,Manual,1000,Jeddah,7000,False,Japan
+Hyundai,Elantra,2017,Saudi,Grey,Standard,2.0,Gas,Automatic,146000,Riyadh,40000,False,South Korea
 Chevrolet,Tahoe,2018,Other,Grey,Semi Full,5.3,Gas,Automatic,176140,Riyadh,153000,False,America
-Toyota,Land Cruiser,2012,Saudi,White,Full,4.6,Gas,Automatic,180,Al-Jouf,110000,False,Japan
 Toyota,Furniture,2015,Saudi,White,Semi Full,4.0,Gas,Automatic,103000,Dammam,86000,False,Japan
 Chrysler,300,2016,Gulf Arabic,White,Full,3.5,Gas,Automatic,16000,Riyadh,90000,False,America
-Ford,Expedition,2013,Saudi,Black,Standard,5.4,Gas,Automatic,84000,Dammam,72000,False,America
+BMW,The 4,2015,Saudi,White,Semi Full,2.0,Gas,Automatic,88335,Riyadh,126500,False,Germany
+Honda,Accord,2015,Saudi,White,Standard,2.4,Gas,Automatic,85000,Dammam,69000,False,Japan
+Toyota,Corolla,2015,Saudi,Silver,Semi Full,1.6,Gas,Automatic,201000,Jeddah,35000,False,Japan
 Jeep,Grand Cherokee,2014,Saudi,Grey,Full,5.8,Gas,Automatic,270000,Jeddah,60000,False,America
-Chevrolet,Cruze,2013,Saudi,Brown,Standard,1.6,Gas,Automatic,181000,Makkah,10000,False,America
-Toyota,Hilux,2015,Saudi,White,Full,2.7,Gas,Manual,180,Jazan,50000,False,Japan
-Toyota,Land Cruiser,2017,Saudi,White,Semi Full,4.6,Gas,Automatic,125188,Riyadh,171500,False,Japan
-Volkswagen,Passat,2018,Saudi,White,Semi Full,2.5,Gas,Automatic,59000,Hail,2402,False,Germany
-Toyota,Innova,2018,Saudi,Grey,Full,2.7,Gas,Automatic,149000,Dammam,68000,False,Japan
+Dodge,Charger,2013,Saudi,Grey,Full,5.7,Gas,Automatic,198000,Al-Medina,39000,False,America
+Nissan,Pathfinder,2014,Saudi,Grey,Standard,3.5,Gas,Automatic,367000,Dammam,37000,False,Japan
+BMW,X,2015,Saudi,Black,Full,3.6,Hybrid,Automatic,62300,Dammam,140000,False,Germany
+Honda,City,2017,Saudi,White,Standard,1.5,Gas,Automatic,92000,Dammam,28000,False,Japan
+Chrysler,C300,2018,Saudi,Black,Full,5.7,Gas,Automatic,70276,Riyadh,126500,False,America
+Mercedes,SEL,1991,Other,Navy,Full,5.6,Gas,Automatic,17000,Jeddah,100000,False,Germany
 Ford,F150,2019,Gulf Arabic,White,Standard,5.0,Gas,Automatic,22000,Qassim,110000,False,America
 Chevrolet,Suburban,2017,Saudi,Another Color,Full,5.3,Gas,Automatic,184000,Dammam,137000,False,America
-Hyundai,Elantra,2017,Gulf Arabic,White,Semi Full,2.0,Gas,Automatic,43000,Hafar Al-Batin,49000,False,South Korea
+Hyundai,Azera,2017,Saudi,Another Color,Standard,3.0,Gas,Automatic,107154,Riyadh,61000,False,South Korea
+BMW,The 7,2015,Gulf Arabic,Another Color,Full,3.6,Gas,Automatic,142000,Riyadh,110000,False,Germany
 Toyota,Land Cruiser,2007,Saudi,White,Standard,4.5,Gas,Manual,480000,Dammam,65000,False,Japan
-Chrysler,C300,2015,Other,White,Semi Full,3.6,Gas,Automatic,109000,Al-Ahsa,70000,False,America
-Chevrolet,Suburban,2015,Saudi,Golden,Standard,5.3,Gas,Automatic,198506,Riyadh,111500,False,America
-Toyota,Corolla,2013,Saudi,White,Semi Full,1.6,Gas,Automatic,296,Jazan,30000,False,Japan
-Nissan,Altima,2016,Saudi,White,Standard,2.5,Gas,Automatic,112915,Riyadh,49000,False,Japan
+Nissan,Patrol,2019,Gulf Arabic,White,Semi Full,4.0,Gas,Automatic,72000,Najran,160000,False,Japan
+Toyota,Yaris,2017,Saudi,White,Standard,1.3,Gas,Automatic,100000,Makkah,27000,False,Japan
+Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,128000,Riyadh,35000,False,South Korea
+Kia,Sportage,2018,Gulf Arabic,White,Semi Full,2.4,Gas,Automatic,77000,Riyadh,58000,False,South Korea
 Toyota,Camry,2017,Saudi,White,Standard,2.5,Gas,Automatic,125000,Dammam,66000,False,Japan
+Jaguar,XJ,2014,Saudi,Another Color,Full,3.0,Gas,Automatic,112000,Dammam,95000,False,England
 Toyota,Camry,2017,Saudi,Silver,Full,2.5,Gas,Automatic,253641,Qassim,62000,False,Japan
-Toyota,Camry,2017,Saudi,White,Full,2.5,Gas,Automatic,95794,Riyadh,74500,False,Japan
-Maserati,Quattroporte,2015,Saudi,Navy,Full,3.0,Gas,Automatic,125000,Dammam,125000,False,Italy
-Mazda,CX9,2020,Saudi,Silver,Standard,2.5,Gas,Automatic,31200,Dammam,110000,False,Japan
-Hyundai,Accent,2018,Saudi,Silver,Standard,1.4,Gas,Automatic,97300,Dammam,31000,False,South Korea
-Ford,Taurus,2013,Saudi,Silver,Standard,3.5,Gas,Automatic,53393,Riyadh,57500,False,America
+Toyota,Hiace,2015,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,200000,Riyadh,47000,False,Japan
+Hyundai,Azera,2018,Saudi,Blue,Standard,3.5,Gas,Automatic,98530,Riyadh,56500,False,South Korea
+Ford,Expedition,2018,Saudi,Another Color,Full,3.6,Gas,Automatic,44200,Dammam,159000,False,America
+Audi,A3,2016,Saudi,Navy,Full,1.4,Gas,Automatic,59000,Jeddah,70000,False,Germany
+Ford,Victoria,2011,Other,Black,Full,4.6,Gas,Automatic,342,Najran,23000,False,America
 Toyota,Camry,2017,Gulf Arabic,White,Semi Full,2.5,Gas,Automatic,119550,Riyadh,66500,False,Japan
-Nissan,Datsun,2015,Other,White,Semi Full,2.4,Gas,Manual,108500,Riyadh,27500,False,Japan
-Kia,Sorento,2017,Saudi,Another Color,Semi Full,3.5,Gas,Automatic,79260,Dammam,70000,False,South Korea
-Toyota,Furniture,2017,Saudi,White,Full,4.0,Gas,Automatic,30000,Riyadh,118000,False,Japan
-Toyota,Land Cruiser,2016,Saudi,White,Full,4.6,Gas,Automatic,228000,Dammam,160000,False,Japan
-Hyundai,Bus County,2016,Saudi,Another Color,Standard,3.9,Diesel,Manual,132852,Riyadh,85000,False,South Korea
-Ford,Taurus,2015,Saudi,Black,Semi Full,3.6,Gas,Automatic,203000,Riyadh,55000,False,America
-Dodge,Durango,2011,Saudi,Grey,Full,5.7,Gas,Automatic,199000,Riyadh,40000,False,America
-Mazda,CX9,2020,Saudi,Grey,Full,4.0,Gas,Automatic,51000,Riyadh,130000,False,Japan
+Toyota,Land Cruiser,2019,Gulf Arabic,White,Full,4.6,Gas,Manual,74000,Dammam,180000,False,Japan
+Toyota,Avalon,2017,Saudi,White,Full,3.5,Gas,Automatic,180000,Taef,95000,False,Japan
+Toyota,Land Cruiser,2012,Saudi,White,Semi Full,6.6,Gas,Manual,109,Al-Baha,120000,False,Japan
+Mazda,6,2019,Saudi,Grey,Standard,2.5,Gas,Automatic,64970,Riyadh,69500,False,Japan
+Hyundai,Sonata,2016,Saudi,Silver,Semi Full,2.4,Gas,Automatic,96400,Riyadh,49000,False,South Korea
 Toyota,Hiace,2016,Saudi,White,Standard,2.7,Gas,Manual,218000,Riyadh,69500,False,Japan
-Nissan,Patrol,2013,Saudi,Golden,Semi Full,5.6,Gas,Automatic,442000,Riyadh,85000,False,Japan
-Kia,Optima,2019,Saudi,Brown,Standard,2.0,Gas,Automatic,91000,Qassim,1440,False,South Korea
-Toyota,Yaris,2017,Saudi,Grey,Standard,1.5,Gas,Automatic,12500,Tabouk,32000,False,Japan
-Honda,Odyssey,2016,Gulf Arabic,Black,Full,3.5,Gas,Automatic,80000,Riyadh,72000,False,Japan
-Toyota,Hilux,2016,Saudi,White,Standard,2.4,Gas,Manual,250000,Dammam,58000,False,Japan
+Ford,Edge,2011,Saudi,White,Full,3.5,Gas,Automatic,231000,Riyadh,35000,False,America
+Mitsubishi,Pajero,2012,Saudi,White,Standard,3.8,Gas,Automatic,86487,Riyadh,41500,False,Japan
+Kia,Cadenza,2018,Saudi,Silver,Semi Full,3.5,Gas,Automatic,172000,Riyadh,68000,False,South Korea
+Ford,Explorer,2010,Saudi,White,Standard,6.0,Gas,Automatic,244,Al-Medina,17500,False,America
+Toyota,Land Cruiser,2017,Gulf Arabic,White,Semi Full,5.7,Gas,Automatic,100000,Riyadh,210000,False,Japan
+Ford,Explorer,2010,Saudi,Oily,Semi Full,6.0,Gas,Automatic,165000,Dammam,25000,False,America
+Hyundai,Sonata,2018,Saudi,Grey,Semi Full,2.4,Gas,Automatic,179000,Makkah,42000,False,South Korea
+Ford,F150,2017,Saudi,White,Full,2.8,Gas,Automatic,28000,Al-Medina,175000,False,America
 Chevrolet,Silverado,1985,Other,Blue,Full,5.3,Gas,Automatic,200,Dammam,30000,False,America
-Hyundai,Elantra,2018,Saudi,Grey,Standard,1.6,Gas,Automatic,144000,Jeddah,45000,False,South Korea
+Kia,Picanto,2010,Saudi,Grey,Standard,1.0,Gas,Manual,200000,Jeddah,10000,False,South Korea
+Kia,Cerato,2016,Saudi,White,Semi Full,1.6,Gas,Automatic,150000,Jeddah,30000,False,South Korea
 Kia,Cadenza,2017,Saudi,Silver,Standard,3.3,Gas,Automatic,83000,Riyadh,50000,False,South Korea
-Toyota,Camry,2014,Saudi,White,Standard,2.5,Gas,Automatic,220,Riyadh,46000,False,Japan
 Land Rover,Range Rover,2009,Saudi,Blue,Full,5.0,Gas,Automatic,214000,Al-Medina,85000,False,England
-Toyota,Furniture,2016,Gulf Arabic,Grey,Full,2.7,Gas,Automatic,185000,Riyadh,73000,False,Japan
-Renault,Symbol,2020,Saudi,White,Standard,1.6,Gas,Automatic,46505,Riyadh,26000,False,France
+Hyundai,Tucson,2016,Saudi,Grey,Standard,2.0,Gas,Automatic,155000,Dammam,45000,False,South Korea
+Mercedes,CLA,2019,Gulf Arabic,White,Full,2.0,Gas,Automatic,28000,Riyadh,149000,False,Germany
