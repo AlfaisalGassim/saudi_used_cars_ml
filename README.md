@@ -168,7 +168,10 @@ Data columns (total 14 columns):
 
 
 ## Machine Learning
-
+For the machine learning we've created three models:
+- Linear Regression model
+- Decision Tree model
+- K-Nearest Neighbors model
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
